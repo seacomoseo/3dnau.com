@@ -1,6 +1,6 @@
-# var_proj
+# 3dnau.com
 
-[![var_proj](/assets/media/base/icon.png)](https://var_proj/)
+[![3dnau.com](/assets/media/base/icon.png)](https://3dnau.com/)
 
 
 ## STEPS
@@ -9,14 +9,14 @@
 ### Local
 
 - If new project (not fork):
-  - Copy [var_proj project files](https://github.com/var_user/var_proj)
+  - Copy [3dnau.com project files](https://github.com/3dnau/3dnau.com)
   - `git submodule add https://github.com/seacomoseo/sansoul.git themes/sansoul`
 - Else if fork:
   - Download submódule theme files: `git submodule update --init --recursive`
 - If you want use svg emojies:
   - `git submodule add https://github.com/seacomoseo/sansoul-emojies.git layouts/partials/svg/emojis`
 - Now you can see the run project in the browser with the `do server` comand
-- `README.md` ⏩ edit baseURL ("var_proj") + delete steps bit by bit
+- `README.md` ⏩ edit baseURL ("3dnau.com") + delete steps bit by bit
 - Design
   - You can edit any file with the same structure of theme sansoul
   - GENERAL
@@ -87,29 +87,29 @@
 #### Domain
 
 - If Netlify
-  - [`Domain Management / settings`](https://app.netlify.com/sites/var_user/settings/domain)
+  - [`Domain Management / settings`](https://app.netlify.com/sites/3dnau/settings/domain)
   - `Add custom domain`
   - `Check DNS configuration` Copy
   - Add `DNS Records` copied from Netlify to Domain gestor:
-    - From: `var_proj`
+    - From: `3dnau.com`
       DNS Record: `ALIAS`, `ANAME` or `flattened CNAME`
       To: `apex-loadbalancer.netlify.com`
-    - From: `var_proj`
+    - From: `3dnau.com`
       DNS Record: `A`
       To: `75.2.60.5`
     - From: `www`
       DNS Record: `CNAME`
-      To: `var_user.netlify.app.`
+      To: `3dnau.netlify.app.`
     - Maybe you need to eliminate the previous records with similar names
   - `Verify DNS configuration`
   - If it does not work after a while, try `Set as main domain` in the `www` version and also in te `nowww` version
 - If Cloudflare Pages
-  - [Custom domains](https://dash.cloudflare.com/?to=/:account/pages/view/var_user/domains)
+  - [Custom domains](https://dash.cloudflare.com/?to=/:account/pages/view/3dnau/domains)
   - `Set up a custom domains`
-  - `var_proj`
+  - `3dnau.com`
   - `Continue`
   - `Activate domain` (if `Begin DNS transfer` end)
-  - Repeat with `www.var_proj`
+  - Repeat with `www.3dnau.com`
   - ...........................................................
 
 
@@ -117,11 +117,11 @@
 
 - If Netlify Form
   - Don't need configure nothing! Build like you want in local or with CMS
-  - [`Netlify ⏩ Site ⏩ Forms ⏩ Form Notifications`](https://app.netlify.com/sites/var_user/settings/forms#form-notifications) ⏩ `Add notification ⏩ Email notification ⏩ Email to Notify`
+  - [`Netlify ⏩ Site ⏩ Forms ⏩ Form Notifications`](https://app.netlify.com/sites/3dnau/settings/forms#form-notifications) ⏩ `Add notification ⏩ Email notification ⏩ Email to Notify`
     - `Email to notify` = Emails of collaborators that want receive submissions
-    - `Custom email subject line` = `Formulario de contacto de var_proj`
+    - `Custom email subject line` = `Formulario de contacto de 3dnau.com`
     - `Save`
-  - Submissions: [`Netlify site ⏩ Forms`](https://app.netlify.com/sites/var_user/forms)
+  - Submissions: [`Netlify site ⏩ Forms`](https://app.netlify.com/sites/3dnau/forms)
 - If Cloudflare Workers
   - ...........................................................
 - [formsubmit.co](https://formsubmit.co/)
@@ -175,7 +175,7 @@
 
 ##### Services Layout
 
-1. [Servicios var_proj](https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK) ⏩ `File ⏩ Make a copy` ⏩ Select client directory.
+1. [Servicios 3dnau.com](https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK) ⏩ `File ⏩ Make a copy` ⏩ Select client directory.
 1. Change the info.
 1. `Share` ⏩ Add emails of collaborators with `Editor` permission.
 
@@ -187,9 +187,9 @@ Send to all collaborators next:
 ###### WhatsApp
 
 ```md
-*ENTREGA WEB var_proj*
+*ENTREGA WEB 3dnau.com*
 
-Te dejo aquí este mensaje como referencia (también te lo paso por email con el asunto `ENTREGA WEB var_proj`).
+Te dejo aquí este mensaje como referencia (también te lo paso por email con el asunto `ENTREGA WEB 3dnau.com`).
 
 En el siguiente enlace tienes instrucciones sobre cosas referentes a tu sitio web (cómo modificar cosas, información extra, ect.):
 
@@ -203,7 +203,7 @@ No es necesario que lo veas, solo lo es si quieres hacer cosas por tu cuenta o s
 ###### Mail
 
 ```
-Asunto: ENTREGA WEB var_proj
+Asunto: ENTREGA WEB 3dnau.com
 Cuerpo:
 Te dejo aquí este email como referencia.
 
