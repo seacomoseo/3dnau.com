@@ -1,0 +1,48 @@
+name: Contacto
+title: Contacto
+subtitle: ¿En qué podemos ayudarte?
+icon: paper-plane
+menu_button: link
+box:
+  columns: 2
+boxes:
+- social:
+  - link: https://www.facebook.com/QuantumFracture
+  - link: https://www.instagram.com/quantumfracture/
+  - link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
+  - link: https://twitter.com/QuantumFracture
+  - link: https://www.linkedin.com/company/quantum-fracture
+  - link: https://github.com/lorensansol
+  - link: https://mastersoflol.com/collections/quantumfracture?YTC
+  contact:
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 9:00 - 12:30 y 14:30 - 20:00
+    full: true
+  - type: phone
+    label: 111 222 333
+  - type: whatsapp
+    label: 111 222 333
+    button: link
+  - type: mail
+    label: info@sansoul.es
+    full: true
+  - type: address
+    label: Ronda de Levante, 1, 30008 Murcia
+    anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
+  inputs:
+  - type: text
+    name: Nombre
+    required: true
+  - type: tel
+    name: Teléfono
+  - type: email
+    name: Email
+    required: true
+  - type: textarea
+    name: Mensaje
+    required: true
+- map:
+  - type: point
+    geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+  rate: 1/1

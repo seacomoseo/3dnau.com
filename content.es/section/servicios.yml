@@ -1,0 +1,66 @@
+name: Servicios
+title: Servicios
+subtitle: ¿Qué procesos seguimos?
+icon: rocket-launch
+box:
+  columns: 0
+  columns_min: 2
+  uppercase: true
+  underline: true
+  # icon: frog
+  # image: fondo.jpg
+  # link: '#ejemplo'
+  icon_type: bottom
+  # direction: bottom
+  border: link
+  ratio: 2/1
+  inset: true
+  color: white
+  # pill: true
+  slider: true
+boxes:
+- boxes:
+  - link: '#ejemplo'
+  - subtitle: Más Agámoslo!
+  - icon: frog
+  - title: Ola k ase
+    # boxes:
+    # - link: '#mama-mia'
+    # - subtitle: MAMA MIA
+    #   boxes:
+    #   - link: '#mama-mia'
+    #   - subtitle: MAMA MIA
+  - content: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+  - image: fondo.jpg
+    inset: true
+    border: link
+- title: Ola k ase
+  subtitle: Agámoslo!
+  underline: true
+  content: |
+    Lorem ipsum dolor sit amet, [consectetur](fondo.jpg "nofollow") adipiscing elit, sed do eiusmod tempor.
+- title: Ola k ase
+  subtitle: Agámoslo!
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+  link: '#ejemplo'
+  button: hide
+  ofuscate: true
+  span_min: 2
+  tag: column
+  tags:
+  - type: custom
+    icon: star
+    label: Ejemplaco
+  - type: custom
+    icon: list
+    label: Yeah
+  parallax: box
+- icon: star
+  icon_size: 3
+  icon_type: top
+  title: Ola k ase
+  subtitle: Agámoslo!
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.

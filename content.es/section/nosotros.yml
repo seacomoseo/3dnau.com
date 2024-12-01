@@ -1,0 +1,34 @@
+name: Nosotros
+title: Nosotros
+subtitle: Lorem ipsum dolor sit amet
+icon: circle-info
+box:
+  columns: 2
+boxes:
+- order: 2
+  bg: fondo.jpg
+  parallax: box
+- order: 1
+  align: left
+  align_max: right
+  align_y: center
+  content: |
+    Lorem ipsum dolor sit amet.
+    Consectetur adipiscing elit.
+    Sed do eiusmod tempor incididunt.
+    Ut labore et dolore magna aliqua.
+
+    Lorem ipsum dolor sit amet.
+    Consectetur adipiscing elit.
+    Sed do eiusmod tempor incididunt.
+    Ut labore et dolore magna aliqua.
+
+    Lorem ipsum dolor sit amet.
+    Consectetur adipiscing elit.
+    Sed do eiusmod tempor incididunt.
+    Ut labore et dolore magna aliqua.
+
+    Lorem ipsum dolor sit amet.
+    Consectetur adipiscing elit.
+    Sed do eiusmod tempor incididunt.
+    Ut labore et dolore magna aliqua.

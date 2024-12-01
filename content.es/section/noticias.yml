@@ -1,0 +1,10 @@
+name: Noticias
+title: Noticias
+subtitle: Novedades
+icon: rss
+list:
+  type: /
+  max: 12
+box:
+  columns: 4
+  slider: true

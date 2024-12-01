@@ -1,0 +1,11 @@
+// Header 
+@mixin show-from($delay) {
+  animation: show-from .5s (.5 + .25s * $delay) both;
+}
+#body-home #header {
+  .image            { @include show-from(0); --show-from: scale(3); }
+  .box__title       { @include show-from(1); }
+  .subtitle         { @include show-from(2); }
+  .content p        { @include show-from(3); }
+  .content .buttons { @include show-from(4); }
+}

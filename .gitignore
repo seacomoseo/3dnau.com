@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+public
+resources
+hugo_stats.json
+.hugo_build.lock
+package-lock.json
+postcss.config.js
+.vscode
+jsconfig.json

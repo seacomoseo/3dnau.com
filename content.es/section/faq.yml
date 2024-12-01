@@ -1,0 +1,15 @@
+name: FAQ
+title: FAQ
+subtitle: Preguntas Frecuentes
+icon: circle-question
+size: md
+collapsibles:
+- title: ¿Una pregunta de ejemplo?
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- title: ¿Otra pregunta de ejemplo?
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- title: ¿Otra pregunta más de ejemplo?
+  content: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.

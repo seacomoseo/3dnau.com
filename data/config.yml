@@ -1,0 +1,11 @@
+langs:
+- lang: es
+  title: Tema SanSoul de Hugo EJEMPLO
+  description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
+  google_analytics: ''
+- lang: en
+  title: SanSoul Hugo Theme EXAMPLE
+  description: SanSoul is the soul of lorensansol's Hugo theme with which to generate static websites, you can copy it and use it however you want
+  disabled: true
+# cms:
+#   logo: base/logo-tr.svg

@@ -1,0 +1,78 @@
+icons:
+  type: solid
+  sharp: true
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: true
+  base:
+    family: Montserrat
+    weight: 400
+    bold: 0
+    italic: false
+    line_height: 1.25
+  cursive:
+    family: Dancing Script
+    weight: 400
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+    top: 0
+  title:
+    family: Montserrat
+    weight: 800
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+    top: 0
+  blockquote_cursive: true
+colors:
+  main:
+    color: '#bdd5ea'
+    light: ''
+    dark: ''
+    contrast: text
+  alt:
+    color: ''
+    light: ''
+    dark: ''
+    contrast: all
+  link:
+    color: '#fe5f55'
+    light: ''
+    dark: ''
+    contrast: text
+  base:
+    white: '#fff'
+    light: '#eee'
+    grey: '#767676'
+    dark: '#282525'
+    black: '#000'
+rounded:
+  radius: 0.33
+  chamfer: true
+buttons:
+  sides_round: false
+  icon_circle: false
+  deep: true
+  outline: false
+  font_main:
+    type: title
+    bold: false
+    uppercase: true
+  font_alt:
+    type: base
+    bold: false
+    uppercase: false
+inputs:
+  fill: false
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0
+  color: black
+  alpha: 0.85
+performance:
+  show: true
