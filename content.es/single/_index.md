@@ -31,17 +31,14 @@ names:
 summary: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
 legal: null
 nif: null
-email: null
+email: info@3dnau.com
 logo: base/logo.svg
 images:
 - fondo.jpg
 social:
-- https://www.facebook.com/QuantumFracture
-- https://www.instagram.com/quantumfracture/
-- https://g.page/r/CQI3T3wmeAB6EBM
+- https://www.instagram.com/saraymanas/
 phones:
-- 123456789
-- +34 987 654 321
+- 637 984 003
 address:
   name: Sea Como SEO
   street: Ronda de Levante, 1
