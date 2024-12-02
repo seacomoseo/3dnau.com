@@ -1,9 +1,14 @@
 name: Contacto
 title: Contacto
-subtitle: ¿En qué podemos ayudarte?
+subtitle: Solicita una demostración
 icon: paper-plane
 menu_button: link
 size: xs
+content: |
+  O haznos preguntas sobre nuestros materiales
+
+  Responderemos en menos de 72 horas hábiles
+align: center
 contact:
 - type: phone
   label: 637 984 003
