@@ -1,7 +1,7 @@
 ---
 slug: inicio
 title: Inicio
-image: fondo.jpg
+image: logo.png
 translationKey: home
 
 seo: 3DNAU - Material Didáctico Manipulativo para Educación
