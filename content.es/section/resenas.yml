@@ -1,6 +1,6 @@
 name: Reseñas
 title: Reseñas
-subtitle: ¿Qué dicen de nosotros?
+subtitle: Casos de Estudio
 icon: comment
 review:
   columns: 3
@@ -8,39 +8,21 @@ review:
   slider: true
   interval: 8
 reviews:
-- title: Lorem I.
-  subtitle: Beatae Vitae
-  image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
+- title: Jesús D.
+  subtitle: Profesor de secundaria de IES Málaga
   content: |
-    Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+    En el departamento de ciencias, empleamos los modelos de manera rotativa.
 
-    Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab.
-
-    Illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
-
-    Explicabo.
-- title: Sequi N.
-  subtitle: Ratione Voluptatem
-  image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
+    Aprovechamos los desdobles de clases para utilizar los materiales y estar más presentes con los alumnos, guiándolos en su autoaprendizaje y aprendizaje significativo con los recursos disponibles, tanto los modelos físicos como el cuaderno de trabajo.
+- title: Isabel A.
+  subtitle: Profesora de secundaria de Melilla
   content: |
-    Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
+    Los estudiantes se muestran más motivados y logran visualizar lo que antes solo imaginaban.
 
-    Fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.
-
-    Sequi nesciunt.
-- title: Quaerat V.
-  subtitle: Magnam Aliquam
-  image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
+    Al manipular los materiales realizan un esfuerzo consciente que repercute en su comprensión y retención del temario
+- title: David C.
+  subtitle: Profesor de secundaria y FP de Murcia
   content: |
-    Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,.
+    Los materiales manipulativos muestran una mejora en la participación y aceptación del aprendizaje en el aula al darles mayor protagonismo a los alumnos.
 
-    Consectetur, adipisci velit, sed quia non numquam eius modi tempora.
-
-    Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-boxes:
-- content: |
-    ¡Hay más aquí! ¡Añade la tuya!
-    {.subtitle}
-
-    [btn icon:star Google](https://g.page/r/CQI3T3wmeAB6EBM/review "noindex")
-    [btn icon:star Facebook](https://www.facebook.com/QuantumFracture/reviews/ "noindex")
+    Es algo a lo que aspirar como docente

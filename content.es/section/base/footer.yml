@@ -1,5 +1,6 @@
 name: Pie
-divider: curve-side
+color: alt
+divider: squares
 content: |
   - icon:copyright      {{< internal-link index >}}
   - icon:scale-balanced {{< internal-link legal >}}

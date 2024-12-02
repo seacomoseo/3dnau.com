@@ -4,31 +4,26 @@ title: Inicio
 image: fondo.jpg
 translationKey: home
 
-seo: ''
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
+seo: 3DNAU - Material Didáctico Manipulativo para Educación
+description: llll➤ Material didáctico manipulativo para educación. ✅ Modelos 3D mediante impresión de materiales reponibles ✅ adaptados a todos los estudiantes.
 
 sections:
 - file: _header
+- file: caracteristicas
 - file: nosotros
-- file: servicios
-  modals:
-  - file: ejemplo
-- file: proceso
-- file: fotos
-- file: noticias
+- file: como-funciona
+- file: catalogo
 - file: faq
 - file: resenas
 - file: contacto
-- file: mapa
 
 base: organization
 types:
-- LocalBusiness
 - Organization
 names:
-- Tema SanSoul de Hugo EJEMPLO
-- SanSoul
-summary: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
+- 3DNAU
+- 3DNAU - Material Didáctico Manipulativo para Educación
+summary: Material didáctico manipulativo para educación. Modelos 3D mediante impresión de materiales reponibles adaptados a todos los estudiantes.
 legal: null
 nif: null
 email: info@3dnau.com
@@ -36,17 +31,17 @@ logo: base/logo.svg
 images:
 - fondo.jpg
 social:
-- https://www.instagram.com/saraymanas/
+- https://www.instagram.com/3d.nau/
 phones:
 - 637 984 003
 address:
-  name: Sea Como SEO
-  street: Ronda de Levante, 1
-  pc: '30008'
+  name: 3DNAU
+  street: C. Campus Universitario, 5
+  pc: '30100'
   locality: Murcia
   region: Murcia
   country: ES
-  geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+  geo: '{"type":"Point","coordinates":[-1.1687170,38.0204140]}'
   link: https://g.page/r/CQI3T3wmeAB6EBM
 areas:
 - Región de Murcia
@@ -60,27 +55,8 @@ schedule:
   - thursday
   - friday
   hours:
-  - open: 9:00
-    close: 14:00
-  - open: 17:00
-    close: 20:00
-- days:
-  - saturday
-  # - sunday
-  hours:
-  - open: 9:00
-    close: 13:00
+  - open: 8:00
+    close: 22:00
 prices: €€
-services:
-- title: Diseño Web
-  description: null
-  price: 800.00
-  area: Internacional
-- title: SEO
-  description: null
-  price: 250.00
-  area: Internacional
-- title: SEM
-  description: Descripción de ejemplo
-  area: Internacional
+services: []
 ---

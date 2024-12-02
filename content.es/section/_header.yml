@@ -1,17 +1,17 @@
 name: Cabecera
-hanchor: SanSoul Hugo Theme
-color: main-dark
-bg: fondo.jpg
+hanchor: 3DNAU - Material Didáctico Manipulativo para Educación
+color: dark
+bg: historia.jpg
 full: true
+size: sm
 boxes:
-- image: base/logo.svg
-  span: .125
-  span_min: .5
-- title: SanSoul Hugo Theme
+- image: base/logo-tr.svg
+  # span: .125
+  # span_min: .5
+  color: white
+- title: Transformando la enseñanza
   hn: p
-  hs: 0
-  subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
+  hs: 2
   content: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-    [btn icon:plus Más](#nosotros)
+    [btn Ver Catálogo](#catalogo)
+    [btn:main-font-alt Agenda una demostración en tu instituto](#contacto)

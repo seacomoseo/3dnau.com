@@ -9,9 +9,7 @@ template:
     transparent: true
     size: sm
     es:
-      image: base/logo.svg
-      title: SanSoul
-      subtitle: Hugo Theme
+      image: base/logo-tr.svg
   callnow: {}
   section:
   - size: sm

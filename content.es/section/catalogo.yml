@@ -1,0 +1,46 @@
+name: Catálogo
+title: Catálogo
+subtitle: Productos
+icon: cubes
+# list:
+#   type: /
+#   max: 12
+box:
+  columns: 4
+  color: white
+  inset: true
+  slider: true
+  hs: 5
+  link: '#'
+  label: Ver más
+  # button: hide
+  # tags:
+  # - type: type
+boxes:
+- image: fondo.jpg
+  title: ADN
+  # price: Cotizar
+  content: Estructura de ADN manipulable
+- image: fondo.jpg
+  title: Sistema inmunológico
+  # price: Cotizar
+  content: Kit manipulativo de anticuerpos y antígenos
+- image: fondo.jpg
+  title: Célula animal
+  # price: Cotizar
+  content: Modelo celular eucariota animal
+- image: fondo.jpg
+  title: Célula vegetal
+  # price: Cotizar
+  content: Modelo celular eucariota vegetal
+- image: fondo.jpg
+  title: Procariota
+  # price: Cotizar
+  content: Modelo celular procariota
+- image: fondo.jpg
+  title: Bomba sodio/potasio
+  # price: Cotizar
+  content: kit manipulativo transmembrana celular
+
+
+

@@ -1,8 +1,0 @@
-name: Mapa
-hanchor: Mapa
-menu_button: hide
-ph: true
-size: fluid
-map:
-- type: point
-  geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'

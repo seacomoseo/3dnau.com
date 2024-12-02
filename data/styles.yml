@@ -6,21 +6,21 @@ icons:
 fonts:
   google: true
   base:
-    family: Montserrat
+    family: Barlow
     weight: 400
-    bold: 0
+    bold: 800
     italic: false
     line_height: 1.25
   cursive:
-    family: Dancing Script
-    weight: 400
+    family: Barlow
+    weight: 600
     bold: 0
     italic: false
     line_height: 1.25
     size: 1
     top: 0
   title:
-    family: Montserrat
+    family: Barlow
     weight: 800
     bold: 0
     italic: false
@@ -30,17 +30,17 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#f65f62'
     light: ''
     dark: ''
     contrast: text
   alt:
-    color: ''
+    color: '#790709'
     light: ''
     dark: ''
     contrast: all
   link:
-    color: '#fe5f55'
+    color: '#922022'
     light: ''
     dark: ''
     contrast: text
@@ -48,10 +48,10 @@ colors:
     white: '#fff'
     light: '#eee'
     grey: '#767676'
-    dark: '#282525'
+    dark: '#191718' #282525
     black: '#000'
 rounded:
-  radius: 0.33
+  radius: 0.5
   chamfer: true
 buttons:
   sides_round: false

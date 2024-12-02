@@ -2,14 +2,18 @@ name: FAQ
 title: FAQ
 subtitle: Preguntas Frecuentes
 icon: circle-question
-size: md
+size: sm
 collapsibles:
-- title: ¿Una pregunta de ejemplo?
+- title: ¿Es posible personalizar los modelos?
   content: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- title: ¿Otra pregunta de ejemplo?
+    Sí, ofrecemos opciones de personalización según las necesidades específicas de cada aula.
+
+    Ponte en [contacto](#contacto) con nosotros.
+- title: ¿Hay demostraciones disponibles?
   content: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- title: ¿Otra pregunta más de ejemplo?
+    Ofrecemos demostraciones en institutos para que puedas evaluar nuestros productos.
+
+    Ponte en [contacto](#contacto) con nosotros y agenda una cita.
+- title: ¿Cuánto tiempo tardan en procesarse los pedidos?
   content: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    En un máximo de 72 horas se procesaría el envío.
