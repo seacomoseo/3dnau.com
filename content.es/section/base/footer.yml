@@ -1,5 +1,4 @@
 name: Pie
-color: alt
 divider: squares
 content: |
   - icon:copyright      {{< internal-link index >}}

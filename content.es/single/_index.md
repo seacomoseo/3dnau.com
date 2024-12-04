@@ -9,6 +9,7 @@ description: llll➤ Material didáctico manipulativo para educación. ✅ Model
 
 sections:
 - file: _header
+- file: nuestra-propuesta
 - file: caracteristicas
 - file: nosotros
 - file: como-funciona

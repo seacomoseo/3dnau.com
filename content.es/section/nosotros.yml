@@ -3,69 +3,23 @@ title: Nosotros
 subtitle: Sobre 3DNAU
 icon: circle-info
 size: md
-gap_y: 2
+box:
+  columns: 2
+  gap: 4
+  underline: true
+  align_y: center
+  align: left
 boxes:
+- image: nosotros.jpg
+- content: |
+    ### Historia
+    {.underline}
 
-- box:
-    columns: 2
-    gap: 4
-    gap_min: 1
-    underline: true
-    align_y: center
-    align: left
-  boxes:
-  - image: fondo.jpg
-    # ratio: 1/1
-  - title: Misión
-    content: |
-      Enriquecer la experiencia educativa de estudiantes y docentes con materiales didácticos manipulativos accesibles, efectivos y comprensible para todos.
+    Nuestro proyecto nació de la necesidad de ofrecer herramientas prácticas y accesibles para la enseñanza de biología en secundaria en un inicio.
 
-- box:
-    columns: 2
-    gap: 4
-    gap_min: .5
-    underline: true
-    align_y: center
-    align: left
-    align_max: right
-  boxes:
-  - image: vision.jpg
-    ratio: 1/1
-    order: 2
-  - title: Visión
-    content: |
-      Creemos en una educación inclusiva y adaptativa, que permita a cada estudiante aprender y participar activamente en el aula.
+    Tras observar la dificultad de explicar conceptos complejos solo con texto e imágenes, y alejándonos de pantallas adictivas, decidimos desarrollar recursos manipulativos que permitieran a los estudiantes aprender mediante la experimentación y la interacción en primera persona.
 
-- box:
-    columns: 2
-    gap: 4
-    gap_min: .5
-    underline: true
-    align_y: center
-    align: left
-  boxes:
-  - image: historia.jpg
-    ratio: 1/1
-  - title: Historia
-    content: |
-      Nuestro proyecto nació de la necesidad de ofrecer herramientas prácticas y accesibles para la enseñanza de biología en secundaria en un inicio.
+    ### Perfil del Equipo
+    {.underline}
 
-      Tras observar la dificultad de explicar conceptos complejos solo con texto e imágenes, decidimos desarrollar recursos manipulativos que permitan a los estudiantes aprender mediante la experimentación y la interacción.
-
-- box:
-    columns: 2
-    gap: 4
-    gap_min: .5
-    underline: true
-    align_y: center
-    align: left
-    align_max: right
-  boxes:
-  - image: equipo.jpg
-    ratio: 1/1
-    order: 2
-  - title: Perfil del Equipo
-    content: |
-      Los fundadores cuentan con un equipo diverso de profesionales y el apoyo incondicional de la Universidad de Murcia, combinando la experiencia en educación (especialmente en el ámbito de la biología), con el talento de expertos en tecnología de impresión 3D.
-
-
+    Los fundadores cuentan con un equipo diverso de profesionales y el apoyo incondicional de la ==icon:sign-simple Universidad de Murcia==, combinando la experiencia en educación y ciencias, con el talento de expertos diseñadores especializados en tecnologías de impresión 3D.

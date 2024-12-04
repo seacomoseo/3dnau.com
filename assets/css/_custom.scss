@@ -1,9 +1,12 @@
 // Header 
 @mixin show-from($delay) {
-  animation: show-from .5s (.5 + .25s * $delay) both;
+  animation: show-from .5s (.5 + .125s * $delay) both;
 }
 #body-home #header {
-  .box--1     { @include show-from(0); --show-from: perspective(50em) rotateX(-90deg); }
-  .box__title { @include show-from(1); }
-  .content    { @include show-from(2); }
+  .box--1           { @include show-from(0); --show-from: perspective(50em) rotateX(-90deg); }
+  .box__title       { @include show-from(1); }
+  .box__title:after { @include show-from(2); }
+  .box__subtitle    { @include show-from(3); }
+  .content          { @include show-from(4); }
+  .box--2           { @include show-from(5); --show-from: perspective(50em) rotateX(-90deg); }
 }

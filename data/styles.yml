@@ -1,27 +1,27 @@
 icons:
   type: solid
-  sharp: true
+  sharp: false
   emojis: ''
   emojis_default: false
 fonts:
   google: true
   base:
-    family: Barlow
+    family: Lora # Barlow
     weight: 400
-    bold: 800
+    bold: 700
     italic: false
     line_height: 1.25
   cursive:
-    family: Barlow
-    weight: 600
+    family: Lora # Barlow
+    weight: 400 # 600
     bold: 0
-    italic: false
+    italic: true
     line_height: 1.25
     size: 1
     top: 0
   title:
-    family: Barlow
-    weight: 800
+    family: Alice # Barlow
+    weight: 400 # 800
     bold: 0
     italic: false
     line_height: 1.25
@@ -30,29 +30,29 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#f65f62'
+    color: '#a25676' #f65f62
     light: ''
     dark: ''
     contrast: text
   alt:
-    color: '#790709'
+    color: '#4a2421' #790709
     light: ''
     dark: ''
     contrast: all
   link:
-    color: '#922022'
+    color: '' #922022
     light: ''
     dark: ''
     contrast: text
   base:
     white: '#fff'
-    light: '#eee'
+    light: '#fcfbf8' #eee
     grey: '#767676'
-    dark: '#191718' #282525
+    dark: '#233e32' #191718 #282525
     black: '#000'
 rounded:
   radius: 0.5
-  chamfer: true
+  chamfer: false
 buttons:
   sides_round: false
   icon_circle: false

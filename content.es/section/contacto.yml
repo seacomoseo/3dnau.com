@@ -10,20 +10,20 @@ content: |
   Responderemos en menos de 72 horas hábiles
 align: center
 contact:
-- type: phone
-  label: 637 984 003
-- type: whatsapp
-  label: 637 984 003
+# - type: phone
+#   label: 637 984 003
+# - type: whatsapp
+#   label: 637 984 003
 - type: mail
   label: info@3dnau.com
-  button: similar
-  full: true
+  # button: invert
+  # full: true
 - type: custom
   link: https://www.instagram.com/3d.nau/
   icon: instagram
   label: '@3d.nau'
   font_alt: true
-  button: main
+  # button: alt
 inputs:
 - type: text
   name: Nombre

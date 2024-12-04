@@ -1,22 +1,24 @@
 name: Características
 title: Características
-subtitle: Nuestra propuesta
-icon: rocket-launch
+subtitle: Cómo Funciona
+icon: certificate
 box:
-  columns: 4
+  columns: 5
   hs: 5
   underline: true
 boxes:
 - icon: cubes
-  title: Materiales <br> Manipulativos e Inclusivos
-  content: Modelos 3D adaptados a todos los estudiantes que promueven la motivación y el <!-- compromiso con el --> aprendizaje.
-- icon: dna
-  title: Comprensión <br> Profunda
-  content: Facilitamos la comprensión de conceptos abstractos complejos en el aula, como por ejemplo el ADN.
+  title: Diseño
+  content: Cada modelo es cuidadosamente diseñado para garantizar precisión y facilidad de uso
 - icon: microscope
-  title: Tecnología <br> Avanzada
-  content: Utilizamos impresión 3D para crear recursos educativos innovadores y accesibles.
+  title: Tecnología Avanzada
+  content: Utilizamos impresión 3D para crear recursos educativos innovadores y accesibles
+- icon: leaf
+  title: Sostenible
+  content: Utilizamos materiales biodegradables en la fabricación para respetar el medio ambiente
 - icon: puzzle
-  title: Materiales <br> Reponibles
-  content: Existe la posibilidad de comprar piezas sueltas, sin perder la inversión inicial.
-
+  title: Reponible
+  content: Existe la posibilidad de adquirir diferentes piezas sueltas para perder la inversión inicial
+- icon: dna
+  title: Personalizable
+  content: Ofrecemos la opción de modificar los modelos a las necesidades específicas de cada aula

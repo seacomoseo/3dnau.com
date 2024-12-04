@@ -1,0 +1,32 @@
+name: Comprar
+title: Comprar
+content: |
+  Rellena el formulario marcando los productos que desees y nos pondremos en contacto contigo en menos de 72 horas hábiles
+align: center
+size: xs
+inputs:
+- type: checkbox
+  name: Productos
+  required: true
+  options:
+  - option: Bomba Sodio/Potasio
+  - option: Célula Eucariota Animal
+  - option: Célula Eucariota Vegetal
+  - option: Célula Procariota
+  - option: Gencaedro
+  - option: Kit Anticuerpos
+  - option: Kit ADN Avanzado
+  - option: Kit ADN Básico
+  - option: Pack de 3 Kits ADN (Especial institutos)
+- type: text
+  name: Nombre
+  required: true
+- type: tel
+  name: Teléfono
+  required: true
+- type: email
+  name: Email
+  required: true
+- type: textarea
+  name: Detalles
+  required: true

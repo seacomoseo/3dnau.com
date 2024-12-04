@@ -9,10 +9,12 @@ template:
     show_sections: true
     show_modals: true
     color: dark
+    es:
+      items: []
   callnow:
     show: auto
   section:
-  - color: alt
+  - color: light
     underline: true
     uppercase: true
     alpha: .7

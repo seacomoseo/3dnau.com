@@ -1,0 +1,21 @@
+name: Cabecera
+node: header
+align: left
+boxes:
+- if: breadcrumbs
+  node: nav
+  content: |
+    {{< breadcrumbs >}}
+- title: '{{% param title %}}'
+- tags:
+  - type: type
+  - type: taxonomy
+    taxonomy: all
+  - type: param
+    param: euro
+    icon: money
+- price: '{{ param price }},00 €'
+- if: image
+  params:
+  - page: image
+    box: image
