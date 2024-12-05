@@ -8,8 +8,9 @@ image: productos/kit-anticuerpos.jpg
 price: 70
 # stock: 50
 brand: 3DNAU
-# category:
-# - categoria
+category:
+- biologia
+related: []
 
 # toc: false
 draft: false

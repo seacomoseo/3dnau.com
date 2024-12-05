@@ -2,9 +2,32 @@ name: Catálogo
 title: Catálogo
 subtitle: Productos
 icon: cubes
-list:
-  type: product
-  max: 12
+gap_y: 1
+gap_ny: 1
 box:
-  columns: 4
-  slider: true
+  gap_y: 1
+  gap: 2
+  icon_type: side
+boxes:
+- title: Biología
+  icon: dna
+  list:
+    type: product
+    category:
+    - biologia
+    max: 12
+  box:
+    columns: 4
+    slider: true
+- title: Psicopedagogía
+  icon: brain
+  list:
+    type: product
+    category:
+    - psicopedagogia
+    max: 12
+  box:
+    columns: 4
+    slider: true
+- link: /productos/
+  label: Ver todos

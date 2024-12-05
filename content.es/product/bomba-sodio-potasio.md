@@ -8,8 +8,9 @@ image: productos/bomba-sodio-potasio.jpg
 price: 50
 # stock: 50
 brand: 3DNAU
-# category:
-# - categoria
+category:
+- biologia
+related: []
 
 # toc: false
 draft: false

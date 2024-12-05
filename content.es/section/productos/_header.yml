@@ -9,12 +9,12 @@ boxes:
 - title: '{{% param title %}}'
 - tags:
   - type: type
-  - type: taxonomy
-    taxonomy: all
-  - type: param
-    param: euro
-    icon: money
 - price: '{{ param price }},00 €'
+  content: |
+    ^Gastos de envío no incluidos^
+- link: '#comprar'
+  label: Comprar
+  align: left
 - if: image
   params:
   - page: image

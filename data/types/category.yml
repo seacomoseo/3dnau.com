@@ -1,0 +1,19 @@
+title: Categorías
+base: page
+taxonomy_of:
+- name: product
+  multiple: true
+  breadcrumbs: true
+- name: category
+  multiple: true
+  breadcrumbs: true
+template:
+  list:
+    columns: 3
+    color: white
+    align: center
+    inset: true
+    icon: ''
+    underline: true
+    label: Ver más
+    button: link

@@ -2,14 +2,17 @@
 slug: pack-3-kits-adn-especial-institutos
 title: Pack de 3 Kits ADN (Especial institutos)
 summary: ''
-image: productos/pack-3-kits-adn-especial-institutos.jpg
+image: productos/kit-adn-basico.jpg
 
 # sku: PRO001
 price: 260
 # stock: 50
 brand: 3DNAU
-# category:
-# - categoria
+category:
+- biologia
+related:
+- kit-adn-avanzado
+- kit-adn-basico
 
 # toc: false
 draft: false

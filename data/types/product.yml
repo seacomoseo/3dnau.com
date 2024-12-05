@@ -5,7 +5,6 @@ template:
   toc: false
   sections:
   - file: productos/_header
-  # - file: base/toc
   - file: base/content
   - file: base/related
   - file: productos/comprar

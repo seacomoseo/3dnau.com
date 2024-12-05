@@ -8,8 +8,11 @@ image: productos/kit-adn-basico.jpg
 price: 115
 # stock: 50
 brand: 3DNAU
-# category:
-# - categoria
+category:
+- biologia
+related:
+- kit-adn-avanzado
+- pack-3-kits-adn-especial-institutos
 
 # toc: false
 draft: false

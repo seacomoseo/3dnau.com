@@ -12,7 +12,6 @@ sections:
 - file: nuestra-propuesta
 - file: caracteristicas
 - file: nosotros
-- file: como-funciona
 - file: catalogo
 - file: faq
 - file: resenas

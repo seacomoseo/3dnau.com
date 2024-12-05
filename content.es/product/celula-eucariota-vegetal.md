@@ -8,8 +8,9 @@ image: productos/celula-eucariota-vegetal.jpg
 price: 35
 # stock: 50
 brand: 3DNAU
-# category:
-# - categoria
+category:
+- biologia
+related: []
 
 # toc: false
 draft: false
