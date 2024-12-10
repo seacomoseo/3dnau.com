@@ -1,8 +1,8 @@
 ---
-slug: celula-procariota
-title: Célula Procariota
+slug: celula-eucariota-vegetal
+title: Célula Eucariota Vegetal
 summary: ''
-image: productos/celula-procariota.jpg
+image: productos/biologia/celula-eucariota-vegetal.jpg
 
 # sku: PRO001
 price: 35
@@ -25,8 +25,9 @@ Introducir conceptos básicos celulares. 
 
 ## Descripción
 
-Contiene una célula procariota con sus distintos orgánulos. Los colores de la foto pueden variar.
+Contiene una célula eucariota vegetal con sus distintos orgánulos. Los colores de la foto pueden variar.
 
-- Ventajas educativas:
+## Ventajas educativas
+
 - icon:check Facilita la comprensión visual tridimensional de entes vivos. 
 - icon:check Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.

@@ -2,7 +2,7 @@
 slug: kit-adn-avanzado
 title: Kit ADN Avanzado
 summary: ''
-image: productos/kit-adn-avanzado.jpg
+image: productos/biologia/kit-adn-avanzado.jpg
 
 # sku: PRO001
 price: 145
@@ -12,7 +12,7 @@ category:
 - biologia
 related:
 - kit-adn-basico
-- pack-3-kits-adn-especial-institutos
+- pack-3-kits-adn
 
 # toc: false
 draft: false

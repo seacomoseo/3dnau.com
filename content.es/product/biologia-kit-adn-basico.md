@@ -2,7 +2,7 @@
 slug: kit-adn-basico
 title: Kit ADN Básico
 summary: ''
-image: productos/kit-adn-basico.jpg
+image: productos/biologia/kit-adn-basico.jpg
 
 # sku: PRO001
 price: 115
@@ -12,7 +12,7 @@ category:
 - biologia
 related:
 - kit-adn-avanzado
-- pack-3-kits-adn-especial-institutos
+- pack-3-kits-adn
 
 # toc: false
 draft: false

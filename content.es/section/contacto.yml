@@ -6,8 +6,6 @@ menu_button: link
 size: xs
 content: |
   O haznos preguntas sobre nuestros materiales
-
-  Responderemos en menos de 72 horas hábiles
 align: center
 contact:
 # - type: phone

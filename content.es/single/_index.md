@@ -13,8 +13,8 @@ sections:
 - file: caracteristicas
 - file: nosotros
 - file: catalogo
-- file: faq
 - file: resenas
+- file: faq
 - file: contacto
 
 base: organization

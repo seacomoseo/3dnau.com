@@ -13,12 +13,12 @@ boxes:
 - icon: microscope
   title: Tecnología Avanzada
   content: Utilizamos impresión 3D para crear recursos educativos innovadores y accesibles
-- icon: leaf
+- icon: recycle
   title: Sostenible
   content: Utilizamos materiales biodegradables en la fabricación para respetar el medio ambiente
 - icon: puzzle
-  title: Reponible
-  content: Existe la posibilidad de adquirir diferentes piezas sueltas para perder la inversión inicial
-- icon: dna
+  title: Piezas Recambiables
+  content: Existe la posibilidad de adquirir piezas sueltas para no perder la inversión inicial
+- icon: lightbulb-gear
   title: Personalizable
-  content: Ofrecemos la opción de modificar los modelos a las necesidades específicas de cada aula
+  content: Ofrecemos la opción de modificar los modelos según las necesidades específicas de cada aula

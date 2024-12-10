@@ -1,4 +1,5 @@
 title: Categorías
+order: 1
 base: page
 taxonomy_of:
 - name: product
@@ -15,5 +16,5 @@ template:
     inset: true
     icon: ''
     underline: true
-    label: Ver más
+    label: Ver productos
     button: link

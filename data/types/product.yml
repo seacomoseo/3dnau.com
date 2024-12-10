@@ -1,4 +1,5 @@
 title: Productos
+order: 2
 base: product
 related: true
 template:
@@ -14,9 +15,9 @@ template:
     color: white
     align: center
     inset: true
-    hs: 5
+    hs: 6
     content: hide
-    label: Ver más
+    label: Ver producto
     button: link
 es:
   content: |

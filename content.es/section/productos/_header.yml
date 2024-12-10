@@ -9,7 +9,8 @@ boxes:
 - title: '{{% param title %}}'
 - tags:
   - type: type
-- price: '{{ param price }},00 €'
+- if: price
+  price: '{{ param price }}'
   content: |
     ^Gastos de envío no incluidos^
 - link: '#comprar'

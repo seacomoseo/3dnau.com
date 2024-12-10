@@ -1,8 +1,8 @@
 ---
-slug: pack-3-kits-adn-especial-institutos
+slug: pack-3-kits-adn
 title: Pack de 3 Kits ADN (Especial institutos)
 summary: ''
-image: productos/kit-adn-basico.jpg
+image: productos/biologia/pack-3-kits-adn.jpg
 
 # sku: PRO001
 price: 260

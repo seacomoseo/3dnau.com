@@ -2,7 +2,7 @@
 slug: bomba-sodio-potasio
 title: Bomba Sodio/Potasio
 summary: ''
-image: productos/bomba-sodio-potasio.jpg
+image: productos/biologia/bomba-sodio-potasio.jpg
 
 # sku: PRO001
 price: 50

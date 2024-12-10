@@ -1,7 +1,7 @@
 name: Cabecera
 hanchor: 3DNAU - Material Didáctico Manipulativo para Educación
 # color: dark
-bg: alumnos.jpg
+bg: nosotros.jpg
 full: true
 # size: sm
 box:
@@ -13,12 +13,12 @@ boxes:
     # span: .125
     # span_min: .5
     color: white
-  - title: Transformando la enseñanza
+  - title: Transformando la enseñanza <br> Innovando en educación
     hn: p
-    hs: 2
-    underline: true
-    subtitle: Innovando en educación
+    hs: 3
+    # underline: true
+    # subtitle: Innovando en educación
     content: |
-      [btn Ver Catálogo](#catalogo)
+      [btn icon:cubes Ver Catálogo](#catalogo)
 - image: video.webm
   ratio: 16/9

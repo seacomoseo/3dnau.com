@@ -1,8 +1,8 @@
 ---
-slug: celula-eucariota-vegetal
-title: Célula Eucariota Vegetal
+slug: celula-eucariota-animal
+title: Célula Eucariota Animal
 summary: ''
-image: productos/celula-eucariota-vegetal.jpg
+image: productos/biologia/celula-eucariota-animal.jpg
 
 # sku: PRO001
 price: 35
@@ -25,7 +25,7 @@ Introducir conceptos básicos celulares. 
 
 ## Descripción
 
-Contiene una célula eucariota vegetal con sus distintos orgánulos. Los colores de la foto pueden variar.
+Contiene una célula eucariota animal con sus distintos orgánulos. Los colores de la foto pueden variar.
 
 ## Ventajas educativas
 

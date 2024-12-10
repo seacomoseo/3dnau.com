@@ -6,7 +6,7 @@ size: sm
 collapsibles:
 - title: ¿Es posible personalizar los modelos?
   content: |
-    Sí, ofrecemos opciones de personalización según las necesidades específicas de cada aula.
+    Sí, ofrecemos opciones de personalización según las necesidades específicas.
 
     Ponte en [contacto](#contacto) con nosotros.
 - title: ¿Hay demostraciones disponibles?
@@ -16,4 +16,17 @@ collapsibles:
     Ponte en [contacto](#contacto) con nosotros y agenda una cita.
 - title: ¿Cuánto tiempo tardan en procesarse los pedidos?
   content: |
-    En un máximo de 72 horas se procesaría el envío.
+    Trabajamos bajo pedido y los plazos de envío pueden variar.
+
+    Ponte en [contacto](#contacto) con nosotros para estimarlos de forma más precisa.
+- title: ¿Qué pasa si se rompen o pierden algunas piezas?
+  content: |
+    Existe la posibilidad de adquirir piezas sueltas para no perder la inversión inicial.
+
+    Ponte en [contacto](#contacto) con nosotros.
+- title: ¿Qué material usais para la fabricación de los modelos?
+  content: |
+    Utilizamos PLA (ácido poliláctico) polímero no tóxico proveniente de materia prima vegetal.
+- title: ¿Tengo que tener alguna precaución a la hora de guardar los modelos?
+  content: |
+    Los materiales no están indicados para soportar fuertes temperaturas, es decir, no dejar los modelos en dentro del coche ni lugares similares para evitar deformaciones.
