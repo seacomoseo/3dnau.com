@@ -29,7 +29,10 @@ nif: null
 email: info@3dnau.com
 logo: base/logo.svg
 images:
-- fondo.jpg
+- base/logo.png
+- nosotros.jpg
+- estudiantes-docentes.jpg
+- material-didactico.jpg
 social:
 - https://www.instagram.com/3d.nau/
 phones:

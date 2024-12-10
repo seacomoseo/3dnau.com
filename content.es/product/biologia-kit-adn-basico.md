@@ -11,8 +11,8 @@ brand: 3DNAU
 category:
 - biologia
 related:
-- kit-adn-avanzado
-- pack-3-kits-adn
+- biologia-kit-adn-avanzado
+- biologia-pack-3-kits-adn
 
 # toc: false
 draft: false
