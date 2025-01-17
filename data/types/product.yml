@@ -20,6 +20,11 @@ template:
     content: hide
     label: Ver producto
     button: link
+params:
+- name: images # ~BOX_GALLERY_IMAGES
+  label: Images
+  type: image
+  multiple: true
 es:
   content: |
     ## Material Escolar Adaptado a Secundaria
