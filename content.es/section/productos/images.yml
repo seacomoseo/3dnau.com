@@ -1,0 +1,11 @@
+name: Imágenes
+node: div
+id: images
+pt: 0
+box:
+  gap: 2
+gallery:
+  type: boxes
+params:
+- page: images
+  box: images

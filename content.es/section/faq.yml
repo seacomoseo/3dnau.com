@@ -3,7 +3,7 @@ title: FAQ
 subtitle: Preguntas Frecuentes
 icon: circle-question
 size: sm
-collapsibles:
+accordions:
 - title: ¿Es posible personalizar los modelos?
   content: |
     Sí, ofrecemos opciones de personalización según las necesidades específicas.
@@ -26,7 +26,7 @@ collapsibles:
     Ponte en [contacto](#contacto) con nosotros.
 - title: ¿Qué material usais para la fabricación de los modelos?
   content: |
-    Utilizamos PLA (ácido poliláctico) polímero no tóxico proveniente de materia prima vegetal.
+    Utilizamos PLA (ácido poliláctico) polímero no tóxico biodegradable proveniente de materia prima vegetal (maíz, caña de azúcar y almidón de yuca).
 - title: ¿Tengo que tener alguna precaución a la hora de guardar los modelos?
   content: |
-    Los materiales no están indicados para soportar fuertes temperaturas, es decir, no dejar los modelos en dentro del coche ni lugares similares para evitar deformaciones.
+    Los materiales no están indicados para soportar fuertes temperaturas, es decir, no dejar los modelos dentro del coche en verano, ni lugares similares para evitar deformaciones.

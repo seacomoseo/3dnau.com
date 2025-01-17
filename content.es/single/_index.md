@@ -1,7 +1,7 @@
 ---
 slug: inicio
 title: Inicio
-image: base/logo.png
+image: base/poster.png
 translationKey: home
 
 seo: 3DNAU - Material Didáctico Manipulativo para Educación
@@ -27,9 +27,9 @@ summary: Material didáctico manipulativo para educación. Modelos 3D mediante i
 legal: null
 nif: null
 email: info@3dnau.com
-logo: base/logo.svg
+logo: base/poster.svg
 images:
-- base/logo.png
+- base/poster.png
 - nosotros.jpg
 - estudiantes-docentes.jpg
 - material-didactico.jpg

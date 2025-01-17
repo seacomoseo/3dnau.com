@@ -9,7 +9,7 @@ template:
     transparent: true
     size: sm
     es:
-      image: base/logo-tr.svg
+      image: base/logo.svg
       items:
       - link: /productos/
         icon: gift

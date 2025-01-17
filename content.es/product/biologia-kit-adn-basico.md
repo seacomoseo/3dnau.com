@@ -13,6 +13,10 @@ category:
 related:
 - biologia-kit-adn-avanzado
 - biologia-pack-3-kits-adn
+images:
+- productos/biologia/adn-enrollamiento-horizontal.webm#mute
+- productos/biologia/adn-montar-desmontar.webm#mute
+- adn-2.jpg
 
 # toc: false
 draft: false
