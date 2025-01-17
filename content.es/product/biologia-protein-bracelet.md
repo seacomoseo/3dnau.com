@@ -12,9 +12,9 @@ category:
 - biologia
 related: []
 images:
-- productos/biologia/protein-bracelet-2.jpg
-- productos/biologia/protein-bracelet-2.webm#mute
 - productos/biologia/protein-bracelet.webm#mute
+- productos/biologia/protein-bracelet-2.webm#mute
+- productos/biologia/protein-bracelet-2.jpg
 
 # toc: false
 draft: false

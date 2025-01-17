@@ -17,6 +17,7 @@ images:
 - productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - productos/biologia/adn-montar-desmontar.webm#mute
 - adn-2.jpg
+- productos/biologia/protein-bracelet.webm#mute
 
 # toc: false
 draft: false
