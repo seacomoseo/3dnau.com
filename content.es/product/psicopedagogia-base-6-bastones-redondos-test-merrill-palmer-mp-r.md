@@ -2,7 +2,7 @@
 slug: base-6-bastones-redondos-test-merrill-palmer-mp-r
 title: Base con 6 bastones redondos para test Merrill-Palmer MP-R
 summary: ''
-image: productos/psicopedagogia/base-6-bastones-redondos-test-merrill-palmer-mp-r.jpg
+image: productos/psicopedagogia/base-6-bastones-redondos-test-merrill-palmer-mp-r.webp
 
 # sku: PRO001
 price: 29.90

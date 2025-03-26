@@ -2,7 +2,7 @@
 slug: 60-fichas-50-palitos-material-test-tedi-math
 title: 60 Fichas y 50 palitos, material para test Tedi-Math
 summary: ''
-image: productos/psicopedagogia/60-fichas-50-palitos-material-test-tedi-math.jpg
+image: productos/psicopedagogia/60-fichas-50-palitos-material-test-tedi-math.webp
 
 # sku: PRO001
 price: 24.90

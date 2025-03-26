@@ -2,7 +2,7 @@
 slug: kit-adn-avanzado
 title: Kit ADN Avanzado
 summary: ''
-image: productos/biologia/kit-adn-avanzado.jpg
+image: productos/biologia/kit-adn-avanzado.webp
 weight: -1
 
 # sku: PRO001
@@ -17,7 +17,7 @@ related:
 images:
 - productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - productos/biologia/adn-montar-desmontar.webm#mute
-- adn-2.jpg
+- adn-2.webp
 - productos/biologia/protein-bracelet.webm#mute
 
 # toc: false

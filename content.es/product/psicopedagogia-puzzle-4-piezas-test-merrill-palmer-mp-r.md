@@ -2,7 +2,7 @@
 slug: puzzle-4-piezas-test-merrill-palmer-mp-r
 title: Puzzle de 4 piezas para test Merrill-Palmer MP-R
 summary: ''
-image: productos/psicopedagogia/puzzle-4-piezas-test-merrill-palmer-mp-r.jpg
+image: productos/psicopedagogia/puzzle-4-piezas-test-merrill-palmer-mp-r.webp
 
 # sku: PRO001
 price: 34.90

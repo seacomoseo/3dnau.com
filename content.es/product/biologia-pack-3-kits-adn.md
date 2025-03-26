@@ -2,7 +2,7 @@
 slug: pack-3-kits-adn
 title: Pack de 3 Kits ADN (Especial institutos)
 summary: ''
-image: productos/biologia/pack-3-kits-adn.jpg
+image: productos/biologia/pack-3-kits-adn.webp
 
 # sku: PRO001
 price: 260
@@ -16,7 +16,7 @@ related:
 images:
 - productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - productos/biologia/adn-montar-desmontar.webm#mute
-- adn-2.jpg
+- adn-2.webp
 - productos/biologia/protein-bracelet.webm#mute
 
 # toc: false

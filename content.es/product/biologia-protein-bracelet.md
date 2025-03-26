@@ -2,7 +2,7 @@
 slug: protein-bracelet
 title: Protein Bracelet
 summary: ''
-image: productos/biologia/protein-bracelet.jpg
+image: productos/biologia/protein-bracelet.webp
 
 # sku: PRO001
 price: 7
@@ -14,7 +14,7 @@ related: []
 images:
 - productos/biologia/protein-bracelet.webm#mute
 - productos/biologia/protein-bracelet-2.webm#mute
-- productos/biologia/protein-bracelet-2.jpg
+- productos/biologia/protein-bracelet-2.webp
 
 # toc: false
 draft: false

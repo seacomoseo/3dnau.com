@@ -2,7 +2,7 @@
 slug: celula-eucariota-vegetal
 title: Célula Eucariota Vegetal
 summary: ''
-image: productos/biologia/celula-eucariota-vegetal.jpg
+image: productos/biologia/celula-eucariota-vegetal.webp
 
 # sku: PRO001
 price: 35
@@ -12,8 +12,8 @@ category:
 - biologia
 related: []
 images:
-- productos/biologia/celula-eucariota-vegetal-2.jpg
-- productos/biologia/celula-eucariota-vegetal-3.jpg
+- productos/biologia/celula-eucariota-vegetal-2.webp
+- productos/biologia/celula-eucariota-vegetal-3.webp
 
 # toc: false
 draft: false

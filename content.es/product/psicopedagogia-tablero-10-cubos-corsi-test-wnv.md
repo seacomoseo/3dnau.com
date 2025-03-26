@@ -2,7 +2,7 @@
 slug: tablero-10-cubos-corsi-test-wnv
 title: Tablero con 10 cubos corsi para test WNV
 summary: ''
-image: productos/psicopedagogia/tablero-10-cubos-corsi-test-wnv.jpg
+image: productos/psicopedagogia/tablero-10-cubos-corsi-test-wnv.webp
 
 # sku: PRO001
 price: 39.90

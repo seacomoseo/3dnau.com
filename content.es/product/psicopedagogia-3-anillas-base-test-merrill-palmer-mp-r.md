@@ -2,7 +2,7 @@
 slug: 3-anillas-base-test-merrill-palmer-mp-r
 title: 3 Anillas + base para test Merrill-Palmer MP-R
 summary: ''
-image: productos/psicopedagogia/3-anillas-base-test-merrill-palmer-mp-r.jpg
+image: productos/psicopedagogia/3-anillas-base-test-merrill-palmer-mp-r.webp
 
 # sku: PRO001
 price: 34.90

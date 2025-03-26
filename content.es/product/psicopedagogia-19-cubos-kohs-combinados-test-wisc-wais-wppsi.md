@@ -2,7 +2,7 @@
 slug: 19-cubos-kohs-combinados-test-wisc-wais-wppsi
 title: 19 Cubos de Kohs combinados para test WISC, WAIS y WPPSI
 summary: ''
-image: productos/psicopedagogia/19-cubos-kohs-combinados-test-wisc-wais-wppsi.jpg
+image: productos/psicopedagogia/19-cubos-kohs-combinados-test-wisc-wais-wppsi.webp
 
 # sku: PRO001
 price: 44.90

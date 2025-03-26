@@ -2,7 +2,7 @@
 slug: kit-anticuerpos
 title: Kit Anticuerpos
 summary: ''
-image: productos/biologia/kit-anticuerpos.jpg
+image: productos/biologia/kit-anticuerpos.webp
 
 # sku: PRO001
 price: 70

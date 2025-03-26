@@ -2,7 +2,7 @@
 slug: celula-procariota
 title: Célula Procariota
 summary: ''
-image: productos/biologia/celula-procariota.jpg
+image: productos/biologia/celula-procariota.webp
 
 # sku: PRO001
 price: 35

@@ -2,7 +2,7 @@
 slug: maqueta-adn
 title: Maqueta ADN
 summary: ''
-image: productos/biologia/maqueta-adn.jpg
+image: productos/biologia/maqueta-adn.webp
 
 # sku: PRO001
 price: 64

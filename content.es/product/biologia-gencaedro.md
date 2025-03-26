@@ -2,7 +2,7 @@
 slug: gencaedro
 title: Gencaedro
 summary: ''
-image: productos/biologia/gencaedro.jpg
+image: productos/biologia/gencaedro.webp
 
 # sku: PRO001
 price: 30

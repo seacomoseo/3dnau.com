@@ -2,7 +2,7 @@
 slug: kit-adn-basico
 title: Kit ADN Básico
 summary: ''
-image: productos/biologia/kit-adn-basico.jpg
+image: productos/biologia/kit-adn-basico.webp
 
 # sku: PRO001
 price: 115
@@ -16,7 +16,7 @@ related:
 images:
 - productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - productos/biologia/adn-montar-desmontar.webm#mute
-- adn-2.jpg
+- adn-2.webp
 - productos/biologia/protein-bracelet.webm#mute
 
 # toc: false
