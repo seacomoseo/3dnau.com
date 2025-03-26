@@ -1,2 +1,14 @@
 title: Páginas
 order: 100
+tpl:
+  list:
+    align: center
+    color: white
+    card: false
+    ratio: 2/1
+    image: hide
+    icon: file
+    hs: 3
+    md: hide
+    pin: plus
+    button: cta

@@ -2,13 +2,10 @@ name: Cabecera
 node: header
 align: left
 boxes:
-- if: breadcrumbs
-  node: nav
-  md: |
-    {{< breadcrumbs >}}
 - title: '{{% param title %}}'
 - tags:
   - type: type
+  - type: tax
 - if: price
   price: '{{ param price }}'
   md: |
