@@ -17,3 +17,7 @@ boxes:
   params:
   - page: image
     box: image
+  - page: image
+    box: link
+  button: hide
+  node: div
