@@ -29,5 +29,5 @@ Contiene un trozo de membrana celular, la bomba de sodio/potasio y una moneda de
 
 ## Ventajas educativas
 
-- icon:check Facilita la comprensión visual de procesos celulares.
-- icon:check Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
+- :check: Facilita la comprensión visual de procesos celulares.
+- :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.

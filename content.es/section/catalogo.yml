@@ -3,11 +3,11 @@ title: Catálogo
 subtitle: Productos
 icon: cubes
 
-gap_y: 2
+space: 2
 box:
   icon_type: side
 boxes:
-- content: <br>
+- md: <br>
 - title: Biología
   hn: 3
   icon: dna
@@ -17,10 +17,10 @@ boxes:
     - biologia
     max: 12
   box:
-    columns: 4
-    direction: left
+    cols: 4
+    # direction: left
     slider: true
-- content: <br>
+- md: <br>
 - title: Psicopedagogía
   hn: 3
   icon: brain
@@ -30,11 +30,11 @@ boxes:
     - psicopedagogia
     max: 12
   box:
-    columns: 4
+    cols: 4
     slider: true
-- content: |
+- md: |
     <br>
 
-    [btn icon:cubes Ver todos](/productos/)
+    [[:cubes: Ver todos]](/productos/)
 
-    [btn icon:bookmark Ver categorías](/categorias/)
+    [[:bookmark: Ver categorías]](/categorias/)

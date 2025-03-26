@@ -1,10 +1,10 @@
 name: Pie
 color: alt-dark
-divider: squares
-content: |
-  - icon:copyright      {{< internal-link index >}}
-  - icon:scale-balanced {{< internal-link legal >}}
-  - icon:shield-keyhole {{< internal-link privacy >}}
-  - icon:cookie-bite    {{< internal-link cookies >}}
-  - icon:seacomoseo     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "homefollow")
+div: squares
+md: |
+  - :copyright:      {{< internal-link index >}}
+  - :scale-balanced: {{< internal-link legal >}}
+  - :shield-keyhole: {{< internal-link privacy >}}
+  - :cookie-bite:    {{< internal-link cookies >}}
+  - :seacomoseo:     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
   {.list-inline}

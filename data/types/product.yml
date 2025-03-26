@@ -2,31 +2,31 @@ title: Productos
 order: 2
 base: product
 related: true
-template:
+tpl:
   toc: false
   sections:
   - file: productos/_header
-  - file: base/content
+  - file: productos/content
   - file: productos/images
   - file: base/related
   - file: productos/comprar
   - file: base/share
   list:
-    columns: 3
+    cols: 3
     color: white
     align: center
     inset: true
     hs: 6
-    content: hide
+    md: hide
     label: Ver producto
-    button: link
+    button: cta
 params:
 - name: images # ~BOX_GALLERY_IMAGES
   label: Images
   type: image
   multiple: true
 es:
-  content: |
+  md: |
     ## Material Escolar Adaptado a Secundaria
 
     Innovación y Accesibilidad en el Aula.

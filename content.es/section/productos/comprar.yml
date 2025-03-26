@@ -1,6 +1,6 @@
 name: Comprar
 title: Comprar
-content: |
+md: |
   Rellena el formulario marcando los productos que desees y nos pondremos en contacto contigo
 align: center
 size: sm

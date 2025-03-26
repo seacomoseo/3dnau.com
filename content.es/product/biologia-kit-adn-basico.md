@@ -41,6 +41,6 @@ Este kit incluye más de 100 piezas manipulativas que permiten a los estudiantes
 
 ## Ventajas educativas
 
-- icon:check Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular.
-- icon:check Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
-- icon:check Contiene autoevaluaciones para potenciar el autoaprendizaje.
+- :check: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular.
+- :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
+- :check: Contiene autoevaluaciones para potenciar el autoaprendizaje.

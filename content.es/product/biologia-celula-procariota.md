@@ -25,8 +25,11 @@ Introducir conceptos básicos celulares. 
 
 ## Descripción
 
-Contiene una célula procariota con sus distintos orgánulos. Los colores de la foto pueden variar.
+- Contiene una célula procariota con sus distintos orgánulos.
+- Los colores de la foto pueden variar.
+- El modelo mide: 17x8x4 cm aproximadamente.
 
-- Ventajas educativas:
-- icon:check Facilita la comprensión visual tridimensional de entes vivos. 
-- icon:check Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
+## Ventajas educativas:
+
+- :check: Facilita la comprensión visual tridimensional de entes vivos. 
+- :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.

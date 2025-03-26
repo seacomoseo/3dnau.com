@@ -1,3 +1,4 @@
 [submodule "themes/sansoul"]
 	path = themes/sansoul
 	url = https://github.com/seacomoseo/sansoul.git
+  branch = main

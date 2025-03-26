@@ -5,20 +5,20 @@ bg: nosotros.jpg
 full: true
 # size: sm
 box:
-  columns: 2
+  cols: 2
   align_y: center
 boxes:
 - boxes:
   - image: base/logo.svg
-    # span: .125
-    # span_min: .5
+    # fit: .125
+    # fit_vs: .5
     color: white
   - title: Transformando la enseñanza <br> Innovando en educación
     hn: p
     hs: 3
     # underline: true
     # subtitle: Innovando en educación
-    content: |
-      [btn icon:cubes Ver Catálogo](#catalogo)
+    md: |
+      [[:cubes: Ver Catálogo]](#catalogo)
 - image: video.webm
   ratio: 16/9

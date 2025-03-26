@@ -2,35 +2,35 @@ name: Nuestra Propuesta
 title: Nuestra Propuesta
 subtitle: Enriquecer la experiencia educativa
 icon: rocket-launch
-gap_y: 2
+space: 2
 boxes:
 
 - box:
-    columns: 2
+    cols: 2
     gap: 4
-    gap_min: .5
+    gap_vs: .5
     underline: true
     align_y: center
     align: left
-    align_max: right
+    align_vl: right
   boxes:
   - image: material-didactico.jpg
     order: 2
   - title: Material didáctico manipulativo
-    content: |
+    md: |
       Modelos tridimensionales que dan vida a conceptos abstractos y complejos para un aprendizaje dinámico y profundo.
 
 - box:
-    columns: 2
+    cols: 2
     gap: 4
-    gap_min: .5
+    gap_vs: .5
     underline: true
     align_y: center
     align: left
   boxes:
   - image: estudiantes-docentes.jpg
   - title: Beneficios para Estudiantes y Docentes
-    content: |
+    md: |
       - **Enseñanza  Innovadora:** Los profesores pueden crear lecciones más atractivas y dinámicas.
       - **Aprendizaje  Experiencial:** Los estudiantes aprenden a través de la manipulación y la exploración, creando experiencias más memorables e interactivas.
       - **Modelos Inclusivos y  Adaptativos:** Los modelos 3D ofrecen una forma accesible y flexible de aprender, adaptándose a diferentes estilos de aprendizaje y necesidades.

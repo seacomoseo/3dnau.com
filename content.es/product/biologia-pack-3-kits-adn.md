@@ -43,15 +43,15 @@ Maletín que incluye 3 kits con más de 300 piezas manipulativas que permiten a 
 
 ## Ventajas educativas
 
-- icon:check Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular.   
-- icon:check Fomenta el aprendizaje colaborativo en grupos pequeños.
-- icon:check Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
-- icon:check Contiene autoevaluaciones para potenciar el autoaprendizaje del alumnado.
+- :check: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular.   
+- :check: Fomenta el aprendizaje colaborativo en grupos pequeños.
+- :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
+- :check: Contiene autoevaluaciones para potenciar el autoaprendizaje del alumnado.
 
 ## Sugerencias de uso en clase
 
-- icon:check Curso orientativo nivel 4º ESO, pero también sirve como base para cursos superiores.
-- icon:check Úsalo en clases de 50 minutos para actividades prácticas de replicación de ADN.
-- icon:check Ideal para exponer conceptos de transcripción y traducción del ADN en talleres grupales.
-- icon:check Uso recomendable: ≤5 alumnos por kit.
-- icon:check Complementa proyectos de evaluación en biología molecular.
+- :check: Curso orientativo nivel 4º ESO, pero también sirve como base para cursos superiores.
+- :check: Úsalo en clases de 50 minutos para actividades prácticas de replicación de ADN.
+- :check: Ideal para exponer conceptos de transcripción y traducción del ADN en talleres grupales.
+- :check: Uso recomendable: ≤5 alumnos por kit.
+- :check: Complementa proyectos de evaluación en biología molecular.

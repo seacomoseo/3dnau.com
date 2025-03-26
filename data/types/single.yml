@@ -1,7 +1,7 @@
 title: Únicas
 order: 0
 base: single
-template:
+tpl:
   menu:
     logo: false
     sticky: auto
@@ -14,14 +14,15 @@ template:
   callnow:
     show: auto
   section:
-  - color: light
+  - size: lg
+    color: light
     underline: true
     uppercase: true
     alpha: .7
     parallax: fix
-    divider: squares
-    flip_x: false
-    flip_y: false
+    div: squares
+    div_x: false
+    div_y: false
   - color: dark
-    flip_x: true
-    flip_y: true
+    div_x: true
+    div_y: true

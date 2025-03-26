@@ -2,9 +2,9 @@ name: Contacto
 title: Contacto
 subtitle: Solicita una demostración
 icon: paper-plane
-menu_button: link
+menu_button: cta
 size: xs
-content: |
+md: |
   O haznos preguntas sobre nuestros materiales
 align: center
 contact:
@@ -20,7 +20,7 @@ contact:
   link: https://www.instagram.com/3d.nau/
   icon: instagram
   label: '@3d.nau'
-  font_alt: true
+  swap: true
   # button: alt
 inputs:
 - type: text

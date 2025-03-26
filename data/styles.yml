@@ -1,8 +1,7 @@
 icons:
   type: solid
   sharp: false
-  emojis: ''
-  emojis_default: false
+  emojis: false
   play: youtube-iframe
   up: ''
   down: ''
@@ -44,7 +43,7 @@ colors:
     light: ''
     dark: ''
     contrast: all
-  link:
+  cta:
     color: '' #922022
     light: ''
     dark: ''
@@ -52,7 +51,7 @@ colors:
   base:
     white: '#fff'
     light: '#fcfbf8' #eee
-    grey: '#767676'
+    gray: '#767676'
     dark: '#233e32' #191718 #282525
     black: '#000'
 rounded:
@@ -63,11 +62,11 @@ buttons:
   dot_circle: false
   deep: true
   outline: false
-  font_main:
+  font:
     type: title
     bold: false
     uppercase: true
-  font_alt:
+  swap:
     type: base
     bold: false
     uppercase: false
@@ -80,5 +79,3 @@ shadow:
   blur: 0
   color: black
   alpha: 0.85
-performance:
-  show: true

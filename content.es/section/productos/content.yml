@@ -1,0 +1,6 @@
+name: Contenidos
+node: div
+if: content
+id: content
+pt: 0
+md: '{{% content %}}'

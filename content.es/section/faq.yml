@@ -5,28 +5,28 @@ icon: circle-question
 size: sm
 accordions:
 - title: ¿Es posible personalizar los modelos?
-  content: |
+  md: |
     Sí, ofrecemos opciones de personalización según las necesidades específicas.
 
     Ponte en [contacto](#contacto) con nosotros.
 - title: ¿Hay demostraciones disponibles?
-  content: |
+  md: |
     Ofrecemos demostraciones en institutos para que puedas evaluar nuestros productos.
 
     Ponte en [contacto](#contacto) con nosotros y agenda una cita.
 - title: ¿Cuánto tiempo tardan en procesarse los pedidos?
-  content: |
+  md: |
     Trabajamos bajo pedido y los plazos de envío pueden variar.
 
     Ponte en [contacto](#contacto) con nosotros para estimarlos de forma más precisa.
 - title: ¿Qué pasa si se rompen o pierden algunas piezas?
-  content: |
+  md: |
     Existe la posibilidad de adquirir piezas sueltas para no perder la inversión inicial.
 
     Ponte en [contacto](#contacto) con nosotros.
 - title: ¿Qué material usais para la fabricación de los modelos?
-  content: |
+  md: |
     Utilizamos PLA (ácido poliláctico) polímero no tóxico biodegradable proveniente de materia prima vegetal (maíz, caña de azúcar y almidón de yuca).
 - title: ¿Tengo que tener alguna precaución a la hora de guardar los modelos?
-  content: |
+  md: |
     Los materiales no están indicados para soportar fuertes temperaturas, es decir, no dejar los modelos dentro del coche en verano, ni lugares similares para evitar deformaciones.

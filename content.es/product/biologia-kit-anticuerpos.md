@@ -29,5 +29,5 @@ Contiene distintos tipos de anticuerpos y diversos antígenos a los que se adhie
 
 ## Ventajas educativas
 
-- icon:check Facilita la comprensión visual y táctil de procesos abstractos de inmunología. 
-- icon:check Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
+- :check: Facilita la comprensión visual y táctil de procesos abstractos de inmunología. 
+- :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.

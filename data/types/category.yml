@@ -1,22 +1,20 @@
 title: Categorías
 order: 1
 base: page
-taxonomy_of:
+tax_of:
 - name: product
   multiple: true
   breadcrumbs: true
 - name: category
   multiple: true
   breadcrumbs: true
-params:
-- name: ~BOX_ICON_ID
-template:
+tpl:
   list:
-    columns: 3
+    cols: 3
     color: white
     align: center
     inset: true
     icon: ''
     underline: true
     label: Ver productos
-    button: link
+    button: cta

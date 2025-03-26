@@ -8,10 +8,10 @@ step:
 steps:
 - icon: pen-ruler
   title: Diseño
-  content: Cada modelo es cuidadosamente diseñado para garantizar precisión y facilidad de uso.
+  md: Cada modelo es cuidadosamente diseñado para garantizar precisión y facilidad de uso.
 - icon: layer-group
   title: Producción
-  content: Utilizamos impresión 3D con materiales biodegradables para una fabricación sostenible.
+  md: Utilizamos impresión 3D con materiales biodegradables para una fabricación sostenible.
 - icon: wand-magic-sparkles
   title: Personalización
-  content: Ofrecemos la opción de adaptar los modelos a las necesidades específicas de cada aula.
+  md: Ofrecemos la opción de adaptar los modelos a las necesidades específicas de cada aula.

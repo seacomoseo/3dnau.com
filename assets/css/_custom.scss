@@ -9,6 +9,6 @@
 #body-home #header {
   .box--1.bg-white { @include show-from(0); --show-from: perspective(50em) rotateX(-90deg); }
   .box__title      { @include show-from(1); }
-  .content         { @include show-from(2); }
+  .md              { @include show-from(2); }
   .box--2          { @include show-from(3); --show-from: perspective(50em) rotateX(-90deg); }
 }

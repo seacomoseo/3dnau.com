@@ -3,22 +3,22 @@ title: Características
 subtitle: Cómo Funciona
 icon: certificate
 box:
-  columns: 5
+  cols: 5
   hs: 5
   underline: true
 boxes:
 - icon: cubes
   title: Diseño
-  content: Cada modelo es cuidadosamente diseñado para garantizar precisión y facilidad de uso
+  md: Cada modelo es cuidadosamente diseñado para garantizar precisión y facilidad de uso
 - icon: microscope
   title: Tecnología Avanzada
-  content: Utilizamos impresión 3D para crear recursos educativos innovadores y accesibles
+  md: Utilizamos impresión 3D para crear recursos educativos innovadores y accesibles
 - icon: recycle
   title: Sostenible
-  content: Utilizamos materiales biodegradables en la fabricación para respetar el medio ambiente
+  md: Utilizamos materiales biodegradables en la fabricación para respetar el medio ambiente
 - icon: puzzle
   title: Piezas Recambiables
-  content: Existe la posibilidad de adquirir piezas sueltas para no perder la inversión inicial
+  md: Existe la posibilidad de adquirir piezas sueltas para no perder la inversión inicial
 - icon: lightbulb-gear
   title: Personalizable
-  content: Ofrecemos la opción de modificar los modelos según las necesidades específicas de cada aula
+  md: Ofrecemos la opción de modificar los modelos según las necesidades específicas de cada aula

@@ -4,14 +4,14 @@ align: left
 boxes:
 - if: breadcrumbs
   node: nav
-  content: |
+  md: |
     {{< breadcrumbs >}}
 - title: '{{% param title %}}'
 - tags:
   - type: type
 - if: price
   price: '{{ param price }}'
-  content: |
+  md: |
     ^Gastos de envío no incluidos^
 - link: '#comprar'
   label: Comprar

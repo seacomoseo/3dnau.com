@@ -5,7 +5,7 @@ summary: ''
 image: productos/biologia/protein-bracelet.jpg
 
 # sku: PRO001
-price: 12
+price: 7
 # stock: 50
 brand: 3DNAU
 category:

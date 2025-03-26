@@ -3,6 +3,7 @@ slug: kit-adn-avanzado
 title: Kit ADN Avanzado
 summary: ''
 image: productos/biologia/kit-adn-avanzado.jpg
+weight: -1
 
 # sku: PRO001
 price: 145
@@ -36,11 +37,11 @@ Contiene todas las piezas del ADN básico más todas las enzimas específicas qu
 
 ## Extras incluidos
 
-- icon:check Cuaderno de ejercicios con actividades didácticas básico.
-- icon:check Video explicativo de la replicación del ADN.
-- icon:check Código genético tridimensional manipulativo.
+- :check: Cuaderno de ejercicios con actividades didácticas básico.
+- :check: Video explicativo de la replicación del ADN.
+- :check: Código genético tridimensional manipulativo.
 
 ## Ventajas educativas
 
-- icon:check Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular. 
-- icon:check Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
+- :check: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular. 
+- :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.

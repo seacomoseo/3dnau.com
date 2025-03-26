@@ -5,3 +5,5 @@ langs:
   google_analytics: G-PZ38V57Y8Z
 cms:
   logo: base/logo.svg
+others:
+  show: true
