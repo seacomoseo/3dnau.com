@@ -1,0 +1,12 @@
+footer:
+  color: dark
+  div: squares
+  md: |
+    - :copyright:      {{< internal-link index >}}
+    - :scale-balanced: {{< internal-link legal >}}
+    - :shield-keyhole: {{< internal-link privacy >}}
+    - :cookie-bite:    {{< internal-link cookies >}}
+    - :seacomoseo:     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
+    {.list-inline}
+
+    **2025 3DNAU**. Innovación impresa. Educación para todos.

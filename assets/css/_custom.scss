@@ -1,5 +1,17 @@
-.logo__image {
-  border-radius: .4em;
+// Hover
+:root,
+.bg {
+  --hover: #{ $main };
+  --hover-in: #{ $main-contrast-neutral };
+}
+
+// Magenta
+.underline::after {
+  --main: #ff2d95;
+}
+h1.box__title,
+h2.box__title {
+  color: #ff2d95;
 }
 
 // Header 
@@ -7,8 +19,7 @@
   animation: show-from .5s (0 + .125s * $delay) both;
 }
 #body-home #header {
-  .box--1.bg-white { @include show-from(0); --show-from: perspective(50em) rotateX(-90deg); }
+  .image__inner    { @include show-from(0); --show-from: perspective(50em) rotateX(-90deg); }
   .box__title      { @include show-from(1); }
   .md              { @include show-from(2); }
-  .box--2          { @include show-from(3); --show-from: perspective(50em) rotateX(-90deg); }
 }

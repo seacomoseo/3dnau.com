@@ -1,24 +1,32 @@
 name: Cabecera
 hanchor: 3DNAU - Material Didáctico Manipulativo para Educación
-# color: dark
+color: dark
 bg: nosotros.jpg
 full: true
-# size: sm
+size: md
+div: squares
 box:
-  cols: 2
+  # cols: 2
   align_y: center
 boxes:
-- boxes:
-  - image: base/logo.svg
-    # fit: .125
-    # fit_vs: .5
-    color: white
-  - title: Transformando la enseñanza <br> Innovando en educación
-    hn: p
-    hs: 3
-    # underline: true
-    # subtitle: Innovando en educación
-    md: |
-      [[:cubes: Ver Catálogo]](#catalogo)
-- image: video.webm
+# - boxes:
+#   - image: base/logo.svg
+#     # fit: .125
+#     # fit_vs: .5
+#     color: white
+#   - title: Transformando la enseñanza <br> Innovando en educación
+#     hn: p
+#     hs: 3
+#     # underline: true
+#     # subtitle: Innovando en educación
+#     md: |
+#       [[:cubes: Ver Catálogo]](#catalogo)
+- image: https://ia600705.us.archive.org/9/items/video-promocional-3dnau/video-promocional-3dnau.mp4#poster=https://archive.org/download/video-promocional-3dnau/video-promocional-3dnau.thumbs/video-promocional-3dnau_000133.jpg # video.webm
   ratio: 16/9
+  title: Transforma tu aula en un laboratorio interactivo
+  hn: p
+  hs: 3
+  # underline: true
+  # subtitle: Innovando en educación
+  md: |
+    [[:cubes: Ver Catálogo]](#catalogo)

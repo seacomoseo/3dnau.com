@@ -8,24 +8,26 @@ icons:
   left: ''
   right: ''
 fonts:
-  google: true
   base:
-    family: Lora # Barlow
+    google: true
+    family: Montserrat # Lora # Barlow
     weight: 400
-    bold: 700
+    bold: 600 # 700
     italic: false
     line_height: 1.25
   cursive:
-    family: Lora # Barlow
-    weight: 400 # 600
+    google: true
+    family: Montserrat # Lora # Barlow
+    weight: 600 # 400 # 600
     bold: 0
-    italic: true
+    italic: false # true
     line_height: 1.25
     size: 1
     top: 0
   title:
-    family: Alice # Barlow
-    weight: 400 # 800
+    google: true
+    family: Montserrat # Alice # Barlow
+    weight: 800 # 400 # 800
     bold: 0
     italic: false
     line_height: 1.25
@@ -34,25 +36,34 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#a25676' #f65f62
+    color: '#00bcd4' #f65f62
     light: ''
     dark: ''
-    contrast: text
+    contrast:
+      fill: false
+      in: true
+      text: true
   alt:
-    color: '#4a2421' #790709
+    color: '#4caf50' #790709
     light: ''
     dark: ''
-    contrast: all
+    contrast:
+      fill: true
+      in: true
+      text: true
   cta:
-    color: '' #922022
+    color: '#a8e600' #922022
     light: ''
     dark: ''
-    contrast: text
+    contrast:
+      fill: false
+      in: true
+      text: true
   base:
     white: '#fff'
     light: '#fcfbf8' #eee
     gray: '#767676'
-    dark: '#233e32' #191718 #282525
+    dark: '#333' #191718 #282525
     black: '#000'
 rounded:
   radius: 0.5
@@ -63,8 +74,8 @@ buttons:
   deep: true
   outline: false
   font:
-    type: title
-    bold: false
+    type: base
+    bold: true
     uppercase: true
   swap:
     type: base
@@ -76,6 +87,6 @@ inputs:
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.15
   color: black
   alpha: 0.85

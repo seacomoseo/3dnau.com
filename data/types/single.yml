@@ -3,7 +3,7 @@ order: 0
 base: single
 tpl:
   menu:
-    logo: false
+    # logo: false
     sticky: auto
     size: ''
     show_sections: true
@@ -15,14 +15,16 @@ tpl:
     show: auto
   section:
   - size: lg
-    color: light
+    color: white
     underline: true
     uppercase: true
     alpha: .7
     parallax: fix
-    div: squares
-    div_x: false
-    div_y: false
-  - color: dark
-    div_x: true
-    div_y: true
+  #   div: squares
+  #   div_x: false
+  #   div_y: false
+  # - color: dark
+  #   div_x: true
+  #   div_y: true
+  list:
+    ratio: 1

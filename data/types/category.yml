@@ -11,7 +11,6 @@ tax_of:
 tpl:
   list:
     cols: 3
-    color: white
     align: center
     inset: true
     icon: ''

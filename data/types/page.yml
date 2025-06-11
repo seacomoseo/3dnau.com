@@ -3,7 +3,6 @@ order: 100
 tpl:
   list:
     align: center
-    color: white
     card: false
     ratio: 2/1
     image: hide

@@ -14,7 +14,7 @@ contact:
 #   label: 637 984 003
 - type: mail
   label: info@3dnau.com
-  # button: invert
+  button: alt
   # full: true
 - type: custom
   link: https://www.instagram.com/3d.nau/

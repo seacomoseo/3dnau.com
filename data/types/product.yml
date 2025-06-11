@@ -13,7 +13,6 @@ tpl:
   - file: base/share
   list:
     cols: 3
-    color: white
     align: center
     inset: true
     hs: 6
@@ -23,7 +22,7 @@ tpl:
 params:
 - name: images # ~BOX_GALLERY_IMAGES
   label: Images
-  type: image
+  widget: image
   multiple: true
 es:
   md: |

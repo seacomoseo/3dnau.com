@@ -2,14 +2,14 @@ title: Todas
 tpl:
   toc: true
   back:
-    color: light
+    color: white
   menu:
     logo: true
     logo_align: center
     transparent: true
     size: sm
     es:
-      image: base/logo.svg
+      image: base/logo-alt.svg
       items:
       - link: /
         icon: house

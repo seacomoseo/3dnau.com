@@ -3,6 +3,8 @@ title: FAQ
 subtitle: Preguntas Frecuentes
 icon: circle-question
 size: sm
+accordion:
+  swap: true
 accordions:
 - title: ¿Es posible personalizar los modelos?
   md: |

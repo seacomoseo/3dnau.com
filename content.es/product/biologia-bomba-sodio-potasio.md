@@ -11,6 +11,8 @@ brand: 3DNAU
 category:
 - biologia
 related: []
+images:
+- https://archive.org/download/bomba-sodio-potasio_202506/bomba-sodio-potasio.webp
 
 # toc: false
 draft: false
