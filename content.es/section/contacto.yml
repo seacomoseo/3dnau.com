@@ -21,7 +21,7 @@ contact:
   icon: instagram
   label: '@3d.nau'
   swap: true
-  # button: alt
+  button: alt
 inputs:
 - type: text
   name: Nombre

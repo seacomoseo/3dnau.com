@@ -13,6 +13,20 @@ h1.box__title,
 h2.box__title {
   color: #ff2d95;
 }
+.button[href^="https://www.instagram.com/"] {
+  --alt: #ff2d95;
+}
+
+// Lila
+.box__icon--bottom {
+  &::before,
+  &::after {
+    --base: #a66eff;
+  }
+}
+.contact__email-button {
+  --alt: #a66eff;
+}
 
 // Header 
 @mixin show-from($delay) {
@@ -22,4 +36,12 @@ h2.box__title {
   .image__inner    { @include show-from(0); --show-from: perspective(50em) rotateX(-90deg); }
   .box__title      { @include show-from(1); }
   .md              { @include show-from(2); }
+}
+
+// Footer
+#footer {
+  img {
+    max-height: 5em;
+    width: auto;
+  }
 }
