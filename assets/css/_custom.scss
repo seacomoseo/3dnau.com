@@ -5,28 +5,28 @@
   --hover-in: #{ $main-contrast-neutral };
 }
 
-// Magenta
-.underline::after {
-  --main: #ff2d95;
-}
-h1.box__title,
-h2.box__title {
-  color: #ff2d95;
-}
-.button[href^="https://www.instagram.com/"] {
-  --alt: #ff2d95;
-}
+// // Magenta
+// .underline::after {
+//   --main: #ff2d95;
+// }
+// h1.box__title,
+// h2.box__title {
+//   color: #ff2d95;
+// }
+// .button[href^="https://www.instagram.com/"] {
+//   --alt: #ff2d95;
+// }
 
-// Lila
-.box__icon--bottom {
-  &::before,
-  &::after {
-    --base: #a66eff;
-  }
-}
-.contact__email-button {
-  --alt: #a66eff;
-}
+// // Lila
+// .box__icon--bottom {
+//   &::before,
+//   &::after {
+//     --base: #a66eff;
+//   }
+// }
+// .contact__email-button {
+//   --alt: #a66eff;
+// }
 
 // Header 
 @mixin show-from($delay) {

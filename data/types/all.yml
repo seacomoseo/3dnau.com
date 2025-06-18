@@ -1,7 +1,7 @@
 title: Todas
 tpl:
   toc: true
-  back:
+  bg:
     color: white
   menu:
     logo: true

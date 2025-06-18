@@ -36,7 +36,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#00bcd4' #f65f62
+    color: '#e63c8f' #f65f62
     light: ''
     dark: ''
     contrast:
@@ -44,7 +44,7 @@ colors:
       in: true
       text: true
   alt:
-    color: '#4caf50' #790709
+    color: '' #790709
     light: ''
     dark: ''
     contrast:
@@ -52,7 +52,7 @@ colors:
       in: true
       text: true
   cta:
-    color: '#a8e600' #922022
+    color: '#c0cf11' #922022
     light: ''
     dark: ''
     contrast:
