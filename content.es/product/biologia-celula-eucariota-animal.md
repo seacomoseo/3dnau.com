@@ -3,21 +3,15 @@ slug: celula-eucariota-animal
 title: Célula Eucariota Animal
 summary: ''
 image: productos/biologia/celula-eucariota-animal.webp
-
-# sku: PRO001
-price: 35
-# stock: 50
+price: 39
 brand: 3DNAU
+images:
+- productos/biologia/celula-eucariota-animal-2.webp
 category:
 - biologia
 related: []
-images:
-- productos/biologia/celula-eucariota-animal-2.webp
-
-# toc: false
 draft: false
 noindex: false
-# translationKey: product-example
 seo: ''
 description: ''
 ---
