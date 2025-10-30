@@ -3,21 +3,15 @@ slug: bomba-sodio-potasio
 title: Bomba Sodio/Potasio
 summary: ''
 image: productos/biologia/bomba-sodio-potasio.webp
-
-# sku: PRO001
-price: 50
-# stock: 50
+price: 40
 brand: 3DNAU
+images:
+- https://archive.org/download/bomba-sodio-potasio_202506/bomba-sodio-potasio.webp
 category:
 - biologia
 related: []
-images:
-- https://archive.org/download/bomba-sodio-potasio_202506/bomba-sodio-potasio.webp
-
-# toc: false
 draft: false
 noindex: false
-# translationKey: product-example
 seo: ''
 description: ''
 ---
