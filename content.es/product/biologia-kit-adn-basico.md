@@ -3,26 +3,20 @@ slug: kit-adn-basico
 title: Kit ADN Básico
 summary: ''
 image: productos/biologia/kit-adn-basico.webp
-
-# sku: PRO001
 price: 115
-# stock: 50
 brand: 3DNAU
-category:
-- biologia
-related:
-- biologia-kit-adn-avanzado
-- biologia-pack-3-kits-adn
 images:
 - productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - productos/biologia/adn-montar-desmontar.webm#mute
 - adn-2.webp
 - productos/biologia/protein-bracelet.webm#mute
-
-# toc: false
+category:
+- biologia
+related:
+- biologia-kit-adn-avanzado
+- biologia-pack-3-kits-adn
 draft: false
 noindex: false
-# translationKey: product-example
 seo: ''
 description: ''
 ---
@@ -36,7 +30,7 @@ Este kit incluye más de 100 piezas manipulativas que permiten a los estudiantes
 
 ## Extras incluidos
 
-- Cuaderno de ejercicios con actividades didácticas.
+- Cuaderno de ejercicios con actividades didácticas en formato digital.
 - Código genético tridimensional manipulativo.
 
 ## Ventajas educativas
@@ -44,3 +38,7 @@ Este kit incluye más de 100 piezas manipulativas que permiten a los estudiantes
 - :check: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular.
 - :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
 - :check: Contiene autoevaluaciones para potenciar el autoaprendizaje.
+
+
+
+
