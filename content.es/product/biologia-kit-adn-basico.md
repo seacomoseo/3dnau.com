@@ -20,13 +20,13 @@ noindex: false
 seo: ''
 description: ''
 ---
-## Ideal para
+## La maqueta del ADN es ideal para
 
 Introducir conceptos clave de genética y biología molecular de manera práctica con un nivel de 4ºESO. Pero también sirve como base para cursos superiores.
 
-## Descripción
+## Descripción del kit ADN básico
 
-Este kit incluye más de 100 piezas manipulativas que permiten a los estudiantes explorar los procesos de replicación, transcripción y traducción del ADN. Cada pieza está diseñada con precisión para ser intuitiva y funcional.
+Este kit del ADN incluye más de 100 piezas manipulativas que permiten a los estudiantes explorar los procesos de replicación, transcripción y traducción del ADN. Cada pieza está diseñada con precisión para ser intuitiva y funcional.
 
 ## Extras incluidos
 
