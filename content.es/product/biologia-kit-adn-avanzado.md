@@ -4,26 +4,20 @@ title: Kit ADN Avanzado
 summary: ''
 image: productos/biologia/kit-adn-avanzado.webp
 weight: -1
-
-# sku: PRO001
 price: 145
-# stock: 50
 brand: 3DNAU
-category:
-- biologia
-related:
-- biologia-kit-adn-basico
-- biologia-pack-3-kits-adn
 images:
 - productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - productos/biologia/adn-montar-desmontar.webm#mute
 - adn-2.webp
 - productos/biologia/protein-bracelet.webm#mute
-
-# toc: false
+category:
+- biologia
+related:
+- biologia-kit-adn-basico
+- biologia-pack-3-kits-adn
 draft: false
 noindex: false
-# translationKey: product-example
 seo: ''
 description: ''
 ---
@@ -37,7 +31,7 @@ Contiene todas las piezas del ADN básico más todas las enzimas específicas qu
 
 ## Extras incluidos
 
-- :check: Cuaderno de ejercicios con actividades didácticas básico.
+- :check: Cuaderno de ejercicios en formato PDF con actividades didácticas básicas.
 - :check: Video explicativo de la replicación del ADN.
 - :check: Código genético tridimensional manipulativo.
 
@@ -45,3 +39,7 @@ Contiene todas las piezas del ADN básico más todas las enzimas específicas qu
 
 - :check: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular. 
 - :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
+
+
+
+
