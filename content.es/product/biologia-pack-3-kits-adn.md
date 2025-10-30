@@ -3,7 +3,7 @@ slug: pack-3-kits-adn
 title: Pack de 3 Kits ADN (Especial institutos)
 summary: ''
 image: productos/biologia/pack-3-kits-adn.webp
-price: 288.99
+price: 289
 brand: 3DNAU
 images:
 - productos/biologia/adn-enrollamiento-horizontal.webm#mute
