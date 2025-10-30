@@ -25,7 +25,7 @@ Introducir conceptos básicos celulares. 
 - Los colores de la foto pueden variar.
 - El modelo mide: 15x13x10 cm aproximadamente.
 
-## Ventajas educativas de la maqueta de célula eucariota animal
+## Ventajas educativas de la maqueta 3D de célula eucariota animal
 
 - :check: Facilita la comprensión visual tridimensional de entes vivos. 
 - :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
