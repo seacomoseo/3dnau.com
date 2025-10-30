@@ -16,7 +16,7 @@ description: ''
 ---
 **Tablero rígido con 10 cubos Corsi unidos a él, valido para el test WNV (Escala No Verbal de Aptitud Intelectual de Wechsler).**
 
-El tablero mide 27x20x1 cm. y los cubos son de 3 cm de lado. Los cubos van atornillados a la base, y los números van impresos en relieve. Cuenta con almohadillas antideslizantes en las esquinas de la base.
+El tablero mide 27x20x1 cm. y los cubos Corsi son de 3 cm de lado. Los cubos van atornillados a la base, y los números van impresos en relieve. Cuenta con almohadillas antideslizantes en las esquinas de la base.
 
 Más información sobre [WNV](https://www.pearsonclinical.es/wnv-escala-no-verbal-de-aptitud-intelectual-de-wechsler).
 
