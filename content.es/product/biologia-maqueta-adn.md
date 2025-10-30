@@ -3,24 +3,18 @@ slug: maqueta-adn
 title: Maqueta ADN
 summary: ''
 image: productos/biologia/maqueta-adn.webp
-
-# sku: PRO001
-price: 64
-# stock: 50
+price: 105
 brand: 3DNAU
+images:
+- productos/biologia/maqueta-adn-2.webm#mute
 category:
 - biologia
 related:
 - biologia-kit-adn-avanzado
 - biologia-kit-adn-basico
 - biologia-pack-3-kits-adn
-images:
-- productos/biologia/maqueta-adn-2.webm#mute
-
-# toc: false
 draft: false
 noindex: false
-# translationKey: product-example
 seo: ''
 description: ''
 ---
