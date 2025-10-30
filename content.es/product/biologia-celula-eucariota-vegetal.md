@@ -3,22 +3,16 @@ slug: celula-eucariota-vegetal
 title: Célula Eucariota Vegetal
 summary: ''
 image: productos/biologia/celula-eucariota-vegetal.webp
-
-# sku: PRO001
-price: 35
-# stock: 50
+price: 39
 brand: 3DNAU
-category:
-- biologia
-related: []
 images:
 - productos/biologia/celula-eucariota-vegetal-2.webp
 - productos/biologia/celula-eucariota-vegetal-3.webp
-
-# toc: false
+category:
+- biologia
+related: []
 draft: false
 noindex: false
-# translationKey: product-example
 seo: ''
 description: ''
 ---
