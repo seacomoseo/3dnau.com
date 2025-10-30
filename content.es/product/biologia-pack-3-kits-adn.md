@@ -3,26 +3,20 @@ slug: pack-3-kits-adn
 title: Pack de 3 Kits ADN (Especial institutos)
 summary: ''
 image: productos/biologia/pack-3-kits-adn.webp
-
-# sku: PRO001
-price: 260
-# stock: 50
+price: 288.99
 brand: 3DNAU
-category:
-- biologia
-related:
-- biologia-kit-adn-avanzado
-- biologia-kit-adn-basico
 images:
 - productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - productos/biologia/adn-montar-desmontar.webm#mute
 - adn-2.webp
 - productos/biologia/protein-bracelet.webm#mute
-
-# toc: false
+category:
+- biologia
+related:
+- biologia-kit-adn-avanzado
+- biologia-kit-adn-basico
 draft: false
 noindex: false
-# translationKey: product-example
 seo: ''
 description: ''
 ---
