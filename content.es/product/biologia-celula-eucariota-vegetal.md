@@ -26,7 +26,11 @@ Introducir conceptos básicos celulares. 
 - Los colores de la foto pueden variar.
 - El modelo mide: 17x17x6 cm aproximadamente.
 
-## Ventajas educativas
+## Ventajas educativas de la maqueta 3D de célula eucariota vegetal
 
 - :check: Facilita la comprensión visual tridimensional de entes vivos. 
 - :check: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
+
+
+
+
