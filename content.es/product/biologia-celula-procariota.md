@@ -3,19 +3,14 @@ slug: celula-procariota
 title: Célula Procariota
 summary: ''
 image: productos/biologia/celula-procariota.webp
-
-# sku: PRO001
-price: 35
-# stock: 50
+price: 55
 brand: 3DNAU
+images: null
 category:
 - biologia
 related: []
-
-# toc: false
 draft: false
 noindex: false
-# translationKey: product-example
 seo: ''
 description: ''
 ---
