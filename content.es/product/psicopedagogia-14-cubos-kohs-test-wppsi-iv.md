@@ -3,7 +3,7 @@ slug: 14-cubos-kohs-test-wppsi-iv
 title: 14 Cubos de Kohs para test WPPSI-IV
 summary: ''
 image: productos/psicopedagogia/14-cubos-kohs-test-wppsi-iv.webp
-price: 29.9
+price: 27.9
 brand: 3DNAU
 images: null
 category:
