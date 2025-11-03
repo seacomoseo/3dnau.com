@@ -3,7 +3,7 @@ slug: 19-cubos-kohs-combinados-test-wisc-wais-wppsi
 title: 19 Cubos de Kohs combinados para test WISC, WAIS y WPPSI
 summary: ''
 image: productos/psicopedagogia/19-cubos-kohs-combinados-test-wisc-wais-wppsi.webp
-price: 44.9
+price: 38.9
 brand: 3DNAU
 images: null
 category:
