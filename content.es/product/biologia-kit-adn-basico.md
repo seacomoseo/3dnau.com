@@ -3,7 +3,7 @@ slug: kit-adn-basico
 title: Kit ADN Básico
 summary: ''
 image: productos/biologia/kit-adn-basico.webp
-price: 116.02
+price: 116
 brand: 3DNAU
 images:
 - productos/biologia/adn-enrollamiento-horizontal.webm#mute
