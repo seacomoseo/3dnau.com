@@ -3,19 +3,14 @@ slug: puzzle-6-piezas-test-merrill-palmer-mp-r
 title: Puzzle de 6 piezas para test Merrill-Palmer MP-R
 summary: ''
 image: productos/psicopedagogia/puzzle-6-piezas-test-merrill-palmer-mp-r.webp
-
-# sku: PRO001
-price: 34.90
-# stock: 50
+price: 33.9
 brand: 3DNAU
+images: null
 category:
 - psicopedagogia
 related: []
-
-# toc: false
 draft: false
 noindex: false
-# translationKey: product-example
 seo: ''
 description: ''
 ---
