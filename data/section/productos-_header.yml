@@ -1,0 +1,24 @@
+name: Productos ➡️ Cabecera
+node: header
+box:
+  align: left
+boxes:
+- title: '{{% get title %}}'
+- tags:
+  - type: type
+  - type: tax
+- if: price
+  price: '{{ get price }}'
+  md: |
+    ^Gastos de envío no incluidos^
+- url: '#comprar'
+  label: Comprar
+  align: left
+- if: img
+  get:
+  - from: img
+    to: img
+  - from: img
+    to: url
+  btn: hide
+  node: div

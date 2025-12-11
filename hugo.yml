@@ -1,5 +1,5 @@
 baseURL: https://3dnau.com
-buildFuture: true
+buildFuture: y
 theme: [sansoul]
 params:
   domain: 3dnau.com
@@ -7,5 +7,5 @@ params:
   netlify_id: 95fb2b7c-c69c-44d2-957d-3097dd343f2d
   netlify_hook: Njc0YzkwNzI5ODU3OTZhNTg0OWQ4ZDc0Cg==
   cloudflare_id: 
-  drive_link: https://drive.google.com/file/d/11xUiZo3kEIbu-1JX_hGzP2SRWj6zUTTD
+  drive_url: https://drive.google.com/file/d/11xUiZo3kEIbu-1JX_hGzP2SRWj6zUTTD
   drive_mails: saraypilchardus@gmail.com

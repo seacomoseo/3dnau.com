@@ -1,0 +1,34 @@
+menu:
+  img: /u/base/logo-alt.svg
+  items:
+  - url: /
+    icon: home
+    label: Inicio
+  - url: /productos/
+    icon: featured_seasonal_and_gifts
+    label: Productos
+  - url: /categorias/
+    icon: bookmark
+    label: Categorías
+title: Valores Globales
+footer:
+  color: dark
+  div: squares
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
+    {.list-inline}
+
+    **2025 3DNAU**. Innovación impresa. Educación para todos.
+
+    - [![](/u/logos/um.svg)](https://www.um.es/ "[nofollow]")
+    - [![](/u/logos/umu-emprende-alt.webp)](https://www.um.es/web/umuemprende/ "[nofollow]")
+    - [![](/u/logos/emprendedoras-10-alt.webp)](https://emprendedoras10.ceeic.com/ "[nofollow]")
+    - [![](/u/logos/ceeim.svg)](https://www.ceeim.es/ "[nofollow]")
+    - [![](/u/logos/ceeic.webp)](https://www.ceeic.com/ "[nofollow]")
+    - [![](/u/logos/uncomur.webp)](https://ucomur.org/ "[nofollow]")
+    - [![](/u/logos/info.svg)](https://www.institutofomentomurcia.es/ "[nofollow]")
+    {.list-inline}

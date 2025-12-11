@@ -1,35 +1,21 @@
 title: Productos
-order: 2
+weight: 1
 base: product
-related: true
+rel: y
 tpl:
-  toc: false
+  toc: n
   sections:
-  - file: productos/_header
-  - file: productos/content
-  - file: productos/images
-  - file: base/related
-  - file: productos/comprar
-  - file: base/share
+  - file: productos-_header
+  - file: productos-content
+  - file: productos-images
+  - file: base-rel
+  - file: productos-comprar
+  - file: base-share
   list:
     cols: 3
     align: center
-    inset: true
+    inset: y
     hs: 6
     md: hide
     label: Ver producto
-    button: cta
-params:
-- name: images # ~BOX_GALLERY_IMAGES
-  label: Images
-  widget: image
-  multiple: true
-es:
-  md: |
-    ## Material Escolar Adaptado a Secundaria
-
-    Innovación y Accesibilidad en el Aula.
-
-    Descubra nuestra gama de materiales diseñados para transformar el aprendizaje de biología en experiencias prácticas y significativas.
-
-    Cada producto está optimizado para fomentar la comprensión y la participación de los alumnos, con un enfoque inclusivo que atiende diversas necesidades educativas.
+    btn: cta

@@ -1,0 +1,4 @@
+- name: brand
+  value: 3DNAU
+  path:
+  - '/product/*'

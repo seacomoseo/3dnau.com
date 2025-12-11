@@ -1,0 +1,12 @@
+name: Productos ➡️ Imágenes
+node: div
+id: images
+pt: 0
+boxes:
+- gallery:
+    type: boxes
+  get:
+  - from: imgs
+    to: imgs
+  box:
+    gap: 2

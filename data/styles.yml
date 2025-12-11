@@ -1,89 +1,83 @@
 icons:
-  type: solid
-  sharp: false
-  emojis: false
-  play: youtube-iframe
-  up: ''
-  down: ''
-  left: ''
-  right: ''
+  fill: y
+  weight: 700
+  grade: 0
+  optical: 24
+  style: outlined
+  defs:
+    play: svg:youtube-iframe
 fonts:
   base:
-    google: true
     family: Montserrat # Lora # Barlow
     weight: 400
     bold: 600 # 700
-    italic: false
+    italic: n
     line_height: 1.25
   cursive:
-    google: true
     family: Montserrat # Lora # Barlow
     weight: 600 # 400 # 600
     bold: 0
     italic: false # true
     line_height: 1.25
     size: 1
-    top: 0
   title:
-    google: true
     family: Montserrat # Alice # Barlow
     weight: 800 # 400 # 800
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
     size: 1
-    top: 0
-  blockquote_cursive: true
+  blockquote_cursive: y
 colors:
   main:
     color: '#e63c8f' #f65f62
-    light: ''
-    dark: ''
-    contrast:
-      fill: false
-      in: true
-      text: true
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: n
+      in: y
+      text: y
   alt:
-    color: '' #790709
-    light: ''
-    dark: ''
-    contrast:
-      fill: true
-      in: true
-      text: true
+    color: '#ffffff' #790709
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: y
+      in: y
+      text: y
   cta:
     color: '#c0cf11' #922022
-    light: ''
-    dark: ''
-    contrast:
-      fill: false
-      in: true
-      text: true
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: n
+      in: y
+      text: y
   base:
-    white: '#fff'
+    white: '#ffffff'
     light: '#fcfbf8' #eee
     gray: '#767676'
-    dark: '#333' #191718 #282525
-    black: '#000'
+    dark: '#333333' #191718 #282525
+    black: '#000000'
 rounded:
   radius: 0.5
-  chamfer: false
-buttons:
-  sides_round: false
-  dot_circle: false
-  deep: true
-  outline: false
+  chamfer: n
+btns:
+  pill: n
+  disc: n
+  deep: y
+  outline: n
   font:
     type: base
-    bold: true
-    uppercase: true
+    bold: y
+    caps: y
   swap:
     type: base
-    bold: false
-    uppercase: false
+    bold: n
+    caps: n
 inputs:
-  fill: false
-  labels_out: false
+  fill: n
+  labels: in
 shadow:
   left: 0.15
   top: 0.15

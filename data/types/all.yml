@@ -1,51 +1,37 @@
 title: Todas
 tpl:
-  toc: true
   bg:
     color: white
   menu:
-    logo: true
+    sticky: none
+    logo: y
     logo_align: center
-    transparent: true
+    clear: y
     size: sm
-    es:
-      image: base/logo-alt.svg
-      items:
-      - link: /
-        icon: house
-        label: Inicio
-      - link: /productos/
-        icon: gift
-        label: Productos
-      - link: /categorias/
-        icon: bookmark
-        label: Categorías
-  callnow: {}
   section:
   - size: sm
-  modal: {}
   sections:
-  - file: base/_header
-  - file: base/toc
-  - file: base/content
-  - file: base/address
-  - file: base/author
-  - file: base/social
-  - file: base/comments
-  - file: base/children
-  - file: base/share
-  - file: base/related
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-rel
   list:
     cols: 3
     color: white
     icon: hide
-    shade: true
+    shade: y
     ratio: 4/3
-    inset: true
+    inset: y
     align: left
-    button: hide
+    btn: hide
     tags:
     - type: date
     - type: address
   related:
-    slider: true
+    slider: y

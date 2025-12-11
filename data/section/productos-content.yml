@@ -1,0 +1,8 @@
+name: Productos ➡️ Contenidos
+node: div
+if: content
+id: content
+pt: 0
+boxes:
+- md: '{{% content %}}'
+  md_line: 2

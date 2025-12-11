@@ -1,0 +1,25 @@
+name: Características
+boxes:
+- title: Características
+  sub: Cómo Funciona
+  icon: verified
+  box:
+    cols: 5
+    hs: 5
+    line: y
+  boxes:
+  - icon: chess
+    title: Diseño
+    md: Cada modelo es cuidadosamente diseñado para garantizar precisión y facilidad de uso
+  - icon: precision_manufacturing
+    title: Tecnología Avanzada
+    md: Utilizamos impresión 3D para crear recursos educativos innovadores y accesibles
+  - icon: recycling
+    title: Sostenible
+    md: Utilizamos materiales biodegradables en la fabricación para respetar el medio ambiente
+  - icon: extension
+    title: Piezas Recambiables
+    md: Existe la posibilidad de adquirir piezas sueltas para no perder la inversión inicial
+  - icon: settings
+    title: Personalizable
+    md: Ofrecemos la opción de modificar los modelos según las necesidades específicas de cada aula

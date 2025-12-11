@@ -1,19 +1,20 @@
 title: Categorías
-order: 1
+weight: 1
 base: page
 tax_of:
 - name: product
-  multiple: true
-  breadcrumbs: true
+  multi: y
+  crumbs: y
 - name: category
-  multiple: true
-  breadcrumbs: true
+  multi: y
+  crumbs: y
 tpl:
   list:
     cols: 3
     align: center
-    inset: true
-    icon: ''
-    underline: true
+    inset: y
+    icon: bookmark
+    line: y
+    hs: 3
     label: Ver productos
-    button: cta
+    btn: cta

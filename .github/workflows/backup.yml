@@ -1,0 +1,11 @@
+name: Backup (call the central workflow)
+on:
+  push:
+    branches: [main, master]
+
+jobs:
+  mirror:
+    uses: seacomoseo/backups/.github/workflows/mirror.yml@v1
+    with:
+      repo: ${{ github.repository }}
+      repo_name: ${{ github.event.repository.name }}

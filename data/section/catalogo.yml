@@ -1,0 +1,39 @@
+name: Catálogo
+boxes:
+- title: Catálogo
+  sub: Productos
+  icon: widgets
+  space: 2
+  box:
+    icon_pos: side
+  boxes:
+  - md: <br>
+  - title: Biología
+    hn: h3
+    icon: genetics
+    list:
+      type: product
+      category:
+      - biologia
+      max: 12
+    box:
+      cols: 4
+      slider: y
+  - md: <br>
+  - title: Psicopedagogía
+    hn: h3
+    icon: neurology
+    list:
+      type: product
+      category:
+      - psicopedagogia
+      max: 12
+    box:
+      cols: 4
+      slider: y
+  - md: |
+      <br>
+
+      [[::widgets:: Ver todos]](/productos/)
+
+      [[::bookmark:: Ver categorías]](/categorias/)

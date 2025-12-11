@@ -1,9 +1,4 @@
-langs:
-- lang: es
-  title: 3DNAU
-  description: Material didáctico manipulativo para educación. Modelos 3D mediante impresión de materiales reponibles adaptados a todos los estudiantes.
-  google_analytics: G-PZ38V57Y8Z
-cms:
-  logo: base/logo.svg
-others:
-  show: true
+ga4: G-PZ38V57Y8Z
+mail: info@3dnau.com
+cms_logo: /u/base/logo.svg
+show: y

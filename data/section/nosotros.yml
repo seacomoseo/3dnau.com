@@ -1,0 +1,28 @@
+name: Nosotros
+size: md
+boxes:
+- title: Nosotros
+  sub: Sobre 3DNAU
+  icon: info
+  box:
+    cols: 2
+    gap: 4
+    gap_vs: 2
+    line: y
+    align_y: center
+    align: left
+  boxes:
+  - img: /u/nosotros.jpg
+  - box:
+      line: y
+      gap: 4
+      gap_vs: 2
+    boxes:
+    - title: Historia
+      md: |
+        En un inicio nuestro proyecto nació de la necesidad de ofrecer herramientas prácticas y accesibles para la enseñanza de biología en secundaria.
+
+        Tras observar la dificultad de explicar conceptos complejos solo con texto e imágenes, y alejándonos de pantallas adictivas, decidimos desarrollar recursos manipulativos que permitieran a los estudiantes aprender mediante la experimentación y la interacción en primera persona.
+    - title: Perfil del Equipo
+      md: |
+        Los fundadores cuentan con un equipo diverso de profesionales y el apoyo incondicional de la Universidad de Murcia, combinando la experiencia en educación y ciencias, con el talento de expertos diseñadores especializados en tecnologías de impresión 3D.

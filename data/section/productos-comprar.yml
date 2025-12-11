@@ -1,0 +1,47 @@
+name: Productos ➡️ Comprar
+size: sm
+boxes:
+- title: Comprar
+  md: |
+    Rellena el formulario marcando los productos que desees y nos pondremos en contacto contigo
+  align: center
+  inputs:
+  - type: checks
+    name: Biología
+    items:
+    - label: Bomba Sodio/Potasio
+    - label: Célula Eucariota Animal
+    - label: Célula Eucariota Vegetal
+    - label: Célula Procariota
+    - label: Gencaedro
+    - label: Protein Bracelet
+    - label: Kit Anticuerpos
+    - label: Kit ADN Avanzado
+    - label: Kit ADN Básico
+    - label: Pack de 3 Kits ADN (Especial institutos)
+  - type: checks
+    name: Psicopedagogía
+    items:
+    - label: 9 Cubos de Kohs para test WISC V y WAIS
+    - label: 14 Cubos de Kohs para test WPPSI-IV
+    - label: 19 Cubos de Kohs combinados para test WISC, WAIS y WPPSI
+    - label: Juego de 6 anillas ENFEN + base “Torre de Hanoi”
+    - label: Tablero con 10 cubos corsi para test WNV
+    - label: 60 Fichas y 50 palitos, material para test Tedi-Math
+    - label: Base con 6 bastones cuadrados para test Merrill-Palmer MP-R
+    - label: Base con 6 bastones redondos para test Merrill-Palmer MP-R
+    - label: 3 Anillas + base para test Merrill-Palmer MP-R
+    - label: Puzzle de 4 piezas para test Merrill-Palmer MP-R
+    - label: Puzzle de 6 piezas para test Merrill-Palmer MP-R
+  - type: text
+    name: Nombre
+    req: y
+  - type: phone
+    name: Teléfono
+    req: y
+  - type: mail
+    name: Email
+    req: y
+  - type: area
+    name: Detalles
+    req: y

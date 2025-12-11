@@ -1,0 +1,18 @@
+name: Cómo Funciona
+size: sm
+boxes:
+- title: Cómo Funciona
+  sub: Fases
+  icon: settings
+  step:
+    line: y
+  steps:
+  - icon: design_services
+    title: Diseño
+    md: Cada modelo es cuidadosamente diseñado para garantizar precisión y facilidad de uso.
+  - icon: stacks
+    title: Producción
+    md: Utilizamos impresión 3D con materiales biodegradables para una fabricación sostenible.
+  - icon: auto_fix_high
+    title: Personalización
+    md: Ofrecemos la opción de adaptar los modelos a las necesidades específicas de cada aula.

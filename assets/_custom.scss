@@ -1,0 +1,47 @@
+// Hover
+:root,
+.bg {
+  --hover: #{ $main };
+  --hover-in: #{ $main-turn-neutral };
+}
+
+// // Magenta
+// .line::after {
+//   --main: #ff2d95;
+// }
+// h1.box__title,
+// h2.box__title {
+//   color: #ff2d95;
+// }
+// .btn[href^="https://www.instagram.com/"] {
+//   --alt: #ff2d95;
+// }
+
+// // Lila
+// .box__icon--sub {
+//   &::before,
+//   &::after {
+//     --base: #a66eff;
+//   }
+// }
+// .link__email {
+//   --alt: #a66eff;
+// }
+
+// Header 
+@mixin show-from($delay) {
+  animation: show-from .5s (0 + .125s * $delay) both;
+}
+#body-home #header {
+  .img__in    { @include show-from(0); --show-from: perspective(50em) rotateX(-90deg); }
+  .box__title { @include show-from(1); }
+  .md         { @include show-from(2); }
+}
+
+// Footer
+#footer {
+  img {
+    max-height: 5em;
+    width: auto;
+  }
+}
