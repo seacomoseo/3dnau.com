@@ -25,13 +25,13 @@ Exhibir y manipular tu molécula de ADN de forma cómoda. Su diseño permite mon
 ## ADN Vínculo – Edición Personalizada
 
 - ::check:: Pregúntanos por nuestra doble hélice de ADN personalizable, donde incorporaremos letras, nombres, iniciales o una palabra significativa, representando _tu historia codificada base a base._
-- ::check:: Cada letra sustituye a una base del ADN, creando una secuencia única e irrepetible, como vuestra historia.
-- 
+- ::check:: Cada letra sustituye a una base del ADN, creando una _secuencia única e irrepetible, como vuestra historia._
+-
 - **Opciones de personalización:**
 - 2 nombres (uno por hebra)
 - Iniciales repetidas a lo largo de la hélice
 - Una palabra clave (LOVE, SIEMPRE, JUNTOS, etc.)
-- Fecha importante codificada en bloques
+- Fecha importante 
 - Mensaje corto (máx. 30 caracteres)
-- 
+-
 - ::check:: No es solo un regalo romántico: es _"tu vínculo codificado en ADN_". Ideal como regalo de San Valentín, aniversarios o momentos que merecen quedar codificados para siempre.
