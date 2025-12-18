@@ -1,13 +1,12 @@
 ---
 slug: maqueta-adn
 title: Maqueta ADN
-sum: ''
 img: /u/productos/biologia/maqueta-adn.webp
 price: 105
-imgs:
-- /u/productos/biologia/maqueta-adn-2.webm#mute
 category:
 - biologia
+imgs:
+- /u/productos/biologia/maqueta-adn-2.webm#mute
 related:
 - biologia-kit-adn-avanzado
 - biologia-kit-adn-basico
@@ -23,11 +22,16 @@ Exhibir y manipular tu molécula de ADN de forma cómoda. Su diseño permite mon
 - En su interior, encontrarás una molécula de ADN con 15-16 pares de nucleótidos, representando la icónica doble hélice.
 - Este diseño funcional incluye tapas negras impresas en material plástico biodegradable, fáciles de abrir y cerrar.
 
-## Ventajas educativas
+## ADN Vínculo – Edición Personalizada
 
-- ::check:: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular. 
-- ::check:: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
-
-
-
-
+- ::check:: Pregúntanos por nuestra doble hélice de ADN personalizable, donde incorporaremos letras, nombres, iniciales o una palabra significativa, representando _tu historia codificada base a base._
+- ::check:: Cada letra sustituye a una base del ADN, creando una secuencia única e irrepetible, como vuestra historia.
+- 
+- **Opciones de personalización:**
+- 2 nombres (uno por hebra)
+- Iniciales repetidas a lo largo de la hélice
+- Una palabra clave (LOVE, SIEMPRE, JUNTOS, etc.)
+- Fecha importante codificada en bloques
+- Mensaje corto (máx. 30 caracteres)
+- 
+- ::check:: No es solo un regalo romántico: es _"tu vínculo codificado en ADN_". Ideal como regalo de San Valentín, aniversarios o momentos que merecen quedar codificados para siempre.
