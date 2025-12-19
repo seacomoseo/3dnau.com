@@ -1,5 +1,5 @@
 ---
-slug: h
+slug: pack-3-kits-adn-avanzado
 title: Pack de 3 Kits ADN Avanzado (Especial institutos)
 ---
 ## El pack de 3 kit de ADN es ideal para
