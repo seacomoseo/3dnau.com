@@ -1,16 +1,15 @@
 ---
 slug: pack-3-kits-adn
-title: Pack de 3 Kits ADN (Especial institutos)
-sum: ''
+title: Pack de 3 Kits ADN Básico (Especial institutos)
 img: /u/productos/biologia/pack-3-kits-adn.webp
 price: 289
+category:
+- biologia
 imgs:
 - /u/productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - /u/productos/biologia/adn-montar-desmontar.webm#mute
 - /u/adn-2.webp
 - /u/productos/biologia/protein-bracelet.webm#mute
-category:
-- biologia
 related:
 - biologia-kit-adn-avanzado
 - biologia-kit-adn-basico
@@ -32,7 +31,7 @@ Incluye 3 kits del ADN con más de 300 piezas manipulativas que permiten a los e
 
 ## Ventajas educativas del kit ADN
 
-- ::check:: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular.   
+- ::check:: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular.
 - ::check:: Fomenta el aprendizaje colaborativo en grupos pequeños.
 - ::check:: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
 - ::check:: Contiene autoevaluaciones para potenciar el autoaprendizaje del alumnado.
@@ -44,7 +43,3 @@ Incluye 3 kits del ADN con más de 300 piezas manipulativas que permiten a los e
 - ::check:: Ideal para exponer conceptos de transcripción y traducción del ADN en talleres grupales.
 - ::check:: Uso recomendable: ≤5 alumnos por kit.
 - ::check:: Complementa proyectos de evaluación en biología molecular.
-
-
-
-
