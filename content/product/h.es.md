@@ -2,13 +2,13 @@
 slug: pack-3-kits-adn-avanzado
 title: Pack de 3 Kits ADN Avanzado (Especial institutos)
 ---
-## El pack de 3 kit de ADN es ideal para
+## El pack de 3 kit de ADN avanzado es ideal para
 
-Profesores que buscan introducir y profundizar en conceptos clave de genética y biología molecular de manera práctica en las aulas, promocionando la participación activa del alumnado.
+Profesores que buscan introducir y profundizar en conceptos clave de genética y biología molecular de manera práctica en las aulas, promocionando la participación activa del alumnado. Reproducir de manera práctica el proceso de la replicación, transcripción y traducción del ADN de manera más profunda con todos los agentes que intervienen (enzimas, proteínas, ...). Nivel de 2º bachillerato.
 
-## Descripción
+## Descripción maquetas ADN avanzado
 
-Incluye 3 kits del ADN con más de 350 piezas manipulativas que permiten a los estudiantes explorar los procesos de replicación, transcripción y traducción del ADN. Cada pieza está diseñada con precisión para ser intuitiva y funcional.
+Incluye 3 kits del ADN con más de 350 piezas manipulativas que permiten a los estudiantes explorar los procesos del dogma central de la biología molecular. Cada pieza está diseñada con precisión para ser intuitiva y funcional. Contiene todas las piezas del kit ADN básico más todas las enzimas específicas que intervienen en el proceso de replicación, transcripción y traducción para que puedas reproducir todo el proceso. Cada pieza está diseñada con precisión para ser intuitiva y funcional.
 
 ## Extras incluidos
 
