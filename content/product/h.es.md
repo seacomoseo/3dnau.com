@@ -1,6 +1,9 @@
 ---
 slug: pack-3-kits-adn-avanzado
 title: Pack de 3 Kits ADN Avanzado (Especial institutos)
+price: 240
+category:
+- biologia
 ---
 ## El pack de 3 kit de ADN avanzado es ideal para
 
