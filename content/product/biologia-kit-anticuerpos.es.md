@@ -1,15 +1,14 @@
 ---
 slug: kit-anticuerpos
 title: Kit Anticuerpos
-sum: ''
-img: /u/productos/biologia/kit-anticuerpos.webp
-
-# sku: PRO001
+img: /u/whatsapp-image-2026-01-07-at-11-42-54.webp
 price: 70
-# stock: 50
+images:
+- /u/whatsapp-image-2026-01-07-at-11-42-55-1.webp
+- /u/whatsapp-image-2026-01-07-at-11-42-53.webp
+- /u/whatsapp-image-2026-01-07-at-11-42-55-3.webp
 category:
 - biologia
-rel: []
 ---
 ## Ideal para
 
@@ -21,5 +20,5 @@ Contiene distintos tipos de anticuerpos y diversos antígenos a los que se adhie
 
 ## Ventajas educativas
 
-- ::check:: Facilita la comprensión visual y táctil de procesos abstractos de inmunología. 
+- ::check:: Facilita la comprensión visual y táctil de procesos abstractos de inmunología.
 - ::check:: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
