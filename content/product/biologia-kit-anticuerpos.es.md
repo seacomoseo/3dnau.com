@@ -3,7 +3,7 @@ slug: kit-anticuerpos
 title: Kit Anticuerpos
 img: /u/whatsapp-image-2026-01-07-at-11-42-54.webp
 price: 70
-images:
+imgs:
 - /u/whatsapp-image-2026-01-07-at-11-42-55-1.webp
 - /u/whatsapp-image-2026-01-07-at-11-42-53.webp
 - /u/whatsapp-image-2026-01-07-at-11-42-55-3.webp

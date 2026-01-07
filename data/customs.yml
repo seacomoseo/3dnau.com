@@ -1,7 +1,7 @@
 
 
 - types: [ product ]
-  name: images
-  label: Images
+  name: imgs
+  label: Imágenes
   widget: img
   multi: y
