@@ -1,14 +1,12 @@
 ---
 slug: bomba-sodio-potasio
 title: Bomba Sodio/Potasio
-sum: ''
 img: /u/productos/biologia/bomba-sodio-potasio.webp
 price: 40
 imgs:
 - https://archive.org/download/bomba-sodio-potasio_202506/bomba-sodio-potasio.webp
 category:
 - biologia
-rel: []
 ---
 ## Ideal para
 

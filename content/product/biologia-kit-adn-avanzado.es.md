@@ -1,7 +1,6 @@
 ---
 slug: kit-adn-avanzado
 title: Kit ADN Avanzado
-sum: ''
 img: /u/productos/biologia/kit-adn-avanzado.webp
 weight: -1
 price: 145

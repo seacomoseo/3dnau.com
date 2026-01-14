@@ -1,7 +1,6 @@
 ---
 slug: celula-eucariota-vegetal
 title: Célula Eucariota Vegetal
-sum: ''
 img: /u/productos/biologia/celula-eucariota-vegetal.webp
 price: 39
 imgs:
@@ -9,7 +8,6 @@ imgs:
 - /u/productos/biologia/celula-eucariota-vegetal-3.webp
 category:
 - biologia
-rel: []
 ---
 ## Ideal para
 

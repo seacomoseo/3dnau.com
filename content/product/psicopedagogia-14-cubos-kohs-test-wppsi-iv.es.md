@@ -1,13 +1,10 @@
 ---
 slug: 14-cubos-kohs-test-wppsi-iv
 title: 14 Cubos de Kohs para test WPPSI-IV
-sum: ''
 img: /u/productos/psicopedagogia/14-cubos-kohs-test-wppsi-iv.webp
 price: 27.9
-imgs: null
 category:
 - psicopedagogia
-rel: []
 ---
 **Cubos de Kohs validos para prueba WPPSI-IV.**
 

@@ -1,13 +1,10 @@
 ---
 slug: 9-cubos-kohs-test-wisc-v-wais
 title: 9 Cubos de Kohs para test WISC V y WAIS
-sum: ''
 img: /u/productos/psicopedagogia/9-cubos-kohs-test-wisc-v-wais.webp
 price: 27.9
-imgs: null
 category:
 - psicopedagogia
-rel: []
 ---
 **Cubos de Kohs validos para prueba WISC V y prueba WAIS.**
 

@@ -1,13 +1,10 @@
 ---
 slug: celula-procariota
 title: Célula Procariota
-sum: ''
 img: /u/productos/biologia/celula-procariota.webp
 price: 55
-imgs: null
 category:
 - biologia
-rel: []
 ---
 ## Ideal para
 

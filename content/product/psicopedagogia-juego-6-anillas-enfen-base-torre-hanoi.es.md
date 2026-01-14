@@ -1,13 +1,10 @@
 ---
 slug: juego-6-anillas-enfen-base-torre-hanoi
 title: Juego de 6 anillas ENFEN + base “Torre de Hanoi”
-sum: ''
 img: /u/productos/psicopedagogia/juego-6-anillas-enfen-base-torre-hanoi.webp
 price: 47.9
-imgs: null
 category:
 - psicopedagogia
-rel: []
 ---
 **Juego de anillas ENFEN "Torre de Hanoi" valido para el test.**
 

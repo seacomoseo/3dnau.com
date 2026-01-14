@@ -1,13 +1,10 @@
 ---
 slug: 60-fichas-50-palitos-material-test-tedi-math
 title: 60 Fichas y 50 palitos, material para test Tedi-Math
-sum: ''
 img: /u/productos/psicopedagogia/60-fichas-50-palitos-material-test-tedi-math.webp
 price: 22.9
-imgs: null
 category:
 - psicopedagogia
-rel: []
 ---
 **Juego compuesto de 60 fichas (10 cubos, 15 cilindros grandes y 35 cilindros pequeños) y 50 palitos. Valido para el test Tedi-Math (Test para el Diagnóstico de las Competencias Básicas en Matemáticas).**
 

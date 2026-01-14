@@ -1,14 +1,12 @@
 ---
 slug: celula-eucariota-animal
 title: Célula Eucariota Animal
-sum: ''
 img: /u/productos/biologia/celula-eucariota-animal.webp
 price: 39
 imgs:
 - /u/productos/biologia/celula-eucariota-animal-2.webp
 category:
 - biologia
-rel: []
 ---
 ## Ideal para
 
