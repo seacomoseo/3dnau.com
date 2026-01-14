@@ -1,7 +1,7 @@
 ---
 slug: kit-adn-avanzado
 title: Kit ADN Avanzado
-img: /u/productos/biologia/kit-adn-avanzado.webp
+img: /u/img20260103133211.webp
 weight: -1
 price: 145
 imgs:
@@ -31,9 +31,5 @@ Contiene todas las piezas del kit ADN básico más todas las enzimas específica
 
 ## Ventajas educativas
 
-- ::check:: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular. 
+- ::check:: Facilita la comprensión visual y táctil de procesos abstractos complejos de genética y biología molecular.
 - ::check:: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
-
-
-
-
