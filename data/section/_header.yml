@@ -1,19 +1,22 @@
 name: Cabecera
 color: dark
-bi: /u/nosotros.jpg
+bi: '{{ get sections.header.bi }}'
 full: y
 size: md
 div: squares
+box:
+  gap: 2
 boxes:
-- img: /u/video-promocional.jpg
-  vid: https://ia600705.us.archive.org/9/items/video-promocional-3dnau/video-promocional-3dnau.mp4
+- img: '{{ get sections.header.img }}'
+  vid: '{{ get sections.header.vid }}'
   ratio: 16/9
-  hanchor: 3DNAU - Material Didáctico Manipulativo para Educación
-  title: Transforma tu aula en un laboratorio interactivo
+  hanchor: '{{ get sections.header.hanchor }}'
+  title: '{{ get sections.header.title }}'
   hn: p
   hs: 3
   caps: n
   line: n
-  md: |
-    [[::widgets:: Ver Catálogo]](#catalogo)
-  align_y: center
+- pin: widgets
+  label: '{{ get sections.header.label }}'
+  url: '#catalogo'
+  # align_y: center

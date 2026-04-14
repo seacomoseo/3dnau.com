@@ -1,7 +1,118 @@
 
-
 - types: [ product ]
   name: imgs
   label: Imágenes
   widget: img
   multi: y
+
+- types: [ single ]
+  pages: [ _home ]
+  label: Secciones
+  name: sections
+  widget: dict
+  sub:
+  - label: Cabecera
+    name: header
+    widget: dict
+    sub:
+    - var: bi
+    - var: img
+    - var: vid
+    - var: hanchor
+    - var: title
+    - var: label
+  - label: Propuesta
+    name: propuesta
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - label: 1ª
+      name: primera
+      widget: dict
+      sub:
+      - var: img
+      - var: title
+      - var: md
+    - label: 2ª
+      name: segunda
+      widget: dict
+      sub:
+      - var: img
+      - var: title
+      - var: md
+  - label: Características
+    name: caracteristicas
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - label: Elementos
+      name: boxes
+      widget: list
+      sub:
+      - var: icon
+      - var: title
+      - var: md
+  - label: Nosotros
+    name: nosotros
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: img
+    - label: Elementos
+      name: boxes
+      widget: list
+      sub:
+      - var: title
+      - var: md
+  - label: Catálogo
+    name: catalogo
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - label: Biología
+      name: biologia
+      widget: dict
+      sub:
+      - var: title
+      - var: icon
+    - label: Psicopedagogía
+      name: psicopedagogia
+      widget: dict
+      sub:
+      - var: title
+      - var: icon
+    - var: md
+  - label: Reseñas
+    name: resenas
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: reviews
+  - label: FAQ
+    name: faq
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: faqs
+  - label: Contacto
+    name: contacto
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: md
+    - var: links
+    - var: inputs

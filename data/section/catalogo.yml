@@ -1,16 +1,16 @@
 name: Catálogo
 boxes:
-- title: Catálogo
-  sub: Productos
-  icon: widgets
+- title: '{{ get sections.catalogo.title }}'
+  sub: '{{ get sections.catalogo.sub }}'
+  icon: '{{ get sections.catalogo.icon }}'
   space: 2
   box:
     icon_pos: side
   boxes:
   - md: <br>
-  - title: Biología
+  - title: '{{ get sections.catalogo.biologia.title }}'
     hn: h3
-    icon: genetics
+    icon: '{{ get sections.catalogo.biologia.icon }}'
     list:
       type: product
       category:
@@ -20,9 +20,9 @@ boxes:
       cols: 4
       slider: y
   - md: <br>
-  - title: Psicopedagogía
+  - title: '{{ get sections.catalogo.psicopedagogia.title }}'
     hn: h3
-    icon: neurology
+    icon: '{{ get sections.catalogo.psicopedagogia.icon }}'
     list:
       type: product
       category:
@@ -31,9 +31,4 @@ boxes:
     box:
       cols: 4
       slider: y
-  - md: |
-      <br>
-
-      [[::widgets:: Ver todos]](/productos/)
-
-      [[::bookmark:: Ver categorías]](/categorias/)
+  - md: '{{% get sections.catalogo.md %}}'

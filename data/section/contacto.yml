@@ -2,31 +2,13 @@ name: Contacto
 menu_btn: cta
 size: xs
 boxes:
-- title: Contacto
-  sub: Solicita una demostración
-  icon: send
-  md: |
-    O haznos preguntas sobre nuestros materiales
+- title: '{{ get sections.contacto.title }}'
+  sub: '{{ get sections.contacto.sub }}'
+  icon: '{{ get sections.contacto.icon }}'
+  md: '{{ get sections.contacto.md }}'
   align: center
-  links:
-  - type: mail
-    label: info@3dnau.com
-    btn: such
-  - type: custom
-    url: https://www.instagram.com/3d.nau/
-    icon: brand:instagram
-    label: '@3d.nau'
-    swap: y
-    btn: main
-  inputs:
-  - type: text
-    name: Nombre
-    req: y
-  - type: phone
-    name: Teléfono
-  - type: mail
-    name: Email
-    req: y
-  - type: area
-    name: Mensaje
-    req: y
+  get:
+  - from: sections.contacto.links
+    to: links
+  - from: sections.contacto.inputs
+    to: inputs
