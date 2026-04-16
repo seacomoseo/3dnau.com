@@ -4,7 +4,7 @@ icons:
   grade: 0
   optical: 24
   style: outlined
-  defs:
+  def:
     play: svg:youtube-iframe
 fonts:
   base:
