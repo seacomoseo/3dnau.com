@@ -6,9 +6,10 @@ price: 27.9
 category:
 - psicopedagogia
 ---
+
 **Cubos de Kohs validos para prueba WISC V y prueba WAIS.**
 
-Nueve cubos Kohs de 25 mm de lado (tamaño original) con caja cerrada para transportarlos.
+Nueve cubos Kohs de 25 mm de lado y aprox. 15 g por cubo (tamaño y peso original) con caja cerrada para transportarlos.
 
 Más información sobre [WISC V](https://www.pearsonclinical.es/wisc-v-escala-de-inteligencia-de-wechsler-para-ninos-v) y [WAIS IV](https://www.pearsonclinical.es/wais-iv-escala-de-inteligencia-de-wechsler-para-adultos-iv).
 
