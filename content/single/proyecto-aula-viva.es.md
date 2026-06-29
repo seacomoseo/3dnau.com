@@ -165,37 +165,28 @@ landing_sections:
             // Expiration check: July 31, 2026 at 23:59:59 (Spain time UTC+2 is 21:59:59 UTC)
             var expirationDate = Date.UTC(2026, 6, 31, 22, 0, 0);
             if (Date.now() > expirationDate) {
-              // Apply immediate CSS to hide main elements to prevent layout flash
-              var css = 'main { display: none !important; }';
-              var style = document.createElement('style');
-              style.appendChild(document.createTextNode(css));
-              document.head.appendChild(style);
+              var main = document.querySelector('main');
+              if (main) {
+                // Apply immediate CSS to hide main elements to prevent layout flash
+                main.style.display = 'none !important';
 
-              document.addEventListener('DOMContentLoaded', function() {
-                var main = document.querySelector('main');
-                if (main) {
-                  main.style.display = 'flex';
-                  main.style.alignItems = 'center';
-                  main.style.justifyContent = 'center';
-                  main.style.minHeight = '80vh';
+                document.addEventListener('DOMContentLoaded', function() {
                   main.innerHTML = `
-                    <section class="section section--size-lg section--color-white" style="width: 100%; display: flex; align-items: center; justify-content: center; text-align: center;">
-                      <div class="container container--sm">
-                        <div class="box box--line box--caps" style="padding: 4rem 2rem; border-radius: 12px; background: rgba(255,255,255,0.9); box-shadow: 0 8px 32px rgba(0,0,0,0.15); border: 1px solid rgba(0,0,0,0.05);">
-                          <i class="icon" style="font-size: 5rem; color: var(--main); margin-bottom: 1.5rem;">lock_clock</i>
-                          <h1 style="font-size: 2.2rem; font-weight: 800; color: #1a1a1a; margin-bottom: 1rem; line-height: 1.2;">Oferta finalizada</h1>
-                          <p style="font-size: 1.15rem; color: #666; margin-bottom: 2rem; line-height: 1.6;">
-                            Esta página promocional y el acceso a las condiciones especiales del Dossier Pedagógico de 3DNAU han finalizado el <strong>31 de julio de 2026</strong>.
-                          </p>
-                          <a class="btn btn--main" href="/" style="font-weight: 700; display: inline-flex; align-items: center; gap: 0.5rem; text-decoration: none;">
-                            <i class="icon">home</i> Volver al inicio
-                          </a>
+                    <section id="header" class="section section--header section--full bg bg-main-dark pb-div">
+                      <div class="bg-color"></div>
+                      <div class="box container container--xs show">
+                        <h1 class="box__title caps">Oferta finalizada</h2>
+                        <span class="box__icon box__icon--sub main"><i aria-hidden="true" class="icon" lang="zxx" translate="no">lock_clock</i></span>
+                        <div class="box__md md">
+                          <p>Esta página promocional y el acceso a las condiciones especiales del Dossier Pedagógico de 3DNAU han finalizado el <strong>31 de julio de 2026</strong></p>
+                          <p><a class="btn box__btn" href="#catalogo"><i aria-hidden="true" class="icon" lang="zxx" translate="no">home</i><b>Volver al inicio</b></a></p>
                         </div>
                       </div>
                     </section>
                   `;
-                }
-              });
+                  main.style.display = undefined;
+                });
+              }
             }
           })();
         </script>
