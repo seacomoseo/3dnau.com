@@ -116,3 +116,101 @@
     - var: md
     - var: links
     - var: inputs
+
+- types: [ single ]
+  pages: [ proyecto-aula-viva ]
+  label: Secciones
+  name: landing_sections
+  widget: dict
+  sub:
+  - label: Cabecera
+    name: header
+    widget: dict
+    sub:
+    - var: bi
+    - var: img
+    - var: hanchor
+    - var: title
+    - var: label
+    - var: url
+  - label: Dolor
+    name: pain
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: img
+    - var: md
+  - label: Solución
+    name: solution
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: img
+    - var: md
+  - label: Para Quién Es
+    name: qualification
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - label: ES
+      name: is
+      widget: dict
+      sub:
+      - var: title
+      - var: md
+    - label: NO
+      name: isnt
+      widget: dict
+      sub:
+      - var: title
+      - var: md
+  - label: Recorrido
+    name: path
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: img
+    - var: md
+  - label: Urgencia
+    name: urgency
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: img
+    - var: md
+  - label: Sobre Saray
+    name: about
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: img
+    - var: md
+  - label: Reseñas
+    name: resenas
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: reviews
+  - label: Descarga
+    name: download
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: icon
+    - var: form
+    - var: inputs

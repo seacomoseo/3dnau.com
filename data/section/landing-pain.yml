@@ -1,0 +1,18 @@
+name: Dolores Docentes
+id: realidad
+size: md
+boxes:
+- title: '{{ get landing_sections.pain.title }}'
+  sub: '{{ get landing_sections.pain.sub }}'
+  icon: '{{ get landing_sections.pain.icon }}'
+  box:
+    cols: 2
+    gap: 4
+    gap_vs: 2
+    align_y: center
+    align: left
+  boxes:
+  - img: '{{ get landing_sections.pain.img }}'
+  - get:
+    - from: landing_sections.pain.md
+      to: md

@@ -1,4 +1,5 @@
 name: Reseñas
+id: resenas
 boxes:
 - title: '{{ get sections.resenas.title }}'
   sub: '{{ get sections.resenas.sub }}'

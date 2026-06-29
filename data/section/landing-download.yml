@@ -1,0 +1,13 @@
+name: Descarga
+id: descarga
+size: xs
+boxes:
+- title: '{{ get landing_sections.download.title }}'
+  sub: '{{ get landing_sections.download.sub }}'
+  icon: '{{ get landing_sections.download.icon }}'
+  align: center
+  get:
+  - from: landing_sections.download.form
+    to: form
+  - from: landing_sections.download.inputs
+    to: inputs

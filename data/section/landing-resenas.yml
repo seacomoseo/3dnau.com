@@ -1,0 +1,14 @@
+name: Reseñas
+id: resenas
+boxes:
+- title: '{{ get landing_sections.resenas.title }}'
+  sub: '{{ get landing_sections.resenas.sub }}'
+  icon: '{{ get landing_sections.resenas.icon }}'
+  review:
+    cols: 3
+    color: white
+    slider: y
+    time: 8
+  get:
+  - from: landing_sections.resenas.reviews
+    to: reviews

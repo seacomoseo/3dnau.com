@@ -1,0 +1,18 @@
+name: Para Quién Es
+id: para-quien
+size: md
+boxes:
+- title: '{{ get landing_sections.qualification.title }}'
+  sub: '{{ get landing_sections.qualification.sub }}'
+  icon: '{{ get landing_sections.qualification.icon }}'
+  box:
+    cols: 2
+    gap: 4
+    gap_vs: 2
+    align: left
+    hs: 5
+  boxes:
+  - title: '{{ get landing_sections.qualification.is.title }}'
+    md: '{{% get landing_sections.qualification.is.md %}}'
+  - title: '{{ get landing_sections.qualification.isnt.title }}'
+    md: '{{% get landing_sections.qualification.isnt.md %}}'
