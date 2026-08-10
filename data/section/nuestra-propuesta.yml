@@ -9,7 +9,7 @@ boxes:
       duo: 2
       gap: 4
       gap_vs: 1
-      line: y
+      line: true
       align_y: center
       align: left
     boxes:
@@ -20,7 +20,7 @@ boxes:
       duo: 1
       gap: 4
       gap_vs: 1
-      line: y
+      line: true
       align_y: center
       align: left
     boxes:

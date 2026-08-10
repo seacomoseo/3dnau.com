@@ -1,7 +1,7 @@
-name: Cabecera
+name: Hero
 color: dark
 bi: '{{ get sections.header.bi }}'
-full: y
+full: true
 size: md
 div: squares
 box:
@@ -14,8 +14,8 @@ boxes:
   title: '{{ get sections.header.title }}'
   hn: p
   hs: 3
-  caps: n
-  line: n
+  caps: false
+  line: false
 - pin: widgets
   label: '{{ get sections.header.label }}'
   url: '#catalogo'

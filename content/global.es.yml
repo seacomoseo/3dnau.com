@@ -10,7 +10,6 @@ menu:
   - url: /categorias/
     icon: bookmark
     label: Categorías
-title: Valores Globales
 footer:
   color: dark
   div: squares

@@ -3,7 +3,7 @@
   name: imgs
   label: Imágenes
   widget: img
-  multi: y
+  multi: true
 
 - types: [ single ]
   pages: [ _home ]

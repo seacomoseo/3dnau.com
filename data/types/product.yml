@@ -1,11 +1,11 @@
 title: Productos
 weight: 1
 base: product
-rel: y
+rel: true
 tpl:
-  toc: n
+  toc: false
   sections:
-  - file: productos-_header
+  - file: productos-_hero
   - file: productos-content
   - file: productos-images
   - file: base-rel
@@ -14,7 +14,7 @@ tpl:
   list:
     cols: 3
     align: center
-    inset: y
+    inset: true
     hs: 6
     md: hide
     label: Ver producto

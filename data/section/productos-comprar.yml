@@ -35,13 +35,13 @@ boxes:
     - label: Puzzle de 6 piezas para test Merrill-Palmer MP-R
   - type: text
     name: Nombre
-    req: y
+    req: true
   - type: phone
     name: Teléfono
-    req: y
+    req: true
   - type: mail
     name: Email
-    req: y
+    req: true
   - type: area
     name: Detalles
-    req: y
+    req: true

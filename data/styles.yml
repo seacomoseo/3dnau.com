@@ -1,5 +1,5 @@
 icons:
-  fill: y
+  fill: true
   weight: 700
   grade: 0
   optical: 24
@@ -11,7 +11,7 @@ fonts:
     family: Montserrat # Lora # Barlow
     weight: 400
     bold: 600 # 700
-    italic: n
+    italic: false
     line_height: 1.25
   cursive:
     family: Montserrat # Lora # Barlow
@@ -24,35 +24,35 @@ fonts:
     family: Montserrat # Alice # Barlow
     weight: 800 # 400 # 800
     bold: 0
-    italic: n
+    italic: false
     line_height: 1.25
     size: 1
-  blockquote_cursive: y
+  blockquote_cursive: true
 colors:
   main:
     color: '#e63c8f' #f65f62
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: n
-      in: y
-      text: y
+      fill: false
+      in: true
+      text: true
   alt:
     color: '#ffffff' #790709
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: y
-      in: y
-      text: y
+      fill: true
+      in: true
+      text: true
   cta:
     color: '#c0cf11' #922022
     light: '#ffffff'
     dark: '#ffffff'
     turn:
-      fill: n
-      in: y
-      text: y
+      fill: false
+      in: true
+      text: true
   base:
     white: '#ffffff'
     light: '#fcfbf8' #eee
@@ -61,22 +61,22 @@ colors:
     black: '#000000'
 rounded:
   radius: 0.5
-  chamfer: n
+  chamfer: false
 btns:
-  pill: n
-  disc: n
-  deep: y
-  outline: n
+  pill: false
+  disc: false
+  deep: true
+  outline: false
   font:
     type: base
-    bold: y
-    caps: y
+    bold: true
+    caps: true
   swap:
     type: base
-    bold: n
-    caps: n
+    bold: false
+    caps: false
 inputs:
-  fill: n
+  fill: false
   labels: in
 shadow:
   left: 0.15

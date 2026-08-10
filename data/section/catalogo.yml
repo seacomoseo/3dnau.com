@@ -18,7 +18,7 @@ boxes:
       max: 12
     box:
       cols: 4
-      slider: y
+      slider: true
   - md: <br>
   - title: '{{ get sections.catalogo.psicopedagogia.title }}'
     hn: h3
@@ -30,5 +30,5 @@ boxes:
       max: 12
     box:
       cols: 4
-      slider: y
+      slider: true
   - md: '{{% get sections.catalogo.md %}}'

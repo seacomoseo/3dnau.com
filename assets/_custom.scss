@@ -1,8 +1,8 @@
 // Hover
 :root,
 .bg {
-  --hover: #{ $main };
-  --hover-in: #{ $main-turn-neutral };
+  --hover: var(--main);
+  --hover-in: var(--main-in);
 }
 
 // // Magenta
@@ -32,7 +32,7 @@
 @mixin show-from($delay) {
   animation: show-from .5s (0 + .125s * $delay) both;
 }
-#body-home #header {
+#body-home #hero {
   .img__in    { @include show-from(0); --show-from: perspective(50em) rotateX(-90deg); }
   .box__title { @include show-from(1); }
   .md         { @include show-from(2); }

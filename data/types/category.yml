@@ -3,18 +3,18 @@ weight: 1
 base: page
 tax_of:
 - name: product
-  multi: y
-  crumbs: y
+  multi: true
+  crumbs: true
 - name: category
-  multi: y
-  crumbs: y
+  multi: true
+  crumbs: true
 tpl:
   list:
     cols: 3
     align: center
-    inset: y
+    inset: true
     icon: bookmark
-    line: y
+    line: true
     hs: 3
     label: Ver productos
     btn: cta

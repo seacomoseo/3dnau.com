@@ -7,7 +7,7 @@ boxes:
   review:
     cols: 3
     color: white
-    slider: y
+    slider: true
     time: 8
   get:
   - from: landing_sections.resenas.reviews

@@ -6,7 +6,7 @@ tpl:
     sticky: auto
     size: xl
     color: dark
-    hide_custom: y
+    hide_custom: true
     auto: same-modals
   callnow: auto
   section:
@@ -15,7 +15,7 @@ tpl:
     alpha: 0.7
     scroll: fix
     box:
-      line: y
-      caps: y
+      line: true
+      caps: true
   list:
     ratio: 1

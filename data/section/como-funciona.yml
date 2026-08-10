@@ -5,7 +5,7 @@ boxes:
   sub: Fases
   icon: settings
   step:
-    line: y
+    line: true
   steps:
   - icon: design_services
     title: Diseño

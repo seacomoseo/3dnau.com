@@ -11,9 +11,9 @@ seo:
 tpl:
   section:
     - box:
-        caps: n
+        caps: false
   sections:
-  - file: landing-header
+  - file: landing-_hero
   - file: landing-pain
   - file: landing-solution
   - file: landing-qualification
@@ -141,17 +141,17 @@ landing_sections:
       name: Nombre
       label: Nombre completo
       hint: 'Ej: Laura García'
-      req: y
+      req: true
     - type: mail
       name: Email
       label: Correo electrónico
       hint: 'Ej: laura.garcia@ies...'
-      req: y
+      req: true
     - type: text
       name: Centro
       label: Centro Educativo / Instituto
       hint: 'Ej: IES Alfonso X'
-      req: y
+      req: true
     - type: text
       name: Nivel
       label: Asignatura / Nivel (Opcional)

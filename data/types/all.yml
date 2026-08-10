@@ -4,14 +4,14 @@ tpl:
     color: white
   menu:
     sticky: none
-    logo: y
+    logo: true
     logo_align: center
-    clear: y
+    clear: true
     size: sm
   section:
   - size: sm
   sections:
-  - file: base-_header
+  - file: base-_hero
   - file: base-toc
   - file: base-content
   - file: base-address
@@ -25,13 +25,13 @@ tpl:
     cols: 3
     color: white
     icon: hide
-    shade: y
+    shade: true
     ratio: 4/3
-    inset: y
+    inset: true
     align: left
     btn: hide
     tags:
     - type: date
     - type: address
   related:
-    slider: y
+    slider: true

@@ -8,7 +8,7 @@ seo:
   desc: llll➤ Material didáctico manipulativo para educación. ✅ Modelos 3D mediante impresión de materiales reponibles ✅ adaptados a todos los estudiantes.
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: nuestra-propuesta
   - file: caracteristicas
   - file: nosotros
@@ -51,11 +51,11 @@ org:
   - Online
   when:
   - days:
-      mon: y
-      tue: y
-      wed: y
-      thu: y
-      fri: y
+      mon: true
+      tue: true
+      wed: true
+      thu: true
+      fri: true
     hours:
     - open: 8:00
       close: 22:00
@@ -198,19 +198,19 @@ sections:
     - type: custom
       label: '@3d.nau'
       btn: main
-      swap: y
+      swap: true
       icon: brand:instagram
       url: https://www.instagram.com/3d.nau/
     inputs:
     - type: text
       name: Nombre
-      req: y
+      req: true
     - type: phone
       name: Teléfono
     - type: mail
       name: Email
-      req: y
+      req: true
     - type: area
       name: Mensaje
-      req: y
+      req: true
 ---

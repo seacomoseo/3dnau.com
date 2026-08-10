@@ -1,7 +1,8 @@
 baseURL: https://3dnau.com
-buildFuture: y
+buildFuture: true
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: 3dnau.com
   name: 3dnau
   netlify_id: 95fb2b7c-c69c-44d2-957d-3097dd343f2d

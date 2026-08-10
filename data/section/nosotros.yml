@@ -8,13 +8,13 @@ boxes:
     cols: 2
     gap: 4
     gap_vs: 2
-    line: y
+    line: true
     align_y: center
     align: left
   boxes:
   - img: '{{ get sections.nosotros.img }}'
   - box:
-      line: y
+      line: true
       gap: 4
       gap_vs: 2
     get:

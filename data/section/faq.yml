@@ -5,7 +5,7 @@ boxes:
   sub: '{{ get sections.faq.sub }}'
   icon: '{{ get sections.faq.icon }}'
   faq:
-    headers: y
+    headers: true
     hs: 6
   get:
   - from: sections.faq.faqs

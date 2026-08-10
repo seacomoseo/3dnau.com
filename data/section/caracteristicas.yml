@@ -6,7 +6,7 @@ boxes:
   box:
     cols: 5
     hs: 5
-    line: y
+    line: true
   get:
   - from: sections.caracteristicas.boxes
     to: boxes
