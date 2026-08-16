@@ -8,14 +8,14 @@ seo:
   desc: llll➤ Material didáctico manipulativo para educación. ✅ Modelos 3D mediante impresión de materiales reponibles ✅ adaptados a todos los estudiantes.
 tpl:
   sections:
-  - file: _hero
-  - file: nuestra-propuesta
-  - file: caracteristicas
-  - file: nosotros
-  - file: catalogo
-  - file: resenas
-  - file: faq
-  - file: contacto
+  - file: _home-_hero
+  - file: _home-nuestra-propuesta
+  - file: _home-caracteristicas
+  - file: _home-nosotros
+  - file: _home-catalogo
+  - file: _home-resenas
+  - file: _home-faq
+  - file: _home-contacto
 base: org
 org:
   types:
