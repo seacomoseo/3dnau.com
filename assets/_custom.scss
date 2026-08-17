@@ -28,7 +28,7 @@
 //   --alt: #a66eff;
 // }
 
-// Header 
+// Hero 
 @mixin show-from($delay) {
   animation: show-from .5s (0 + .125s * $delay) both;
 }
