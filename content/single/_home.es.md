@@ -1,4 +1,5 @@
 ---
+weight: null
 slug: /
 title: Inicio
 img: /u/base/poster.svg
@@ -62,7 +63,7 @@ org:
   prices: €€
 sections:
   header:
-    bi: /u/nosotros.jpg
+    bi: /u/img20260521105920.webp
     img: /u/video-promocional.jpg
     vid: https://ia600705.us.archive.org/9/items/video-promocional-3dnau/video-promocional-3dnau.mp4
     hanchor: 3DNAU - Material Didáctico Manipulativo para Educación
@@ -77,7 +78,7 @@ sections:
       title: Material didáctico manipulativo
       md: Modelos tridimensionales que dan vida a conceptos abstractos y complejos para un aprendizaje dinámico y profundo.
     segunda:
-      img: /u/estudiantes-docentes.jpg
+      img: /u/landing/adn-4.webp
       title: Beneficios para Estudiantes y Docentes
       md: |-
         - **Enseñanza  Innovadora:** Los profesores pueden crear lecciones más atractivas y dinámicas.
@@ -107,7 +108,7 @@ sections:
     title: Nosotros
     sub: Sobre 3DNAU
     icon: info
-    img: /u/nosotros.jpg
+    img: /u/img_20260521_192119.webp
     boxes:
     - title: Historia
       md: |-
