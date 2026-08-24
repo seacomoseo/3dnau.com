@@ -1,17 +1,17 @@
 ---
+weight: null
 slug: proyecto-aula-viva
 title: Proyecto Aula Viva
 img: /u/landing/dossier-3dnau-compartir.jpg
 sum: Descarga gratis el Dossier Pedagógico "Proyecto Aula Viva" y descubre cómo transformar tu aula de biología.
-expiryDate: 2026-07-31T23:59:59
 seo:
   title: Proyecto Aula Viva - Dossier Pedagógico 3DNAU
   desc: Descarga gratis el Dossier Pedagógico de 3DNAU. Transforma tu aula de biología en un laboratorio interactivo, inclusivo y sin pantallas.
   noindex: true
 tpl:
   section:
-    - box:
-        caps: false
+  - box:
+      caps: false
   sections:
   - file: landing-_hero
   - file: landing-pain
@@ -35,7 +35,7 @@ landing_sections:
     sub: pero completamente desconectada
     icon: sensors_off
     img: /u/landing/adn-1.webp
-    md: |
+    md: |-
       ¿Recuerdas por qué elegiste ser profe? Querías inspirar y despertar curiosidad y vocaciones. Sin embargo, la rutina te golpea cada mañana: te dejas la piel y la voz explicando en la pizarra conceptos abstractos frente a **miradas perdidas, bostezos y alumnos distraídos con el móvil**.
 
       Te enfrentas cada mañana a un **aula de 30 alumnos heterogénea y masificada**. Sientes la impotencia de dejar atrás a alumnos con TDAH o dificultades visuales porque los recursos planos tradicionales no dan para más.
@@ -48,7 +48,7 @@ landing_sections:
     sub: Es hora de que tus alumnos "toquen" la ciencia
     icon: school
     img: /u/landing/adn-2.webp
-    md: |
+    md: |-
       Imagina cruzar la puerta del laboratorio y, por primera vez en mucho tiempo, sentir que **tienes el control absoluto de la atención**. No hay móviles, no hay bostezos; solo el sonido de piezas encajando y el murmullo de alumnos que colaboran entusiasmados para resolver un reto científico real.
 
       Con **3DNAU**, la biología deja de ser una teoría abstracta en un papel para convertirse en algo que tus alumnos pueden **montar, desmontar y entender** con sus propias manos. Verás cómo se les ilumina la cara cuando logran replicar una cadena de ADN o entender la complejidad de una célula interactuando con ella. Ese es el momento en el que dejas de ser un dictador de apuntes para convertirte en el **mentor que guía el descubrimiento**.
@@ -61,16 +61,16 @@ landing_sections:
     sub: ¿Eres uno de ellos?
     icon: search
     is:
-      title: 'Este proyecto ES para ti si...'
-      md: |
+      title: Este proyecto ES para ti si...
+      md: |-
         - ::check:: **Crees que la ciencia se entiende mejor con las manos** que con una pantalla o un dibujo plano.
         - ::check:: Buscas **herramientas de inclusión real** para que ningún alumno (TDAH, dislexia, visión reducida) se quede atrás.
         - ::check:: Quieres **ahorrar tiempo en burocracia** con situaciones de aprendizaje ya alineadas a la LOMLOE.
         - ::check:: Valoras el **material sostenible, duradero y fabricado en España** que sobrevive a generaciones de alumnos.
         - ::check:: Quieres que tu **Departamento de Ciencias sea el referente** en innovación y rigor dentro de tu centro.
     isnt:
-      title: 'Este proyecto NO es para ti si...'
-      md: |
+      title: Este proyecto NO es para ti si...
+      md: |-
         - ::close:: Estás cómodo dictando apuntes y prefieres que tus alumnos **solo memoricen del libro**.
         - ::close:: Crees que el nivel de la clase debe ser el mismo para todos y **no te preocupa la diversidad del aula**.
         - ::close:: Te gusta pasar tus tardes libres redactando informes y **justificando cada coma ante inspección**.
@@ -81,7 +81,7 @@ landing_sections:
     sub: Creado para apoyarte en el aula
     icon: emoji_events
     img: /u/landing/adn-3.webp
-    md: |
+    md: |-
       Sabemos perfectamente el tiempo y la energía que inviertes en diseñar dinámicas que de verdad despierten el interés de tus alumnos.
 
       En **3DNAU** estamos profundamente orgullosos de nuestro camino. Haber sido galardonados por instituciones como la **Cámara de Comercio de Murcia** y **Santander X Award** nos ha confirmado que el aprendizaje manipulativo es el futuro de la educación científica. Y precisamente por ese orgullo, y por el respeto absoluto que tenemos hacia tu labor en el aula, queremos compartir este trabajo contigo de forma **totalmente abierta y gratuita**.
@@ -92,7 +92,7 @@ landing_sections:
     sub: Condiciones especiales por tiempo limitado
     icon: pending_actions
     img: /u/landing/adn-4.webp
-    md: |
+    md: |-
       {{< bg cta >}}
 
       ::warning:: Las condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 31 de julio.
@@ -109,7 +109,7 @@ landing_sections:
     sub: Y he estado exactamente en tu mismo lugar
     icon: person
     img: /u/nosotros.jpg
-    md: |
+    md: |-
       Detrás de los modelos interactivos de 3DNAU no hay una corporación fría o ajena a la realidad educativa. Estoy yo.
 
       Estudié Biología e investigo en la Universidad de Murcia, pero, sobre todo, **he sido profesora de secundaria**. Sé perfectamente lo que es entrar a un aula masificada un lunes por la mañana. Sé lo que es desgañitarse explicando la replicación del ADN en la pizarra y enfrentarse a miradas perdidas o alumnos distraídos con las pantallas. Sé la frustración que se siente al pasar tardes enteras buscando recursos que motiven a los alumnos, solo para terminar sintiendo que el sistema te obliga a dictar un libro plano.
@@ -126,16 +126,15 @@ landing_sections:
     reviews:
     - title: '[@ainoabiogeo](https://www.instagram/ainoabiogeo)'
       sub: Profesora de Biología y Geología y divulgadora en Instagram
-      md: |
-        Mis alumnos se quedan asombrados cuando pueden ver e interactuar en tres dimensiones con las estructuras que explicamos en clase. Los modelos de 3DNAU no solo facilitan mi labor como docente, sino que despiertan un interés real en el laboratorio. Es la herramienta que todo Departamento de Ciencias debería tener.
+      md: Mis alumnos se quedan asombrados cuando pueden ver e interactuar en tres dimensiones con las estructuras que explicamos en clase. Los modelos de 3DNAU no solo facilitan mi labor como docente, sino que despiertan un interés real en el laboratorio. Es la herramienta que todo Departamento de Ciencias debería tener.
   download:
     title: Únete al cambio
     sub: Descarga tu Dossier Pedagógico ahora
     icon: download
     form:
       to: /u/landing/dossier-proyecto-aula-viva.pdf
-      label: ¡Sí, quiero el dossier y las ofertas!
       icon: download
+      label: ¡Sí, quiero el dossier y las ofertas!
     inputs:
     - type: text
       name: Nombre
@@ -157,7 +156,7 @@ landing_sections:
       label: Asignatura / Nivel (Opcional)
       hint: 'Ej: Biología 4º ESO'
     - type: md
-      hint: |
+      hint: |-
         Respetamos tu labor y tu privacidad. Tus datos están seguros y solo te enviaremos contenido de riguroso valor pedagógico y ofertas exclusivas de 3DNAU para tu centro. Sin spam.
 
         <script>
@@ -190,4 +189,6 @@ landing_sections:
             }
           })();
         </script>
+      md: ''
+expiryDate: 2026-07-31T23:59:59
 ---
