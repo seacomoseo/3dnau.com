@@ -104,7 +104,7 @@ landing_sections:
     md: |-
       {{< bg cta >}}
 
-      ::warning:: Las condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 31 de julio.
+      ::warning:: Las condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 15 de octubre.
 
       {{< /bg >}}
 
