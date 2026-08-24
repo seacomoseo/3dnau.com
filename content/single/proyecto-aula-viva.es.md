@@ -49,7 +49,7 @@ landing_sections:
     title: Recupera la ilusión
     sub: Es hora de que tus alumnos "toquen" la ciencia
     icon: school
-    img: /u/img_20260521_192119.webp
+    img: /u/landing/adn-2.webp
     md: |-
       Imagina cruzar la puerta del laboratorio y, por primera vez en mucho tiempo, sentir que **tienes el control absoluto de la atención**. No hay móviles, no hay bostezos; solo el sonido de piezas encajando y el murmullo de alumnos que colaboran entusiasmados para resolver un reto científico real.
 
@@ -78,6 +78,23 @@ landing_sections:
         - ::close:: Te gusta pasar tus tardes libres redactando informes y **justificando cada coma ante inspección**.
         - ::close:: Prefieres comprar materiales de usar y tirar o **no te importa el origen ni la durabilidad** de tus recursos.
         - ::close:: No tienes interés en cambiar nada y **te da igual si tu aula es inspiradora o no**.
+  path:
+    title: Un recurso nacido de nuestro recorrido, creado para apoyarte en el aula.
+    sub: Sabemos perfectamente el tiempo y la energía que inviertes en diseñar dinámicas que de verdad despierten el interés de tus alumnos.
+    md: |-
+      En 3DNAU estamos profundamente orgullosos de nuestro camino. Haber sido galardonados por instituciones como la 
+
+      Cámara de Comercio de Murcia y Santander X Award nos ha confirmado que el aprendizaje manipulativo es el futuro de
+
+      la educación científica. Y precisamente por ese orgullo, y por el respeto absoluto que tenemos hacia tu labor en el aula,
+
+      queremos compartir este trabajo contigo de forma totalmente abierta y gratuita.
+
+      No queremos ofrecerte un simple folleto; queremos darte una herramienta pedagógica real. Un documento riguroso que te
+
+      dé el respaldo científico, técnico y curricular que necesitas para liderar el cambio metodológico en tu centro.
+
+      Sin condiciones, sin letra pequeña y listo para compartir directamente con tus compañeros de departamento.
   urgency:
     title: Planifica el próximo curso con ventajas exclusivas
     sub: Condiciones especiales por tiempo limitado
