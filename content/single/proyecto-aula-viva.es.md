@@ -1,4 +1,5 @@
 ---
+weight: null
 slug: proyecto-aula-viva
 title: Proyecto Aula Viva
 img: /u/landing/dossier-3dnau-compartir.jpg
@@ -48,7 +49,7 @@ landing_sections:
     title: Recupera la ilusión
     sub: Es hora de que tus alumnos "toquen" la ciencia
     icon: school
-    img: /u/landing/adn-2.webp
+    img: /u/img_20260521_192119.webp
     md: |-
       Imagina cruzar la puerta del laboratorio y, por primera vez en mucho tiempo, sentir que **tienes el control absoluto de la atención**. No hay móviles, no hay bostezos; solo el sonido de piezas encajando y el murmullo de alumnos que colaboran entusiasmados para resolver un reto científico real.
 
@@ -77,17 +78,6 @@ landing_sections:
         - ::close:: Te gusta pasar tus tardes libres redactando informes y **justificando cada coma ante inspección**.
         - ::close:: Prefieres comprar materiales de usar y tirar o **no te importa el origen ni la durabilidad** de tus recursos.
         - ::close:: No tienes interés en cambiar nada y **te da igual si tu aula es inspiradora o no**.
-  path:
-    title: Un recurso nacido de nuestro recorrido
-    sub: Creado para apoyarte en el aula
-    icon: emoji_events
-    img: /u/landing/adn-3.webp
-    md: |-
-      Sabemos perfectamente el tiempo y la energía que inviertes en diseñar dinámicas que de verdad despierten el interés de tus alumnos.
-
-      En **3DNAU** estamos profundamente orgullosos de nuestro camino. Haber sido galardonados por instituciones como la **Cámara de Comercio de Murcia** y **Santander X Award** nos ha confirmado que el aprendizaje manipulativo es el futuro de la educación científica. Y precisamente por ese orgullo, y por el respeto absoluto que tenemos hacia tu labor en el aula, queremos compartir este trabajo contigo de forma **totalmente abierta y gratuita**.
-
-      No queremos ofrecerte un simple folleto; queremos darte una herramienta pedagógica real. Un documento riguroso que te dé el respaldo científico, técnico y curricular que necesitas para liderar el cambio metodológico en tu centro. Sin condiciones, sin letra pequeña y listo para compartir directamente con tus compañeros de departamento.
   urgency:
     title: Planifica el próximo curso con ventajas exclusivas
     sub: Condiciones especiales por tiempo limitado
@@ -157,39 +147,6 @@ landing_sections:
       label: Asignatura / Nivel (Opcional)
       hint: 'Ej: Biología 4º ESO'
     - type: md
-      hint: |-
-        Respetamos tu labor y tu privacidad. Tus datos están seguros y solo te enviaremos contenido de riguroso valor pedagógico y ofertas exclusivas de 3DNAU para tu centro. Sin spam.
-
-      # <script>
-      #   (function() {
-      #     // Expiration check: July 31, 2026 at 23:59:59 (Spain time UTC+2 is 21:59:59 UTC)
-      #     var expirationDate = Date.UTC(2026, 6, 31, 22, 0, 0);
-      #     if (Date.now() > expirationDate) {
-      #       var main = document.querySelector('main');
-      #       if (main) {
-      #         // Apply immediate CSS to hide main elements to prevent layout flash
-      #         main.style.display = 'none !important';
-
-      #         document.addEventListener('DOMContentLoaded', function() {
-      #           main.innerHTML = `
-      #             <section id="header" class="section section--header section--full bg bg-main-dark pb-div">
-      #               <div class="bg-color"></div>
-      #               <div class="box container container--xs show">
-      #                 <h1 class="box__title caps">Oferta finalizada</h2>
-      #                 <span class="box__icon box__icon--sub main"><i aria-hidden="true" class="icon" lang="zxx" translate="no">lock_clock</i></span>
-      #                 <div class="box__md md">
-      #                   <p>Esta página promocional y el acceso a las condiciones especiales del Dossier Pedagógico de 3DNAU han finalizado el <strong>31 de julio de 2026</strong></p>
-      #                   <p><a class="btn box__btn" href="#catalogo"><i aria-hidden="true" class="icon" lang="zxx" translate="no">home</i><b>Volver al inicio</b></a></p>
-      #                 </div>
-      #               </div>
-      #             </section>
-      #           `;
-      #           main.style.display = undefined;
-      #         });
-      #       }
-      #     }
-      #   })();
-      # </script>
+      hint: Respetamos tu labor y tu privacidad. Tus datos están seguros y solo te enviaremos contenido de riguroso valor pedagógico y ofertas exclusivas de 3DNAU para tu centro. Sin spam.
       md: ''
-# expiryDate: 2026-07-31T23:59:59
 ---
