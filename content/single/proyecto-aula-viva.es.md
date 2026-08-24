@@ -26,7 +26,7 @@ tpl:
   - file: landing-download
 landing_sections:
   header:
-    bi: /u/nosotros.jpg
+    bi: /u/img20260521105920.webp
     img: /u/landing/dossier-3dnau-compartir.jpg
     hanchor: Proyecto Aula Viva
     title: Sé el profesor que tus alumnos recordarán siempre.
@@ -88,18 +88,18 @@ landing_sections:
 
       ::warning:: Las condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 31 de julio.
 
-      {{< / bg >}}
+      {{< /bg >}}
 
       Las condiciones especiales y los precios por lotes ("Packs Aula") detallados en el dossier están diseñados para ayudar a los centros educativos a optimizar sus presupuestos antes del cierre del año académico.
 
-      Por motivos de planificación de producción en nuestro taller 3D y para asegurar las entregas antes del inicio de las clases, **estas condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 31 de julio**.
+      Por motivos de planificación de producción en nuestro taller 3D y para asegurar las entregas antes del inicio de las clases, **estas condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 15 de octubre**.
 
       Si quieres que tu Departamento de Ciencias comience el próximo curso liderando la innovación y con el equipamiento completo a un precio preferente, este es el momento de tramitar la propuesta en tu centro.
   about:
     title: Hola, soy Saray Mañas Jordá
     sub: Y he estado exactamente en tu mismo lugar
     icon: person
-    img: /u/nosotros.jpg
+    img: /u/img_20260521_192119.webp
     md: |-
       Detrás de los modelos interactivos de 3DNAU no hay una corporación fría o ajena a la realidad educativa. Estoy yo.
 
