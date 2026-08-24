@@ -81,6 +81,7 @@ landing_sections:
   path:
     title: Un recurso nacido de nuestro recorrido, creado para apoyarte en el aula.
     sub: Sabemos perfectamente el tiempo y la energía que inviertes en diseñar dinámicas que de verdad despierten el interés de tus alumnos.
+    img: /u/landing/kit-anticuerpos.jpg
     md: |-
       En 3DNAU estamos profundamente orgullosos de nuestro camino. Haber sido galardonados por instituciones como la 
 
