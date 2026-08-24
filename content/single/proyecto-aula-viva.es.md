@@ -1,5 +1,4 @@
 ---
-weight: null
 slug: proyecto-aula-viva
 title: Proyecto Aula Viva
 img: /u/landing/dossier-3dnau-compartir.jpg
@@ -9,6 +8,8 @@ seo:
   desc: Descarga gratis el Dossier Pedagógico de 3DNAU. Transforma tu aula de biología en un laboratorio interactivo, inclusivo y sin pantallas.
   noindex: true
 tpl:
+  menu:
+    hide: true
   section:
   - box:
       caps: false
@@ -159,36 +160,36 @@ landing_sections:
       hint: |-
         Respetamos tu labor y tu privacidad. Tus datos están seguros y solo te enviaremos contenido de riguroso valor pedagógico y ofertas exclusivas de 3DNAU para tu centro. Sin spam.
 
-        <script>
-          (function() {
-            // Expiration check: July 31, 2026 at 23:59:59 (Spain time UTC+2 is 21:59:59 UTC)
-            var expirationDate = Date.UTC(2026, 6, 31, 22, 0, 0);
-            if (Date.now() > expirationDate) {
-              var main = document.querySelector('main');
-              if (main) {
-                // Apply immediate CSS to hide main elements to prevent layout flash
-                main.style.display = 'none !important';
+      # <script>
+      #   (function() {
+      #     // Expiration check: July 31, 2026 at 23:59:59 (Spain time UTC+2 is 21:59:59 UTC)
+      #     var expirationDate = Date.UTC(2026, 6, 31, 22, 0, 0);
+      #     if (Date.now() > expirationDate) {
+      #       var main = document.querySelector('main');
+      #       if (main) {
+      #         // Apply immediate CSS to hide main elements to prevent layout flash
+      #         main.style.display = 'none !important';
 
-                document.addEventListener('DOMContentLoaded', function() {
-                  main.innerHTML = `
-                    <section id="header" class="section section--header section--full bg bg-main-dark pb-div">
-                      <div class="bg-color"></div>
-                      <div class="box container container--xs show">
-                        <h1 class="box__title caps">Oferta finalizada</h2>
-                        <span class="box__icon box__icon--sub main"><i aria-hidden="true" class="icon" lang="zxx" translate="no">lock_clock</i></span>
-                        <div class="box__md md">
-                          <p>Esta página promocional y el acceso a las condiciones especiales del Dossier Pedagógico de 3DNAU han finalizado el <strong>31 de julio de 2026</strong></p>
-                          <p><a class="btn box__btn" href="#catalogo"><i aria-hidden="true" class="icon" lang="zxx" translate="no">home</i><b>Volver al inicio</b></a></p>
-                        </div>
-                      </div>
-                    </section>
-                  `;
-                  main.style.display = undefined;
-                });
-              }
-            }
-          })();
-        </script>
+      #         document.addEventListener('DOMContentLoaded', function() {
+      #           main.innerHTML = `
+      #             <section id="header" class="section section--header section--full bg bg-main-dark pb-div">
+      #               <div class="bg-color"></div>
+      #               <div class="box container container--xs show">
+      #                 <h1 class="box__title caps">Oferta finalizada</h2>
+      #                 <span class="box__icon box__icon--sub main"><i aria-hidden="true" class="icon" lang="zxx" translate="no">lock_clock</i></span>
+      #                 <div class="box__md md">
+      #                   <p>Esta página promocional y el acceso a las condiciones especiales del Dossier Pedagógico de 3DNAU han finalizado el <strong>31 de julio de 2026</strong></p>
+      #                   <p><a class="btn box__btn" href="#catalogo"><i aria-hidden="true" class="icon" lang="zxx" translate="no">home</i><b>Volver al inicio</b></a></p>
+      #                 </div>
+      #               </div>
+      #             </section>
+      #           `;
+      #           main.style.display = undefined;
+      #         });
+      #       }
+      #     }
+      #   })();
+      # </script>
       md: ''
-expiryDate: 2026-07-31T23:59:59
+# expiryDate: 2026-07-31T23:59:59
 ---
