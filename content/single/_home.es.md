@@ -1,5 +1,4 @@
 ---
-weight: null
 slug: /
 title: Inicio
 img: /u/base/poster.svg

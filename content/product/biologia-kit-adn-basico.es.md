@@ -10,7 +10,7 @@ imgs:
 - /u/productos/biologia/adn-montar-desmontar.webm#mute
 - /u/adn-2.webp
 - /u/productos/biologia/protein-bracelet.webm#mute
-related:
+rel:
 - biologia-kit-adn-avanzado
 - biologia-pack-3-kits-adn
 ---

@@ -1,6 +1,6 @@
 title: Categorías
-weight: 1
 base: page
+weight: 1
 tax_of:
 - name: product
   multi: true

@@ -7,7 +7,7 @@ category:
 - biologia
 imgs:
 - /u/productos/biologia/maqueta-adn-2.webm#mute
-related:
+rel:
 - biologia-kit-adn-avanzado
 - biologia-kit-adn-basico
 - biologia-pack-3-kits-adn

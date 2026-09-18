@@ -11,8 +11,8 @@ menu:
     icon: bookmark
     label: Categorías
 footer:
-  color: dark
   div: squares
+  color: dark
   md: |
     - ::copyright::        {{< internal-link index >}}
     - ::balance::          {{< internal-link legal >}}

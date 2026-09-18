@@ -1,6 +1,6 @@
 title: Productos
-weight: 1
 base: product
+weight: 1
 rel: true
 tpl:
   toc: false

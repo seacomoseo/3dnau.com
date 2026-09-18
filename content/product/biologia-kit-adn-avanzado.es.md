@@ -11,7 +11,7 @@ imgs:
 - /u/productos/biologia/protein-bracelet.webm#mute
 category:
 - biologia
-related:
+rel:
 - biologia-kit-adn-basico
 - biologia-pack-3-kits-adn
 ---

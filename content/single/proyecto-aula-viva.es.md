@@ -1,5 +1,4 @@
 ---
-weight: null
 slug: proyecto-aula-viva
 title: Proyecto Aula Viva
 img: /u/landing/dossier-3dnau-compartir.jpg
