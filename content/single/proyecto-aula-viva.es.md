@@ -108,11 +108,11 @@ landing_sections:
 
       {{< /bg >}}
 
-      Las condiciones especiales y los precios por lotes ("Packs Aula") detallados en el dossier están diseñados para ayudar a los centros educativos a optimizar sus presupuestos antes del cierre del año académico.
+      Las condiciones especiales y los precios por lotes ("Packs Aula") detallados en el dossier están diseñados para ayudar a los centros educativos a optimizar sus presupuestos de inicio de curso. 
 
-      Por motivos de planificación de producción en nuestro taller 3D y para asegurar las entregas antes del inicio de las clases, **estas condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 15 de octubre**.
+      Por motivos de planificación de producción en nuestro taller 3D y para asegurar las entregas antes de avanzar más en el temario, **estas condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 31 de octubre**.
 
-      Si quieres que tu Departamento de Ciencias comience el próximo curso liderando la innovación y con el equipamiento completo a un precio preferente, este es el momento de tramitar la propuesta en tu centro.
+      Si quieres que tu Departamento de Ciencias comience este curso liderando la innovación y con el equipamiento completo a un precio preferente, este es el momento de tramitar la propuesta en tu centro.
   about:
     title: Hola, soy Saray Mañas Jordá
     sub: Y he estado exactamente en tu mismo lugar
@@ -121,11 +121,11 @@ landing_sections:
     md: |-
       Detrás de los modelos interactivos de 3DNAU no hay una corporación fría o ajena a la realidad educativa. Estoy yo.
 
-      Estudié Biología e investigo en la Universidad de Murcia, pero, sobre todo, **he sido profesora de secundaria**. Sé perfectamente lo que es entrar a un aula masificada un lunes por la mañana. Sé lo que es desgañitarse explicando la replicación del ADN en la pizarra y enfrentarse a miradas perdidas o alumnos distraídos con las pantallas. Sé la frustración que se siente al pasar tardes enteras buscando recursos que motiven a los alumnos, solo para terminar sintiendo que el sistema te obliga a dictar un libro plano.
+      Estudié Biología e investigo en la Universidad de Murcia, pero, sobre todo, **he sido profesora de secundaria**. Sé perfectamente lo que es entrar a un aula masificada un lunes por la mañana. Sé lo que es desgañitarse explicando la replicación del ADN en la pizarra y enfrentarse a miradas perdidas o alumnos que se distraen al momento por la sobreexposición a las pantallas. Sé la frustración que se siente al pasar tardes enteras buscando recursos que motiven a los alumnos, solo para terminar sintiendo que el sistema te obliga a dictar un libro plano.
 
       Precisamente porque he vivido esa impotencia desde dentro, decidí que las cosas tenían que cambiar. Dejé las aulas para buscar una solución real para ti y para tus alumnos.
 
-      Así nació **3DNAU**: un proyecto diseñado por expertos en docencia y biología para que el aprendizaje sea manipulativo, interactivo y verdaderamente inclusivo. Ver que este propósito ha sido galardonado por la **Cámara de Comercio de Murcia y Santander X Award** es un orgullo inmenso, pero mi verdadera meta es que vuelvas a sentir la ilusión por enseñar y que tus alumnos descubran que la ciencia no se memoriza... se toca.
+      Así nació **3DNAU**: un proyecto diseñado por expertos en docencia y ciencias para que el aprendizaje sea manipulativo, interactivo y verdaderamente inclusivo. Ver que este propósito ha sido galardonado por la **Cámara de Comercio de Murcia y Santander X Award** es un orgullo inmenso, pero mi verdadera meta es que vuelvas a sentir la ilusión por enseñar y que tus alumnos descubran que la ciencia no se memoriza... se toca.
 
       Descarga el dossier que he preparado para ti y hagamos juntos que tu laboratorio vuelva a cobrar vida.
   resenas:
