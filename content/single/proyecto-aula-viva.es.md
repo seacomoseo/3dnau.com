@@ -1,8 +1,9 @@
 ---
+weight: null
 slug: proyecto-aula-viva
 title: Proyecto Aula Viva
 img: /u/landing/dossier-3dnau-compartir.jpg
-sum: Descarga gratis el Dossier Pedagógico "Proyecto Aula Viva" y descubre cómo transformar tu aula de biología.
+sum: Descarga gratis el Dossier Pedagógico "Proyecto Aula Viva" y descubre cómo transformar tu aula de biología en un laboratorio interactivo, inclusivo y sin pantallas.
 seo:
   title: Proyecto Aula Viva - Dossier Pedagógico 3DNAU
   desc: Descarga gratis el Dossier Pedagógico de 3DNAU. Transforma tu aula de biología en un laboratorio interactivo, inclusivo y sin pantallas.
