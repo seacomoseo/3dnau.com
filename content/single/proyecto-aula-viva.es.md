@@ -55,7 +55,7 @@ landing_sections:
 
       Con **3DNAU**, la biología deja de ser una teoría abstracta en un papel para convertirse en algo que tus alumnos pueden **montar, desmontar y entender** con sus propias manos. Verás cómo se les ilumina la cara cuando logran replicar una cadena de ADN o entender la complejidad de una célula interactuando con ella. Ese es el momento en el que dejas de ser un dictador de apuntes para convertirte en el **mentor que guía el descubrimiento**.
 
-      Para que des el primer paso hoy mismo hacia esa **"Aula Viva"**, hemos creado para ti el **Dossier Pedagógico de 3DNAU**. Es mucho más que un catálogo; es tu **hoja de ruta para innovar sin estrés**. En él encontrarás la justificación curricular para que tu departamento te dé el "sí" de inmediato, ideas de actividades inclusivas y el orgullo de pertenecer a una comunidad de docentes que, como tú, han decidido **hacer que la ciencia se sienta**.
+      Para que des el primer paso hoy mismo hacia esa **"Aula Viva"**, hemos creado para ti el **Dossier Pedagógico de 3DNAU**. Es mucho más que un simple power point; es tu **hoja de ruta para innovar sin estrés**. En él encontrarás la justificación curricular para que tu departamento te dé el "sí" de inmediato, ideas de actividades inclusivas y el orgullo de pertenecer a una comunidad de docentes que, como tú, han decidido **hacer que la ciencia se sienta**.
 
       **Es el momento de volver a disfrutar de tu profesión. Tus alumnos están listos, ¿y tú?**
   qualification:
@@ -97,7 +97,7 @@ landing_sections:
 
       Sin condiciones, sin letra pequeña y listo para compartir directamente con tus compañeros de departamento.
   urgency:
-    title: Planifica el próximo curso con ventajas exclusivas
+    title: Planifica este nuevo curso con ventajas exclusivas
     sub: Condiciones especiales por tiempo limitado
     icon: pending_actions
     img: /u/landing/adn-4.webp
