@@ -1,19 +1,21 @@
 ---
+weight: 12
 slug: pack-3-kits-adn
 title: Pack de 3 Kits ADN Básico (Especial institutos)
 img: /u/productos/biologia/pack-3-kits-adn.webp
+rel:
+- biologia-kit-adn-avanzado
+- biologia-kit-adn-basico
 price: 295
-category:
-- biologia
 imgs:
 - /u/productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - /u/productos/biologia/adn-montar-desmontar.webm#mute
 - /u/adn-2.webp
 - /u/productos/biologia/protein-bracelet.webm#mute
-rel:
-- biologia-kit-adn-avanzado
-- biologia-kit-adn-basico
+category:
+- biologia
 ---
+
 `Oferta de lanzamiento`
 
 ## El pack de 3 kit de ADN es ideal para

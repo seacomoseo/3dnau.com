@@ -1,16 +1,18 @@
 ---
+weight: 29
 slug: protein-bracelet
 title: Protein Bracelet
 img: /u/productos/biologia/protein-bracelet.webp
 price: 7
-category:
-- biologia
 imgs:
 - /u/productos/biologia/protein-bracelet.webm#mute
 - /u/productos/biologia/protein-bracelet-2.webm#mute
 - /u/productos/biologia/protein-bracelet-2.webp
-
+category:
+- biologia
+- repuestos
 ---
+
 ## Descripción
 
 Pulsera conformada por 9 cuentas de aminoácidos. Mide 17 cm aproximadamente de diámetro interior.

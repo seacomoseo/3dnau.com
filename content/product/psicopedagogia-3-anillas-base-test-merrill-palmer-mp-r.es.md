@@ -1,11 +1,13 @@
 ---
+weight: 15
 slug: 3-anillas-base-test-merrill-palmer-mp-r
 title: 3 Anillas + base para test Merrill-Palmer MP-R
 img: /u/productos/psicopedagogia/3-anillas-base-test-merrill-palmer-mp-r.webp
-price: 34.90
+price: 34.9
 category:
 - psicopedagogia
 ---
+
 **Material compuesto de base con bastón más 3 anillas, válido para el test MP-R (Escalas de Desarrollo Merrill-Palmer Revisadas).**
 
 Base de 12x12x2 cm de tamaño, con 3 anillas de 60, 75, 85 mm. de diámetro. Cuenta con almohadillas antideslizantes en las esquinas de la base.

@@ -1,8 +1,13 @@
-- name: seo.noindex
-  value: 'true'
+- name: toc
+  value: 'false'
   type: bool
   path:
-  - /category/*
+  - /category/
+- name: index
+  value: 'false'
+  type: bool
+  path:
+  - /category/
 - name: brand
   value: 3DNAU
   path:

@@ -3,7 +3,6 @@ base: product
 weight: 1
 rel: true
 tpl:
-  toc: false
   sections:
   - file: productos-_hero
   - file: productos-content

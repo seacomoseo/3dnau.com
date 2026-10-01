@@ -1,4 +1,5 @@
 ---
+weight: 43
 slug: celula-eucariota-vegetal
 title: Célula Eucariota Vegetal
 img: /u/productos/biologia/celula-eucariota-vegetal.webp
@@ -9,6 +10,7 @@ imgs:
 category:
 - biologia
 ---
+
 ## Ideal para
 
 Introducir conceptos básicos celulares. 
@@ -23,7 +25,3 @@ Introducir conceptos básicos celulares. 
 
 - ::check:: Facilita la comprensión visual tridimensional de entes vivos. 
 - ::check:: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
-
-
-
-

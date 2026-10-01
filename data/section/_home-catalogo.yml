@@ -7,26 +7,8 @@ boxes:
   box:
     icon_pos: side
   boxes:
-  - md: <br>
-  - title: '{{ get sections.catalogo.biologia.title }}'
-    hn: h3
-    icon: '{{ get sections.catalogo.biologia.icon }}'
-    list:
+  - list:
       type: product
-      category:
-      - biologia
-      max: 12
-    box:
-      cols: 4
-      slider: true
-  - md: <br>
-  - title: '{{ get sections.catalogo.psicopedagogia.title }}'
-    hn: h3
-    icon: '{{ get sections.catalogo.psicopedagogia.icon }}'
-    list:
-      type: product
-      category:
-      - psicopedagogia
       max: 12
     box:
       cols: 4

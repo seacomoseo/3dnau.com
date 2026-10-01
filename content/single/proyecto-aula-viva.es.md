@@ -2,6 +2,9 @@
 weight: null
 slug: proyecto-aula-viva
 title: Proyecto Aula Viva
+draft: false
+date: 2026-09-27
+expiryDate: 2026-11-01
 img: /u/landing/dossier-3dnau-compartir.jpg
 sum: Descarga gratis el Dossier Pedagógico "Proyecto Aula Viva" y descubre cómo transformar tu aula de biología en un laboratorio interactivo, inclusivo y sin pantallas.
 seo:
@@ -104,7 +107,7 @@ landing_sections:
     md: |-
       {{< bg cta >}}
 
-      ::warning:: Las condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 15 de octubre.
+      ::warning:: Las condiciones exclusivas para institutos y colegios estarán vigentes únicamente hasta el 31 de octubre.
 
       {{< /bg >}}
 
@@ -135,36 +138,13 @@ landing_sections:
     reviews:
     - title: '[@ainoabiogeo](https://www.instagram/ainoabiogeo)'
       sub: Profesora de Biología y Geología y divulgadora en Instagram
-      md: Mis alumnos se quedan asombrados cuando pueden ver e interactuar en tres dimensiones con las estructuras que explicamos en clase. Los modelos de 3DNAU no solo facilitan mi labor como docente, sino que despiertan un interés real en el laboratorio. Es la herramienta que todo Departamento de Ciencias debería tener.
+      md: |
+        Mis alumnos se quedan asombrados cuando pueden ver e interactuar en tres dimensiones con las estructuras que explicamos en clase. Los modelos de 3DNAU no solo facilitan mi labor como docente, sino que despiertan un interés real en el laboratorio. Es la herramienta que todo Departamento de Ciencias debería tener.
+
+      # ![9/16](/u/resenas/ainoa-biogeo.mp4)
   download:
     title: Únete al cambio
-    sub: Descarga tu Dossier Pedagógico ahora
+    sub: Recibe el Dossier Pedagógico y las condiciones especiales de la campaña
     icon: download
-    form:
-      to: /u/landing/dossier-proyecto-aula-viva.pdf
-      icon: download
-      label: ¡Sí, quiero el dossier y las ofertas!
-    inputs:
-    - type: text
-      name: Nombre
-      label: Nombre completo
-      hint: 'Ej: Laura García'
-      req: true
-    - type: mail
-      name: Email
-      label: Correo electrónico
-      hint: 'Ej: laura.garcia@ies...'
-      req: true
-    - type: text
-      name: Centro
-      label: Centro Educativo / Instituto
-      hint: 'Ej: IES Alfonso X'
-      req: true
-    - type: text
-      name: Nivel
-      label: Asignatura / Nivel (Opcional)
-      hint: 'Ej: Biología 4º ESO'
-    - type: md
-      hint: Respetamos tu labor y tu privacidad. Tus datos están seguros y solo te enviaremos contenido de riguroso valor pedagógico y ofertas exclusivas de 3DNAU para tu centro. Sin spam.
-      md: ''
+    md: '<iframe width="540" height="305" src="https://bdcf5d59.sibforms.com/v2/serve/MUIFALAc7_CK82ieIVpoPK9bGS6jjYM3qZoD7_E8i2qmLHANNFtEOmoTVq0qYDShC2l0dt5R_nz10gZwaVGYnQdj36-60SrwFxPafeRsMr1lrEcwn5sACS5pKO3aVTeE-IchwecRSi6WpbjDHdACHNz4asxZmcOEW86PklxHacPcyg9i9jFRhw_1KB2TCUOUJ8cmZBS6W6BVnCBZFg==" frameborder="0" scrolling="auto" allowfullscreen style="height:880px"></iframe>'
 ---

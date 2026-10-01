@@ -1,4 +1,5 @@
 ---
+weight: 38
 slug: kit-anticuerpos
 title: Kit Anticuerpos
 img: /u/whatsapp-image-2026-01-07-at-11-42-54.webp
@@ -10,6 +11,7 @@ imgs:
 category:
 - biologia
 ---
+
 ## Ideal para
 
 Profesores que buscan introducir conceptos clave de inmunología y reproducir de manera práctica la intervención del sistema inmunitario contra agentes externos.

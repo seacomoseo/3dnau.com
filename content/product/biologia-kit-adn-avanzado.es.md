@@ -1,8 +1,11 @@
 ---
+weight: 1
 slug: kit-adn-avanzado
 title: Kit ADN Avanzado
 img: /u/img20260103133211.webp
-weight: -1
+rel:
+- biologia-kit-adn-basico
+- biologia-pack-3-kits-adn
 price: 145
 imgs:
 - /u/productos/biologia/adn-enrollamiento-horizontal.webm#mute
@@ -11,10 +14,8 @@ imgs:
 - /u/productos/biologia/protein-bracelet.webm#mute
 category:
 - biologia
-rel:
-- biologia-kit-adn-basico
-- biologia-pack-3-kits-adn
 ---
+
 ## La Maqueta del ADN es ideal para
 
 Reproducir de manera práctica el proceso de la replicación, transcripción y traducción del ADN de manera más profunda con todos los agentes que intervienen (enzimas, proteínas, ...). Nivel de 2º bachillerato.

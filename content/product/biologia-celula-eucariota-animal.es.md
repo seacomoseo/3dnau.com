@@ -1,4 +1,5 @@
 ---
+weight: 42
 slug: celula-eucariota-animal
 title: Célula Eucariota Animal
 img: /u/productos/biologia/celula-eucariota-animal.webp
@@ -8,6 +9,7 @@ imgs:
 category:
 - biologia
 ---
+
 ## Ideal para
 
 Introducir conceptos básicos celulares. 
@@ -22,7 +24,3 @@ Introducir conceptos básicos celulares. 
 
 - ::check:: Facilita la comprensión visual tridimensional de entes vivos. 
 - ::check:: Diseñado con un enfoque inclusivo para diferentes perfiles de alumnado.
-
-
-
-

@@ -1,4 +1,5 @@
 ---
+weight: 40
 slug: celula-procariota
 title: Célula Procariota
 img: /u/productos/biologia/celula-procariota.webp
@@ -6,6 +7,7 @@ price: 55
 category:
 - biologia
 ---
+
 ## Ideal para
 
 Introducir conceptos básicos celulares. 

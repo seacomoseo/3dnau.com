@@ -1,4 +1,5 @@
 ---
+weight: 36
 slug: bomba-sodio-potasio
 title: Bomba Sodio/Potasio
 img: /u/productos/biologia/bomba-sodio-potasio.webp
@@ -8,6 +9,7 @@ imgs:
 category:
 - biologia
 ---
+
 ## Ideal para
 
 Representar la actuación de la bomba sodio/potasio de la membrana celular con gasto energético. 

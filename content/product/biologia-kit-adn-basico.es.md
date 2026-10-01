@@ -1,19 +1,21 @@
 ---
+weight: 4
 slug: kit-adn-basico
 title: Kit ADN Básico
 img: /u/productos/biologia/kit-adn-basico.webp
+rel:
+- biologia-kit-adn-avanzado
+- biologia-pack-3-kits-adn
 price: 120
-category:
-- biologia
 imgs:
 - /u/productos/biologia/adn-enrollamiento-horizontal.webm#mute
 - /u/productos/biologia/adn-montar-desmontar.webm#mute
 - /u/adn-2.webp
 - /u/productos/biologia/protein-bracelet.webm#mute
-rel:
-- biologia-kit-adn-avanzado
-- biologia-pack-3-kits-adn
+category:
+- biologia
 ---
+
 ## La maqueta del ADN es ideal para
 
 Introducir conceptos clave de genética y biología molecular de manera práctica con un nivel de 4ºESO. Pero también sirve como base para cursos superiores.

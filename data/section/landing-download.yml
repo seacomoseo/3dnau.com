@@ -7,7 +7,5 @@ boxes:
   icon: '{{ get landing_sections.download.icon }}'
   align: center
   get:
-  - from: landing_sections.download.form
-    to: form
-  - from: landing_sections.download.inputs
-    to: inputs
+  - from: landing_sections.download.md
+    to: md

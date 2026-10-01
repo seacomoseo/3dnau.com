@@ -1,17 +1,20 @@
 ---
+weight: 22
 slug: maqueta-adn
 title: Maqueta ADN
 img: /u/productos/biologia/maqueta-adn.webp
-price: 105
-category:
-- biologia
-imgs:
-- /u/productos/biologia/maqueta-adn-2.webm#mute
 rel:
 - biologia-kit-adn-avanzado
 - biologia-kit-adn-basico
 - biologia-pack-3-kits-adn
+price: 105
+imgs:
+- /u/productos/biologia/maqueta-adn-2.webm#mute
+category:
+- biologia
+- repuestos
 ---
+
 ## La maqueta del ADN es ideal para
 
 Exhibir y manipular tu molécula de ADN de forma cómoda. Su diseño permite montar y desmontar las piezas a tu gusto.

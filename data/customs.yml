@@ -77,18 +77,6 @@
     - var: title
     - var: sub
     - var: icon
-    - label: Biología
-      name: biologia
-      widget: dict
-      sub:
-      - var: title
-      - var: icon
-    - label: Psicopedagogía
-      name: psicopedagogia
-      widget: dict
-      sub:
-      - var: title
-      - var: icon
     - var: md
   - label: Reseñas
     name: resenas
@@ -212,5 +200,4 @@
     - var: title
     - var: sub
     - var: icon
-    - var: form
-    - var: inputs
+    - var: md

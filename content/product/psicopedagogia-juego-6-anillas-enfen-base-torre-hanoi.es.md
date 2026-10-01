@@ -1,4 +1,5 @@
 ---
+weight: 30
 slug: juego-6-anillas-enfen-base-torre-hanoi
 title: Juego de 6 anillas ENFEN + base “Torre de Hanoi”
 img: /u/productos/psicopedagogia/juego-6-anillas-enfen-base-torre-hanoi.webp
@@ -6,6 +7,7 @@ price: 47.9
 category:
 - psicopedagogia
 ---
+
 **Juego de anillas ENFEN "Torre de Hanoi" valido para el test.**
 
 Base de 28×10 x2 cm de tamaño, con 6 aros de colores de 6,5 cm de diámetro y 3 cilindros para introducir los aros de 9 cm de altura. Los cilindros van atornillados a la base para una resistencia y peso equiparable al modelo oficial de metacrilato. Cuenta con almohadillas antideslizantes en las esquinas de la base.

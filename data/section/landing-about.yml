@@ -1,6 +1,6 @@
 name: Sobre Saray
 id: sobre-saray
-size: md
+# size: md
 boxes:
 - title: '{{ get landing_sections.about.title }}'
   sub: '{{ get landing_sections.about.sub }}'
@@ -9,6 +9,7 @@ boxes:
     cols: 2
     gap: 4
     gap_vs: 2
+    sides: true
     align_y: center
     align: left
   boxes:

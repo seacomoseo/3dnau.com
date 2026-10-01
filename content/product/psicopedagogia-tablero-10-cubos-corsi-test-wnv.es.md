@@ -1,4 +1,5 @@
 ---
+weight: 34
 slug: tablero-10-cubos-corsi-test-wnv
 title: Tablero con 10 cubos corsi para test WNV
 img: /u/productos/psicopedagogia/tablero-10-cubos-corsi-test-wnv.webp
@@ -6,6 +7,7 @@ price: 47.9
 category:
 - psicopedagogia
 ---
+
 **Tablero rígido con 10 cubos Corsi unidos a él, valido para el test WNV (Escala No Verbal de Aptitud Intelectual de Wechsler).**
 
 El tablero mide 27x20x1 cm. y los cubos Corsi son de 3 cm de lado. Los cubos van atornillados a la base, y los números van impresos en relieve. Cuenta con almohadillas antideslizantes en las esquinas de la base.

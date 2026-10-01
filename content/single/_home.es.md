@@ -122,12 +122,6 @@ sections:
     title: Catálogo
     sub: Productos
     icon: widgets
-    biologia:
-      title: Biología
-      icon: genetics
-    psicopedagogia:
-      title: Psicopedagogía
-      icon: neurology
     md: |-
       <br>
 

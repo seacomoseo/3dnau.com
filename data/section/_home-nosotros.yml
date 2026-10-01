@@ -1,5 +1,5 @@
 name: Nosotros
-size: md
+# size: md
 boxes:
 - title: '{{ get sections.nosotros.title }}'
   sub: '{{ get sections.nosotros.sub }}'
@@ -8,6 +8,7 @@ boxes:
     cols: 2
     gap: 4
     gap_vs: 2
+    sides: true
     line: true
     align_y: center
     align: left
