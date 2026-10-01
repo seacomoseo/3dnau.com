@@ -2,12 +2,12 @@
   value: 'false'
   type: bool
   path:
-  - /category/
+  - /category/*
 - name: index
   value: 'false'
   type: bool
   path:
-  - /category/
+  - /category/*
 - name: brand
   value: 3DNAU
   path:
