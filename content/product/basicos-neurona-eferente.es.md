@@ -12,7 +12,7 @@ category:
 - basicos-tejidos
 ---
 
-**3.1. Modelo Anatómico Manipulativo de Neurona Eferente / Botón Sináptico**
+**Modelo Anatómico Manipulativo de Neurona Eferente / Botón Sináptico**
 
 ## Ideal para
 
