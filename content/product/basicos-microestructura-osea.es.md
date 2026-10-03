@@ -10,7 +10,7 @@ category:
 - basicos-anatomia
 ---
 
-**2.8. Modelo de Microestructura Ósea (Hueso Compacto y Esponjoso)**
+**Modelo de Microestructura Ósea (Hueso Compacto y Esponjoso)**
 
 ## Ideal para
 
