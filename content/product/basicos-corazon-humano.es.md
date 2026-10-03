@@ -13,7 +13,7 @@ category:
 - basicos-anatomia
 ---
 
-**2.1. Modelo Anatómico de Corazón Humano (Corte longitudinal con fijación magnética)**
+**Modelo Anatómico de Corazón Humano (Corte longitudinal con fijación magnética)**
 
 ## Ideal para
 
