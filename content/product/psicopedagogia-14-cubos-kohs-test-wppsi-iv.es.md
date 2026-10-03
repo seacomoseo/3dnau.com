@@ -1,5 +1,5 @@
 ---
-weight: 14
+weight: 26
 slug: 14-cubos-kohs-test-wppsi-iv
 title: 14 Cubos de Kohs para test WPPSI-IV
 img: /u/productos/psicopedagogia/14-cubos-kohs-test-wppsi-iv.webp

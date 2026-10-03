@@ -1,5 +1,5 @@
 ---
-weight: 44
+weight: 43
 slug: celula-eucariota-vegetal
 title: Célula Eucariota Vegetal
 img: /u/productos/biologia/celula-eucariota-vegetal.webp

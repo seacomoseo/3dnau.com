@@ -1,5 +1,5 @@
 ---
-weight: 24
+weight: 1
 slug: pack-3-kits-adn-avanzado
 title: Pack de 3 Kits ADN Avanzado (Especial institutos)
 img: /u/x-3.webp

@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 5
 slug: kit-anticuerpos
 title: Kit Anticuerpos
 img: /u/whatsapp-image-2026-01-07-at-11-42-54.webp

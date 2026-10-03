@@ -1,5 +1,5 @@
 ---
-weight: 43
+weight: 42
 slug: celula-eucariota-animal
 title: Célula Eucariota Animal
 img: /u/productos/biologia/celula-eucariota-animal.webp

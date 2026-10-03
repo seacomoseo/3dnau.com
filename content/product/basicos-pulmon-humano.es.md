@@ -1,5 +1,5 @@
 ---
-weight: 40
+weight: 45
 slug: pulmon-humano
 title: Modelo Anatómico de Pulmón y Árbol Bronquial
 img: /u/productos/basicos/pulmon-humano.webp

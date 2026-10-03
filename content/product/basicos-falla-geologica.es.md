@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 12
 slug: falla-geologica
 title: Bloque de Falla Geológica con Intrusión y Estratos
 img: /u/productos/basicos/falla-geologica.webp

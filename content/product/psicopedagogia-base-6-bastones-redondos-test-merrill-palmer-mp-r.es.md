@@ -1,5 +1,5 @@
 ---
-weight: 32
+weight: 31
 slug: base-6-bastones-redondos-test-merrill-palmer-mp-r
 title: Base con 6 bastones redondos para test Merrill-Palmer MP-R
 img: /u/productos/psicopedagogia/base-6-bastones-redondos-test-merrill-palmer-mp-r.webp

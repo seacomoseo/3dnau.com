@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 19
 slug: montessori-atomos-braille
 title: Química orgánica básica Montessori
 img: /u/productos/montessori/atomos-braille.webp

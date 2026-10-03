@@ -1,5 +1,5 @@
 ---
-weight: 31
+weight: 39
 slug: montessori-pack-celulas-eucariotas
 title: Pack Células Eucariotas Animal y Vegetal
 img: /u/productos/montessori/pack-celulas-eucariotas.webp

@@ -1,5 +1,5 @@
 ---
-weight: 21
+weight: 28
 slug: 3-anillas-base-test-merrill-palmer-mp-r
 title: 3 Anillas + base para test Merrill-Palmer MP-R
 img: /u/productos/psicopedagogia/3-anillas-base-test-merrill-palmer-mp-r.webp

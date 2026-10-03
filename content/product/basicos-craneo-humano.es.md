@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 6
 slug: craneo-humano
 title: Modelo Anatómico de Cráneo Humano
 img: /u/productos/basicos/craneo-humano.webp

@@ -1,5 +1,5 @@
 ---
-weight: 23
+weight: 22
 slug: neurona-motora-braille
 title: Neurona Motora con Mielina y Peana en Braille
 img: /u/productos/inclusivos/neurona-motora-braille.webp

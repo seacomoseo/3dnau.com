@@ -1,5 +1,5 @@
 ---
-weight: 18
+weight: 17
 slug: adn-braille
 title: Doble Hélice de ADN con Enzimas Adaptada a Braille
 img: /u/productos/inclusivos/adn-braille.webp

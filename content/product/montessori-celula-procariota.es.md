@@ -1,5 +1,5 @@
 ---
-weight: 17
+weight: 36
 slug: montessori-celula-procariota
 title: Célula Procariota Desmontable Montessori
 img: /u/productos/montessori/celula-procariota.webp

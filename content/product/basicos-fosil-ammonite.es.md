@@ -1,5 +1,5 @@
 ---
-weight: 22
+weight: 21
 slug: fosil-ammonite
 title: Fósil Didáctico de Ammonite
 img: /u/productos/basicos/fosil-ammonite.webp

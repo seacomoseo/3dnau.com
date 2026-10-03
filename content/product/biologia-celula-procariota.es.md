@@ -1,5 +1,5 @@
 ---
-weight: 41
+weight: 40
 slug: celula-procariota
 title: Célula Procariota
 img: /u/productos/biologia/celula-procariota.webp

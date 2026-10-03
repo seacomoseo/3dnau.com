@@ -1,5 +1,5 @@
 ---
-weight: 13
+weight: 9
 slug: membrana-plasmatica-braille
 title: Membrana Plasmática Mosaico Fluido con Braille
 img: /u/productos/inclusivos/membrana-plasmatica-braille.webp

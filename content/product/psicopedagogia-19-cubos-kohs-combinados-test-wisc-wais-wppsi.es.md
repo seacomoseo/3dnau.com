@@ -1,5 +1,5 @@
 ---
-weight: 19
+weight: 27
 slug: 19-cubos-kohs-combinados-test-wisc-wais-wppsi
 title: 19 Cubos de Kohs combinados para test WISC, WAIS y WPPSI
 img: /u/productos/psicopedagogia/19-cubos-kohs-combinados-test-wisc-wais-wppsi.webp

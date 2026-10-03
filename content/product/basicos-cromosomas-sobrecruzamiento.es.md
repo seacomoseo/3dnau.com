@@ -1,5 +1,5 @@
 ---
-weight: 52
+weight: 41
 slug: cromosomas-sobrecruzamiento
 title: Cromosomas Homólogos y Sobrecruzamiento Meiótico
 img: /u/productos/basicos/cromosomas-sobrecruzamiento.webp

@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 7
 slug: encefalo-humano
 title: Modelo Anatómico de Encéfalo Humano
 img: /u/productos/basicos/encefalo-humano.webp

@@ -1,5 +1,5 @@
 ---
-weight: 34
+weight: 32
 slug: juego-6-anillas-enfen-base-torre-hanoi
 title: Juego de 6 anillas ENFEN + base “Torre de Hanoi”
 img: /u/productos/psicopedagogia/juego-6-anillas-enfen-base-torre-hanoi.webp
