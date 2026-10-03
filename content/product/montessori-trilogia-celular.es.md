@@ -10,6 +10,7 @@ imgs:
 - /u/productos/montessori/trilogia-celular-3.webp
 category:
 - montessori
+- biologia
 ---
 
 **PACK COMPLETO: Trilogía Celular Integral (Procariota + Eucariota Animal + Eucariota Vegetal)**
