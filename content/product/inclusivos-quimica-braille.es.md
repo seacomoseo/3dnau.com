@@ -13,7 +13,7 @@ category:
 - inclusivos
 ---
 
-**B.2. Set de química: Modelado Molecular Universal y Átomos con Simbología Braille**
+**Set de química: Modelado Molecular Universal y Átomos con Simbología Braille**
 
 ## Ideal para
 
