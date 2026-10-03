@@ -1,7 +1,7 @@
 ---
 weight: 5
 slug: montessori-atomos-braille
-title: Set de Átomos Poliédricos con Código Táctil y Braille
+title: Química orgánica básica Montessori
 img: /u/productos/montessori/atomos-braille.webp
 sum: Set sensorial de átomos poliédricos para explorar la materia, los enlaces y la geometría molecular en primaria.
 price: 60
@@ -11,7 +11,7 @@ category:
 - montessori
 ---
 
-**C.1. Set de Átomos Poliédricos con Código Táctil y Braille para Química Básica**
+**Set de Átomos Poliédricos para Química Básica**
 
 ## Ideal para
 
