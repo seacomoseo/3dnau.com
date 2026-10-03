@@ -11,7 +11,6 @@ price: 105
 imgs:
 - /u/productos/biologia/maqueta-adn-2.webm#mute
 category:
-- biologia
 - repuestos
 ---
 
