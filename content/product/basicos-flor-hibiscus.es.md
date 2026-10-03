@@ -13,7 +13,7 @@ category:
 - basicos-botanica
 ---
 
-**5.2. Modelo de Anatomía Floral Hibiscus sp. (Corte Transversal de Flor Angiosperma)**
+**Modelo de Anatomía Floral Hibiscus sp. (Corte Transversal de Flor Angiosperma)**
 
 ## Ideal para
 
