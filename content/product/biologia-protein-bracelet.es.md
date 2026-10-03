@@ -9,7 +9,6 @@ imgs:
 - /u/productos/biologia/protein-bracelet-2.webm#mute
 - /u/productos/biologia/protein-bracelet-2.webp
 category:
-- biologia
 - repuestos
 ---
 
