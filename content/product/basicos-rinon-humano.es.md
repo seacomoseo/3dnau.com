@@ -13,7 +13,7 @@ category:
 - basicos-anatomia
 ---
 
-**2.4. Modelo Anatómico de Riñón Humano (Corte Coronal con Fijación Magnética)**
+**Modelo Anatómico de Riñón Humano (Corte Coronal con Fijación Magnética)**
 
 ## Ideal para
 
