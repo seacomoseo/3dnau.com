@@ -12,7 +12,7 @@ category:
 - basicos-botanica
 ---
 
-**5.3. Secuencia del Ciclo de Vida y Fructificación del Tomate (Solanum lycopersicum)**
+**Secuencia del Ciclo de Vida y Fructificación del Tomate (Solanum lycopersicum)**
 
 ## Ideal para
 
