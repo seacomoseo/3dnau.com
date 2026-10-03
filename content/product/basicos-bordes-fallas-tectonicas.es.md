@@ -14,7 +14,7 @@ category:
 - basicos-geologia
 ---
 
-**1.1. Set Didáctico de Bordes y Fallas Tectónicas (4 Piezas)**
+**Set Didáctico de Bordes y Fallas Tectónicas (4 Piezas)**
 
 ## Ideal para
 
