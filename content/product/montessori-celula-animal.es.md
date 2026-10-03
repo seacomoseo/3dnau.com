@@ -12,7 +12,7 @@ category:
 - montessori
 ---
 
-**C.5. Modelo Tridimensional de Célula Eucariota Animal Desmontable con Imanes**
+**Modelo Tridimensional de Célula Eucariota Animal Desmontable con Imanes**
 
 ## Ideal para
 
