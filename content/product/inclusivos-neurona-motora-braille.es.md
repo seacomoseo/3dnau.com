@@ -11,9 +11,10 @@ imgs:
 - /u/productos/inclusivos/neurona-motora-braille.mp4#mute
 category:
 - inclusivos
+- basicos-tejidos
 ---
 
-**B.4. Modelo Didáctico de Neurona Motora con Vaina de Mielina y Peana en Braille**
+**Modelo Didáctico de Neurona Motora con Vaina de Mielina y Peana en Braille**
 
 ## Ideal para
 
