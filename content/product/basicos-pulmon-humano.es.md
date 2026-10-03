@@ -6,14 +6,13 @@ img: /u/productos/basicos/pulmon-humano.webp
 sum: Sección anatómica del pulmón con tráquea, bronquios y red vascular diferenciada.
 price: 115
 imgs:
-- /u/productos/basicos/pulmon-humano-2.webp
 - /u/productos/basicos/pulmon-humano.mp4#mute
 category:
 - basicos
 - basicos-anatomia
 ---
 
-**2.3. Modelo Anatómico de Pulmón (Corte Interno y Árbol Bronquial)**
+**Modelo Anatómico de Pulmón (Corte Interno y Árbol Bronquial)**
 
 ## Ideal para
 
