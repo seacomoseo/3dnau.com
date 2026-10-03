@@ -12,7 +12,7 @@ category:
 - basicos-anatomia
 ---
 
-**2.5. Modelo Esquemático del Ojo Humano (Corte Sagital)**
+**Modelo Esquemático del Ojo Humano (Corte Sagital)**
 
 ## Ideal para
 
