@@ -12,7 +12,7 @@ category:
 - basicos-anatomia
 ---
 
-**2.9. Modelo Anatómico de Pelvis Ósea (Pelvis y Sacro)**
+**Modelo Anatómico de Pelvis Ósea (Pelvis y Sacro)**
 
 ## Ideal para
 
