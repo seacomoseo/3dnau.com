@@ -12,7 +12,7 @@ category:
 - basicos-tejidos
 ---
 
-**3.4. Bloque Anatómico de la Piel Humana (Estructura Multicapa y Anexos Cutáneos)**
+**Bloque Anatómico de la Piel Humana (Estructura Multicapa y Anexos Cutáneos)**
 
 ## Ideal para
 
