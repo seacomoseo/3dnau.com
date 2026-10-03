@@ -1,5 +1,5 @@
 ---
-weight: 16
+weight: 17
 slug: pack-3-kits-adn
 title: Pack de 3 Kits ADN Básico (Especial institutos)
 img: /u/productos/biologia/pack-3-kits-adn.webp

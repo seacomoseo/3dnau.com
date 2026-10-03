@@ -1,5 +1,5 @@
 ---
-weight: 13
+weight: 14
 slug: kit-adn-avanzado
 title: Kit ADN Avanzado
 img: /u/img20260103133211.webp

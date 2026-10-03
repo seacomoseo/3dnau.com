@@ -1,5 +1,5 @@
 ---
-weight: 25
+weight: 12
 slug: bomba-sodio-potasio
 title: Bomba Sodio/Potasio
 img: /u/productos/biologia/bomba-sodio-potasio.webp

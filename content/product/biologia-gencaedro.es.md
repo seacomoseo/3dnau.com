@@ -1,5 +1,5 @@
 ---
-weight: 23
+weight: 24
 slug: gencaedro
 title: Gencaedro
 img: /u/productos/biologia/gencaedro.webp
