@@ -14,7 +14,7 @@ category:
 - basicos-anatomia
 ---
 
-**2.2. Modelo Anatómico de Encéfalo Humano (Desmontable con Fijación Magnética)**
+**Modelo Anatómico de Encéfalo Humano (Desmontable con Fijación Magnética)**
 
 ## Ideal para
 
