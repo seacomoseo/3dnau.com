@@ -12,7 +12,7 @@ category:
 - montessori
 ---
 
-**C.6. Modelo Tridimensional de Célula Eucariota Vegetal Desmontable con Imanes**
+**Modelo Tridimensional de Célula Eucariota Vegetal Desmontable con Imanes**
 
 ## Ideal para
 
