@@ -13,7 +13,7 @@ category:
 - basicos-microbiologia
 ---
 
-**4.1. Modelo Esférico de Coronavirus / Virus con Espículas (Proteína S)**
+**Modelo Esférico de Coronavirus / Virus con Espículas (Proteína S)**
 
 ## Ideal para
 
