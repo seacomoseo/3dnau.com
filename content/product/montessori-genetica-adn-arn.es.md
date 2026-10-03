@@ -12,7 +12,7 @@ category:
 - montessori
 ---
 
-**C.2. Kit de Genética Montessori: Modelo de Doble Hélice ADN y ARN**
+**Kit de Genética Montessori: Modelo de Doble Hélice ADN y ARN**
 
 ## Ideal para
 
