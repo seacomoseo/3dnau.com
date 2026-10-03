@@ -12,7 +12,7 @@ category:
 - basicos-microbiologia
 ---
 
-**4.2. Modelo Tridimensional de Bacteriófago (Fago T4 / Virus Complejo)**
+**Modelo Tridimensional de Bacteriófago (Fago T4 / Virus Complejo)**
 
 ## Ideal para
 
