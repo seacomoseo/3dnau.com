@@ -13,7 +13,7 @@ category:
 - basicos-tejidos
 ---
 
-**3.5 Modelo Didáctico de Cromosomas Homólogos y Sobrecruzamiento Meiótico (Crossing-Over) con Unión Magnética**
+**Modelo Didáctico de Cromosomas Homólogos y Sobrecruzamiento Meiótico (Crossing-Over) con Unión Magnética**
 
 ## Ideal para
 
