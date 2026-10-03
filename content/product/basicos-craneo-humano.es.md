@@ -13,7 +13,7 @@ category:
 - basicos-anatomia
 ---
 
-**2.6. Modelo Anatómico de Cráneo Humano**
+**Modelo Anatómico de Cráneo Humano**
 
 ## Ideal para
 
