@@ -1,5 +1,5 @@
 ---
-weight: 21
+weight: 26
 slug: montessori-celula-animal
 title: Célula Eucariota Animal Desmontable Montessori
 img: /u/productos/montessori/celula-animal.webp

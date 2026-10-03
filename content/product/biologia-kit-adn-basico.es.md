@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 16
 slug: kit-adn-basico
 title: Kit ADN Básico
 img: /u/productos/biologia/kit-adn-basico.webp

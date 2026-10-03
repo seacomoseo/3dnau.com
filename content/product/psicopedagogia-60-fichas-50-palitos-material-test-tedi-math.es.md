@@ -1,5 +1,5 @@
 ---
-weight: 20
+weight: 25
 slug: 60-fichas-50-palitos-material-test-tedi-math
 title: 60 Fichas y 50 palitos, material para test Tedi-Math
 img: /u/productos/psicopedagogia/60-fichas-50-palitos-material-test-tedi-math.webp

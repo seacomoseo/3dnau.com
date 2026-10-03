@@ -1,5 +1,5 @@
 ---
-weight: 29
+weight: 33
 slug: protein-bracelet
 title: Protein Bracelet
 img: /u/productos/biologia/protein-bracelet.webp

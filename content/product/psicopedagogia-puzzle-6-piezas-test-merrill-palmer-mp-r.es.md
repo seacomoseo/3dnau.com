@@ -1,5 +1,5 @@
 ---
-weight: 33
+weight: 36
 slug: puzzle-6-piezas-test-merrill-palmer-mp-r
 title: Puzzle de 6 piezas para test Merrill-Palmer MP-R
 img: /u/productos/psicopedagogia/puzzle-6-piezas-test-merrill-palmer-mp-r.webp

@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 3
 slug: quimica-braille
 title: Set de Química y Modelado Molecular con Braille
 img: /u/productos/inclusivos/quimica-braille.webp

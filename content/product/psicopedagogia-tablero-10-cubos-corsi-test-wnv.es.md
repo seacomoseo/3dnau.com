@@ -1,5 +1,5 @@
 ---
-weight: 34
+weight: 37
 slug: tablero-10-cubos-corsi-test-wnv
 title: Tablero con 10 cubos corsi para test WNV
 img: /u/productos/psicopedagogia/tablero-10-cubos-corsi-test-wnv.webp

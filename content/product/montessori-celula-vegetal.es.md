@@ -1,5 +1,5 @@
 ---
-weight: 24
+weight: 28
 slug: montessori-celula-vegetal
 title: Célula Eucariota Vegetal Desmontable Montessori
 img: /u/productos/montessori/celula-vegetal.webp

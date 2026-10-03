@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 12
 slug: montessori-genetica-adn-arn
 title: Kit de Genética Montessori ADN y ARN
 img: /u/productos/montessori/genetica-adn-arn.webp

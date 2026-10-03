@@ -1,5 +1,5 @@
 ---
-weight: 14
+weight: 20
 slug: pliegues-geologicos
 title: Bloque de Pliegues Geológicos
 img: /u/productos/basicos/pliegues-geologicos.webp

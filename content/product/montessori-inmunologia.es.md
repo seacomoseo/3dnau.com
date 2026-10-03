@@ -1,5 +1,5 @@
 ---
-weight: 11
+weight: 15
 slug: montessori-inmunologia
 title: Kit de Inmunología Montessori
 img: /u/productos/montessori/inmunologia.webp

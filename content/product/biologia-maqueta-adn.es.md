@@ -1,5 +1,5 @@
 ---
-weight: 22
+weight: 4
 slug: maqueta-adn
 title: Maqueta ADN
 img: /u/productos/biologia/maqueta-adn.webp

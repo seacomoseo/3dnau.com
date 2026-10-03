@@ -1,5 +1,5 @@
 ---
-weight: 35
+weight: 38
 slug: corazon-humano
 title: Modelo Anatómico de Corazón Humano
 img: /u/productos/basicos/corazon-humano.webp

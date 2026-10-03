@@ -1,5 +1,5 @@
 ---
-weight: 23
+weight: 27
 slug: 9-cubos-kohs-test-wisc-v-wais
 title: 9 Cubos de Kohs para test WISC V y WAIS
 img: /u/productos/psicopedagogia/9-cubos-kohs-test-wisc-v-wais.webp

@@ -1,5 +1,5 @@
 ---
-weight: 32
+weight: 35
 slug: puzzle-4-piezas-test-merrill-palmer-mp-r
 title: Puzzle de 4 piezas para test Merrill-Palmer MP-R
 img: /u/productos/psicopedagogia/puzzle-4-piezas-test-merrill-palmer-mp-r.webp

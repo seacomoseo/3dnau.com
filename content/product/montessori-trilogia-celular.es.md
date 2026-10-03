@@ -1,5 +1,5 @@
 ---
-weight: 31
+weight: 2
 slug: montessori-trilogia-celular
 title: Pack Completo Trilogía Celular
 img: /u/productos/montessori/trilogia-celular.webp

@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 9
 slug: bordes-fallas-tectonicas
 title: Set de Bordes y Fallas Tectónicas
 img: /u/productos/basicos/bordes-fallas-tectonicas.webp
