@@ -1,5 +1,5 @@
 ---
-weight: 50
+weight: 49
 slug: neurona-eferente
 title: Neurona Eferente y Botón Sináptico
 img: /u/productos/basicos/neurona-eferente.webp

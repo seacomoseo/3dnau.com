@@ -1,5 +1,5 @@
 ---
-weight: 51
+weight: 50
 slug: vaso-sanguineo
 title: Corte de Vaso Sanguíneo y Elementos Formes
 img: /u/productos/basicos/vaso-sanguineo.webp

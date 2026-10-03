@@ -1,5 +1,5 @@
 ---
-weight: 58
+weight: 57
 slug: ciclo-tomate
 title: Ciclo de Vida y Fructificación del Tomate
 img: /u/productos/basicos/ciclo-tomate.webp
