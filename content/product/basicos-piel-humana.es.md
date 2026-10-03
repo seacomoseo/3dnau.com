@@ -1,5 +1,5 @@
 ---
-weight: 50
+weight: 49
 slug: piel-humana
 title: Bloque Anatómico de la Piel Humana
 img: /u/productos/basicos/piel-humana.webp

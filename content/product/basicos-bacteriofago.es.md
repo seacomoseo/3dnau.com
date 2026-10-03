@@ -1,5 +1,5 @@
 ---
-weight: 52
+weight: 51
 slug: bacteriofago
 title: Modelo Tridimensional de Bacteriófago
 img: /u/productos/basicos/bacteriofago.webp

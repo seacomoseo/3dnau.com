@@ -1,5 +1,5 @@
 ---
-weight: 54
+weight: 53
 slug: flor-hibiscus
 title: Modelo de Anatomía Floral Hibiscus sp
 img: /u/productos/basicos/flor-hibiscus.webp

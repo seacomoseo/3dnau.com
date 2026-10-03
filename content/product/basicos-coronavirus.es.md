@@ -1,5 +1,5 @@
 ---
-weight: 51
+weight: 50
 slug: coronavirus
 title: Modelo Esférico de Coronavirus
 img: /u/productos/basicos/coronavirus.webp

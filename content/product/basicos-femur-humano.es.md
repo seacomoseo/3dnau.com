@@ -1,5 +1,5 @@
 ---
-weight: 45
+weight: 44
 slug: femur-humano
 title: Modelo a Escala de Fémur Humano
 img: /u/productos/basicos/femur-humano.webp

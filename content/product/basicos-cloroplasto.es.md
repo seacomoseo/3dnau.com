@@ -1,5 +1,5 @@
 ---
-weight: 53
+weight: 52
 slug: cloroplasto
 title: Modelo Didáctico de Cloroplasto
 img: /u/productos/basicos/cloroplasto.webp
