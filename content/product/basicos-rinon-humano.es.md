@@ -1,5 +1,5 @@
 ---
-weight: 45
+weight: 44
 slug: rinon-humano
 title: Modelo Anatómico de Riñón Humano
 img: /u/productos/basicos/rinon-humano.webp

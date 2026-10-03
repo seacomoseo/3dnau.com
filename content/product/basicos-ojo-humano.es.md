@@ -1,5 +1,5 @@
 ---
-weight: 43
+weight: 42
 slug: ojo-humano
 title: Modelo Esquemático del Ojo Humano
 img: /u/productos/basicos/ojo-humano.webp

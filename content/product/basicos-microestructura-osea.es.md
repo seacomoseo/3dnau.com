@@ -1,5 +1,5 @@
 ---
-weight: 47
+weight: 46
 slug: microestructura-osea
 title: Modelo de Microestructura Ósea
 img: /u/productos/basicos/microestructura-osea.webp

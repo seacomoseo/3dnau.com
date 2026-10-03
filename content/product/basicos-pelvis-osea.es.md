@@ -1,5 +1,5 @@
 ---
-weight: 48
+weight: 47
 slug: pelvis-osea
 title: Modelo Anatómico de Pelvis Ósea
 img: /u/productos/basicos/pelvis-osea.webp
