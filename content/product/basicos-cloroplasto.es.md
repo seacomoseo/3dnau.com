@@ -13,7 +13,7 @@ category:
 - basicos-botanica
 ---
 
-**5.1. Modelo Didáctico de Cloroplasto y Ultraestructura Tilacoidal**
+**Modelo Didáctico de Cloroplasto y Ultraestructura Tilacoidal**
 
 ## Ideal para
 
