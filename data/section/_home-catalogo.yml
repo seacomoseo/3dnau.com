@@ -1,16 +1,14 @@
-name: Catálogo
+name: Inicio ➡️ Catálogo
+size: md
 boxes:
 - title: '{{ get sections.catalogo.title }}'
   sub: '{{ get sections.catalogo.sub }}'
-  icon: '{{ get sections.catalogo.icon }}'
-  space: 2
-  box:
-    icon_pos: side
-  boxes:
-  - list:
-      type: product
-      max: 12
-    box:
-      cols: 4
-      slider: true
-  - md: '{{% get sections.catalogo.md %}}'
+  icon: widgets
+  list:
+    type: category
+    category:
+    - catalogo
+- md: <br>
+- url: '{{ get sections.catalogo.url }}'
+  label: '{{ get sections.catalogo.label }}'
+  pin: widgets

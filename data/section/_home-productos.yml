@@ -1,0 +1,16 @@
+name: Inicio ➡️ Productos Destacados
+menu_btn: hide
+size: md
+boxes:
+- title: '{{ get sections.productos.title }}'
+  sub: '{{ get sections.productos.sub }}'
+  icon: featured_seasonal_and_gifts
+  list:
+    type: product
+    max: 12
+  box:
+    slider: true
+- md: <br>
+- url: '{{ get sections.productos.url }}'
+  label: '{{ get sections.productos.label }}'
+  pin: featured_seasonal_and_gifts

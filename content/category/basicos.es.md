@@ -1,9 +1,11 @@
 ---
 slug: basicos
-title: Básicos
+title: Básicos Ciencias
 weight: 40
 sum: Modelos 3D seleccionados para apoyar la enseñanza de geología, anatomía, microbiología y botánica.
 icon: school
+category:
+- catalogo
 seo:
   title: Básicos de Aula & Aprendizaje (Modelos Seleccionados)
 ---

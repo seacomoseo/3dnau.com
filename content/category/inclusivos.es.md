@@ -1,9 +1,11 @@
 ---
 slug: inclusivos
-title: Inclusivos
+title: Línea Inclusiva
 weight: 30
 sum: Modelos científicos hápticos y accesibles con simbología Braille y alto contraste.
 icon: sign_language
+category:
+- catalogo
 seo:
   title: Línea Inclusiva & Braille
 ---

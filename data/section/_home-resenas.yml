@@ -1,4 +1,4 @@
-name: Reseñas
+name: Inicio ➡️ Reseñas
 id: resenas
 boxes:
 - title: '{{ get sections.resenas.title }}'

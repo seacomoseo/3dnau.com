@@ -4,12 +4,9 @@ menu:
   - url: /
     icon: home
     label: Inicio
-  - url: /productos/
-    icon: featured_seasonal_and_gifts
-    label: Productos
-  - url: /categorias/
-    icon: bookmark
-    label: Categorías
+  - url: /categoria/catalogo/
+    icon: widgets
+    label: Catálogo
 footer:
   div: squares
   color: dark

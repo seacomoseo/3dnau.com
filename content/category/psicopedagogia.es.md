@@ -1,9 +1,11 @@
 ---
 slug: psicopedagogia
-title: Psicopedagogía
+title: Psico&shy;pedagogía
 weight: 50
 sum: Material manipulativo para evaluación psicopedagógica, cognición y desarrollo.
 icon: neurology
+category:
+- catalogo
 seo:
   title: Material 3D para tests psicopedagógicos
 ---

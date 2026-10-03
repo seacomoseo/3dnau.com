@@ -1,9 +1,11 @@
 ---
 slug: repuestos
-title: Repuestos
+title: Respuestos y Especiales
 weight: 60
 sum: Reposición, ampliación y fabricación a medida de piezas para materiales 3D.
 icon: build
+category:
+- catalogo
 seo:
   title: Taller de Repuestos & Piezas Especiales
   noindex: true

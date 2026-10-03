@@ -12,9 +12,13 @@ tpl:
   - file: base-share
   list:
     cols: 3
+    cols_vs: 1.25
+    fade: alt
+    fade_to: t
     align: center
     inset: true
     hs: 6
+    hs_vs: 5
     md: hide
     label: Ver producto
     btn: cta

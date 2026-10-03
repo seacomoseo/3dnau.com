@@ -1,9 +1,11 @@
 ---
 slug: montessori
-title: Montessori
+title: Montessori Primaria
 weight: 20
 sum: Recursos sensoriales para explorar ciencias naturales de forma autónoma en primaria.
 icon: child_care
+category:
+- catalogo
 seo:
   title: Espacio Montessori 3DNAU (Primaria)
 ---

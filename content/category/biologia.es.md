@@ -1,11 +1,13 @@
 ---
 slug: biologia
-title: Biología
+title: Método 3DNAU
 weight: 10
 sum: Kits y modelos 3D para explorar genética, biología celular y fisiología.
 icon: genetics
+category:
+- catalogo
 seo:
-  title: Material 3D de biología y ciencias naturales
+  title: Método 3DNAU | Material 3D de biología y ciencias naturales
 ---
 
 **Kits Didácticos: Método 3DNAU (Secundaria: ESO y Bachillerato)**

@@ -1,4 +1,4 @@
-name: Nosotros
+name: Inicio ➡️ Nosotros
 # size: md
 boxes:
 - title: '{{ get sections.nosotros.title }}'

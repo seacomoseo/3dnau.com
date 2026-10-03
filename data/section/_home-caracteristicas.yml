@@ -1,4 +1,4 @@
-name: Características
+name: Inicio ➡️ Características
 boxes:
 - title: '{{ get sections.caracteristicas.title }}'
   sub: '{{ get sections.caracteristicas.sub }}'

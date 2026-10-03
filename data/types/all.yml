@@ -3,11 +3,15 @@ tpl:
   bg:
     color: white
   menu:
-    sticky: none
     logo: true
     logo_align: center
+    sticky: none
+    # sticky: auto
+    size: xl
     clear: true
-    size: sm
+    color: dark
+    # hide_custom: true
+    # auto: home
   section:
   - size: sm
   sections:

@@ -1,4 +1,4 @@
-name: FAQ
+name: Inicio ➡️ FAQ
 size: md
 boxes:
 - title: '{{ get sections.faq.title }}'

@@ -1,4 +1,4 @@
-name: Nuestra Propuesta
+name: Inicio ➡️ Nuestra Propuesta
 boxes:
 - title: '{{ get sections.propuesta.title }}'
   sub: '{{ get sections.propuesta.sub }}'

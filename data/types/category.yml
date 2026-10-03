@@ -11,10 +11,16 @@ tax_of:
 tpl:
   list:
     cols: 3
+    cols_vs: 2
+    fade: alt
+    fade_to: t
     align: center
-    inset: true
+    shade: false
     icon: bookmark
+    icon_size: 5
     line: true
-    hs: 3
-    label: Ver productos
+    hs: 5.5
+    hs_vs: 5
+    md: hide
+    label: Ver
     btn: cta

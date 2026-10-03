@@ -2,12 +2,6 @@ title: Páginas Únicas
 base: single
 weight: 0
 tpl:
-  menu:
-    sticky: auto
-    size: xl
-    color: dark
-    hide_custom: true
-    auto: same-modals
   callnow: auto
   section:
   - color: white

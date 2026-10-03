@@ -7,11 +7,16 @@ seo:
   title: 3DNAU - Material Didáctico Manipulativo para Educación
   desc: llll➤ Material didáctico manipulativo para educación. ✅ Modelos 3D mediante impresión de materiales reponibles ✅ adaptados a todos los estudiantes.
 tpl:
+  menu:
+    sticky: auto
+    hide_custom: true
+    auto: same
   sections:
   - file: _home-_hero
   - file: _home-nuestra-propuesta
   - file: _home-caracteristicas
   - file: _home-nosotros
+  - file: _home-productos
   - file: _home-catalogo
   - file: _home-resenas
   - file: _home-faq
@@ -118,16 +123,16 @@ sections:
         En 2025, 3DNAU fue distinguido con dos premios clave en el ámbito del emprendimiento y la innovación: el **Santander X Award (Universidad de Murcia)** y un reconocimiento de la **Cámara de Comercio de Murcia**, validando el potencial y la relevancia de nuestro proyecto.
     - title: Perfil del Equipo
       md: Los fundadores cuentan con un equipo diverso de profesionales y el apoyo incondicional de la Universidad de Murcia, combinando la experiencia en educación y ciencias, con el talento de expertos diseñadores especializados en tecnologías de impresión 3D.
+  productos: 
+    title: Productos
+    sub: Destacados
+    url: /productos/
+    label: Ver todos
   catalogo:
     title: Catálogo
-    sub: Productos
-    icon: widgets
-    md: |-
-      <br>
-
-      [[::widgets:: Ver todos]](/productos/)
-
-      [[::bookmark:: Ver categorías]](/categorias/)
+    sub: Categorías Principales
+    url: /categoria/catalogo/
+    label: Ver categorías
   resenas:
     title: Reseñas
     sub: Entrevistas personales

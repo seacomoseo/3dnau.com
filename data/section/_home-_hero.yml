@@ -1,4 +1,4 @@
-name: Hero
+name: Inicio ➡️ Hero
 color: dark
 bi: '{{ get sections.header.bi }}'
 full: true

@@ -76,8 +76,16 @@
     sub:
     - var: title
     - var: sub
-    - var: icon
-    - var: md
+    - var: url
+    - var: label
+  - label: Productos
+    name: productos
+    widget: dict
+    sub:
+    - var: title
+    - var: sub
+    - var: url
+    - var: label
   - label: Reseñas
     name: resenas
     widget: dict
