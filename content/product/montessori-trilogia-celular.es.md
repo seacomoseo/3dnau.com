@@ -12,7 +12,7 @@ category:
 - montessori
 ---
 
-**C.8. PACK COMPLETO: Trilogía Celular Integral (Procariota + Eucariota Animal + Eucariota Vegetal)**
+**PACK COMPLETO: Trilogía Celular Integral (Procariota + Eucariota Animal + Eucariota Vegetal)**
 
 ## Ideal para
 
