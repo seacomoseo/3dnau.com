@@ -5,13 +5,12 @@ tpl:
   menu:
     logo: true
     logo_align: center
-    sticky: none
-    # sticky: auto
+    sticky: auto
     size: xl
     clear: true
     color: dark
-    # hide_custom: true
-    # auto: home
+    hide_custom: true
+    auto: home
   section:
   - size: sm
   sections:

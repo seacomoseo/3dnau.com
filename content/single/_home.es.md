@@ -7,10 +7,6 @@ seo:
   title: 3DNAU - Material Didáctico Manipulativo para Educación
   desc: llll➤ Material didáctico manipulativo para educación. ✅ Modelos 3D mediante impresión de materiales reponibles ✅ adaptados a todos los estudiantes.
 tpl:
-  menu:
-    sticky: auto
-    hide_custom: true
-    auto: same
   sections:
   - file: _home-_hero
   - file: _home-nuestra-propuesta
