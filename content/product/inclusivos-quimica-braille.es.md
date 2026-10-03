@@ -1,7 +1,7 @@
 ---
 weight: 3
 slug: quimica-braille
-title: Set de Química y Modelado Molecular con Braille
+title: Set de Química Orgánica y Modelado Molecular
 img: /u/productos/inclusivos/quimica-braille.webp
 sum: Sistema modular de átomos y enlaces con contraste cromático y nomenclatura química en relieve Braille.
 price: 160
