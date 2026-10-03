@@ -12,7 +12,7 @@ category:
 - basicos-anatomia
 ---
 
-**2.7. Modelo a Escala de Fémur Humano**
+**Modelo a Escala de Fémur Humano**
 
 ## Ideal para
 
