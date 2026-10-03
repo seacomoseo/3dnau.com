@@ -7,7 +7,6 @@ price: 30
 imgs:
 - /u/productos/biologia/gencaedro.webm#mute
 category:
-- biologia
 - repuestos
 ---
 
