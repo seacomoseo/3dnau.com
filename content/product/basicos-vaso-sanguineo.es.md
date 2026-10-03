@@ -13,7 +13,7 @@ category:
 - basicos-tejidos
 ---
 
-**3.2. Corte Transversal de Vaso Sanguíneo y Elementos Formes (Hematología)**
+**Corte Transversal de Vaso Sanguíneo y Elementos Formes (Hematología)**
 
 ## Ideal para
 
