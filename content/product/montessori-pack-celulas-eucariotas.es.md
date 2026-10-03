@@ -10,6 +10,7 @@ imgs:
 - /u/productos/montessori/pack-celulas-eucariotas-3.webp
 category:
 - montessori
+- biologia
 ---
 
 **C.7. PACK ESPECIAL: Dúo Células Eucariotas (Animal y Vegetal) con Enlace Magnético**
