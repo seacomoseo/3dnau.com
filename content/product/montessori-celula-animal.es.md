@@ -1,7 +1,7 @@
 ---
 weight: 38
 slug: montessori-celula-animal
-title: Célula Eucariota Animal Desmontable Montessori
+title: Célula Eucariota Animal Desmontable
 img: /u/productos/montessori/celula-animal.webp
 sum: Modelo magnético de célula animal para explorar los orgánulos y sus funciones de forma autónoma.
 price: 85
@@ -10,6 +10,7 @@ imgs:
 - /u/productos/montessori/celula-animal-3.webp
 category:
 - montessori
+- biologia
 ---
 
 **Modelo Tridimensional de Célula Eucariota Animal Desmontable con Imanes**
