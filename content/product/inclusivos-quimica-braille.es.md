@@ -11,6 +11,7 @@ imgs:
 - /u/productos/inclusivos/quimica-braille.webm#mute
 category:
 - inclusivos
+- biologia
 ---
 
 **Set de química: Modelado Molecular Universal y Átomos con Simbología Braille**
