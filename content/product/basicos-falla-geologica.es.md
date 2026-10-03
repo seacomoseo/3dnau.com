@@ -12,7 +12,7 @@ category:
 - basicos-geologia
 ---
 
-**1.2. Bloque de Falla Geológica con Intrusión y Estratos**
+**Bloque de Falla Geológica con Intrusión y Estratos**
 
 ## Ideal para
 
