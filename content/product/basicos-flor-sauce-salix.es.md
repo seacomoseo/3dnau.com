@@ -14,7 +14,7 @@ category:
 - basicos-botanica
 ---
 
-**5.4. Modelo de Flor Unisexual y Dioecia del Sauce (Salix)**
+**Modelo de Flor Unisexual y Dioecia del Sauce (Salix)**
 
 ## Ideal para
 
