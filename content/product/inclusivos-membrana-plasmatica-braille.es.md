@@ -13,7 +13,7 @@ category:
 - inclusivos
 ---
 
-**B.3. Modelo de Membrana Plasmática (Mosaico Fluido) con Peana en Braille**
+**Modelo de Membrana Plasmática (Mosaico Fluido) con Peana en Braille**
 
 ## Ideal para
 
