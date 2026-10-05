@@ -7,6 +7,7 @@ sum: Ojo en corte sagital para comprender las túnicas oculares, el cristalino y
 price: 25
 imgs:
 - /u/productos/basicos/ojo-humano-2.webp
+- /u/img_20260901_190027.webp
 category:
 - basicos
 - basicos-anatomia
