@@ -10,6 +10,7 @@ imgs:
 - /u/productos/inclusivos/quimica-braille-3.webp
 - /u/productos/inclusivos/quimica-braille.webm#mute
 - /u/img20260906164138.webp
+- /u/img_20260906_164703.webp
 category:
 - inclusivos
 - biologia
