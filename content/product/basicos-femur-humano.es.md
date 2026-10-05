@@ -6,7 +6,8 @@ img: /u/productos/basicos/femur-humano.webp
 sum: Fémur a escala con los principales accidentes óseos para estudiar locomoción y biomecánica.
 price: 50
 imgs:
-- /u/productos/basicos/femur-humano-2.webp
+- /u/img_20260901_191938.webp
+- /u/img_20260901_192151.webp
 category:
 - basicos
 - basicos-anatomia
