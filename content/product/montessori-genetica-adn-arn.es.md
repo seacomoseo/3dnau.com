@@ -6,7 +6,7 @@ img: /u/adn.jpg
 sum: Modelo manipulativo de ADN y ARN para explorar la herencia, la replicación y la transcripción en primaria.
 price: 65
 imgs:
-- /u/whatsapp-image-2026-09-07-at-00-57-22.webp
+- /u/whatsapp-image-2026-10-02-at-18-17-27.webp
 category:
 - montessori
 ---
