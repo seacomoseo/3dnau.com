@@ -7,6 +7,7 @@ sum: Sección anatómica del pulmón con tráquea, bronquios y red vascular dife
 price: 115
 imgs:
 - /u/productos/basicos/pulmon-humano.mp4#mute
+- /u/img_20260816_130720.webp
 category:
 - basicos
 - basicos-anatomia
