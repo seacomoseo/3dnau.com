@@ -6,7 +6,6 @@ img: /u/productos/basicos/coronavirus.webp
 sum: Modelo a macroescala de virus con envoltura lipídica y espículas de proteína S.
 price: 15
 imgs:
-- /u/productos/basicos/coronavirus-2.webp
 - /u/productos/basicos/coronavirus.mp4#mute
 category:
 - basicos
