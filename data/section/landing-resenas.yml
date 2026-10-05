@@ -5,10 +5,10 @@ boxes:
   sub: '{{ get landing_sections.resenas.sub }}'
   icon: '{{ get landing_sections.resenas.icon }}'
   review:
-    cols: 3
+    cols: 2
     color: white
     slider: true
-    time: 8
+    # time: 8
   get:
   - from: landing_sections.resenas.reviews
     to: reviews

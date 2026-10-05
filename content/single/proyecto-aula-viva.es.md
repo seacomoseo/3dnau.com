@@ -137,7 +137,10 @@ landing_sections:
     reviews:
     - title: '[@ainoabiogeo](https://www.instagram/ainoabiogeo)'
       sub: Profesora de Biología y Geología y divulgadora en Instagram
-      md: Mis alumnos se quedan asombrados cuando pueden ver e interactuar en tres dimensiones con las estructuras que explicamos en clase. Los modelos de 3DNAU no solo facilitan mi labor como docente, sino que despiertan un interés real en el laboratorio. Es la herramienta que todo Departamento de Ciencias debería tener.
+      md: |
+        Mis alumnos se quedan asombrados cuando pueden ver e interactuar en tres dimensiones con las estructuras que explicamos en clase. Los modelos de 3DNAU no solo facilitan mi labor como docente, sino que despiertan un interés real en el laboratorio. Es la herramienta que todo Departamento de Ciencias debería tener.
+
+        ![9/16](/u/resenas/ainoa-biogeo.mp4)
   download:
     title: Únete al cambio
     sub: Recibe el Dossier Pedagógico y las condiciones especiales de la campaña

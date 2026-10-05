@@ -1,3 +1,4 @@
+@use 'css/_variables' as *;
 // Hover
 :root,
 .bg {
@@ -36,6 +37,19 @@
   .img__in    { @include show-from(0); --show-from: perspective(50em) rotateX(-90deg); }
   .box__title { @include show-from(1); }
   .md         { @include show-from(2); }
+}
+
+// Landing
+
+@media (min-width: $vl) {
+  .review:first-child .md {
+    display: flex;
+    align-items: center;
+    gap: 2em;
+    > * {
+      width: 100%;
+    }
+  }
 }
 
 // Footer
