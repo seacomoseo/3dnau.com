@@ -8,7 +8,7 @@ price: 99
 imgs:
 - /u/productos/basicos/encefalo-humano-2.webp
 - /u/productos/basicos/encefalo-humano-3.webp
-- /u/productos/basicos/encefalo-humano.mp4#mute
+- /u/img_20260906_004858.webp
 category:
 - basicos
 - basicos-anatomia
