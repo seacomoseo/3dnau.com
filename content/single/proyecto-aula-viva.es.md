@@ -2,10 +2,8 @@
 weight: null
 slug: proyecto-aula-viva
 title: Proyecto Aula Viva
-draft: false
-date: 2026-09-27
-expiryDate: 2026-11-01
 img: /u/landing/dossier-3dnau-compartir.jpg
+draft: false
 sum: Descarga gratis el Dossier Pedagógico "Proyecto Aula Viva" y descubre cómo transformar tu aula de biología en un laboratorio interactivo, inclusivo y sin pantallas.
 seo:
   title: Proyecto Aula Viva - Dossier Pedagógico 3DNAU
@@ -27,6 +25,7 @@ tpl:
   - file: landing-about
   - file: landing-resenas
   - file: landing-download
+date: 2026-09-27
 landing_sections:
   header:
     bi: /u/img20260521105920.webp
@@ -52,7 +51,7 @@ landing_sections:
     title: Recupera la ilusión
     sub: Es hora de que tus alumnos "toquen" la ciencia
     icon: school
-    img: /u/landing/adn-2.webp
+    img: /u/img_20260521_191732.webp
     md: |-
       Imagina cruzar la puerta del laboratorio y, por primera vez en mucho tiempo, sentir que **tienes el control absoluto de la atención**. No hay móviles, no hay bostezos; solo el sonido de piezas encajando y el murmullo de alumnos que colaboran entusiasmados para resolver un reto científico real.
 
@@ -138,13 +137,11 @@ landing_sections:
     reviews:
     - title: '[@ainoabiogeo](https://www.instagram/ainoabiogeo)'
       sub: Profesora de Biología y Geología y divulgadora en Instagram
-      md: |
-        Mis alumnos se quedan asombrados cuando pueden ver e interactuar en tres dimensiones con las estructuras que explicamos en clase. Los modelos de 3DNAU no solo facilitan mi labor como docente, sino que despiertan un interés real en el laboratorio. Es la herramienta que todo Departamento de Ciencias debería tener.
-
-      # ![9/16](/u/resenas/ainoa-biogeo.mp4)
+      md: Mis alumnos se quedan asombrados cuando pueden ver e interactuar en tres dimensiones con las estructuras que explicamos en clase. Los modelos de 3DNAU no solo facilitan mi labor como docente, sino que despiertan un interés real en el laboratorio. Es la herramienta que todo Departamento de Ciencias debería tener.
   download:
     title: Únete al cambio
     sub: Recibe el Dossier Pedagógico y las condiciones especiales de la campaña
     icon: download
-    md: '<iframe width="540" height="305" src="https://bdcf5d59.sibforms.com/v2/serve/MUIFALAc7_CK82ieIVpoPK9bGS6jjYM3qZoD7_E8i2qmLHANNFtEOmoTVq0qYDShC2l0dt5R_nz10gZwaVGYnQdj36-60SrwFxPafeRsMr1lrEcwn5sACS5pKO3aVTeE-IchwecRSi6WpbjDHdACHNz4asxZmcOEW86PklxHacPcyg9i9jFRhw_1KB2TCUOUJ8cmZBS6W6BVnCBZFg==" frameborder="0" scrolling="auto" allowfullscreen style="height:880px"></iframe>'
+    md: <iframe width="540" height="305" src="https://bdcf5d59.sibforms.com/v2/serve/MUIFALAc7_CK82ieIVpoPK9bGS6jjYM3qZoD7_E8i2qmLHANNFtEOmoTVq0qYDShC2l0dt5R_nz10gZwaVGYnQdj36-60SrwFxPafeRsMr1lrEcwn5sACS5pKO3aVTeE-IchwecRSi6WpbjDHdACHNz4asxZmcOEW86PklxHacPcyg9i9jFRhw_1KB2TCUOUJ8cmZBS6W6BVnCBZFg==" frameborder="0" scrolling="auto" allowfullscreen style="height:880px"></iframe>
+expiryDate: 2026-11-01
 ---
