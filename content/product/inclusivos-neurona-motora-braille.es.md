@@ -6,7 +6,6 @@ img: /u/productos/inclusivos/neurona-motora-braille.webp
 sum: Modelo táctil de neurona motora con soma, dendritas, axón mielinizado y peana con señalética Braille.
 price: 20
 imgs:
-- /u/productos/inclusivos/neurona-motora-braille-2.webp
 - /u/productos/inclusivos/neurona-motora-braille-3.webp
 - /u/productos/inclusivos/neurona-motora-braille.mp4#mute
 category:
