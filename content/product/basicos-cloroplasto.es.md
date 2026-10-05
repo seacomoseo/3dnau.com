@@ -6,8 +6,8 @@ img: /u/productos/basicos/cloroplasto.webp
 sum: Cloroplasto en corte longitudinal con doble membrana, estroma, tilacoides y grana.
 price: 25
 imgs:
-- /u/productos/basicos/cloroplasto-2.webp
 - /u/productos/basicos/cloroplasto-3.webp
+- /u/img_20260901_190410.webp
 category:
 - basicos
 - basicos-botanica

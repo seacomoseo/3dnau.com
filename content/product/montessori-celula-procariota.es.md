@@ -7,8 +7,6 @@ sum: Modelo manipulativo de bacteria para descubrir la organización de una cél
 price: 60
 imgs:
 - /u/productos/montessori/celula-procariota-2.webp
-- /u/productos/montessori/celula-procariota-3.webp
-- /u/productos/montessori/celula-procariota.mp4#mute
 category:
 - montessori
 - biologia

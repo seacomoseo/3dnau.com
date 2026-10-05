@@ -7,6 +7,7 @@ sum: Bloque multicapa de piel con epidermis, dermis, hipodermis y anexos cutáne
 price: 99
 imgs:
 - /u/productos/basicos/piel-humana-2.webp
+- /u/img_20260816_155809.webp
 category:
 - basicos
 - basicos-tejidos

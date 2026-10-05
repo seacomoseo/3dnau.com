@@ -6,8 +6,8 @@ img: /u/productos/basicos/cromosomas-sobrecruzamiento.webp
 sum: Modelo magnético para simular la recombinación genética y la formación de quiasmas.
 price: 34
 imgs:
-- /u/productos/basicos/cromosomas-sobrecruzamiento-2.webp
 - /u/productos/basicos/cromosomas-sobrecruzamiento.webm#mute
+- /u/img20260908102148.webp
 category:
 - basicos
 - basicos-tejidos

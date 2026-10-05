@@ -6,7 +6,8 @@ img: /u/productos/basicos/ciclo-tomate.webp
 sum: Secuencia manipulativa de brote, hoja, flor y fruto para estudiar el desarrollo de una planta.
 price: 36
 imgs:
-- /u/productos/basicos/ciclo-tomate-2.webp
+- /u/img_20260901_191407.webp
+- /u/img_20260901_191032.webp
 category:
 - basicos
 - basicos-botanica

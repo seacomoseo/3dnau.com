@@ -6,8 +6,7 @@ img: /u/productos/basicos/flor-hibiscus.webp
 sum: Flor de hibisco seccionada para estudiar verticilos florales, órganos reproductores y óvulos.
 price: 45
 imgs:
-- /u/productos/basicos/flor-hibiscus-2.webp
-- /u/productos/basicos/flor-hibiscus-3.webp
+- /u/img_20260901_191255.webp
 category:
 - basicos
 - basicos-botanica
