@@ -6,8 +6,10 @@ img: /u/productos/basicos/rinon-humano.webp
 sum: Riñón en corte coronal con nefrona macroscópica, vasos, pelvis renal y uréter.
 price: 40
 imgs:
+- /u/img20260813113245.webp
 - /u/productos/basicos/rinon-humano-2.webp
 - /u/productos/basicos/rinon-humano.mp4#mute
+- /u/img_20260816_130911.webp
 category:
 - basicos
 - basicos-anatomia
