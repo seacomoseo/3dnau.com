@@ -1,6 +1,6 @@
 name: Solución Aula Viva
 id: solucion
-size: md
+size: lg
 boxes:
 - title: '{{ get landing_sections.solution.title }}'
   sub: '{{ get landing_sections.solution.sub }}'
@@ -11,6 +11,7 @@ boxes:
     gap_vs: 2
     align_y: center
     align: left
+    sides: true
   boxes:
   - get:
     - from: landing_sections.solution.md

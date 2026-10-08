@@ -1,5 +1,5 @@
 ---
-weight: 43
+weight: 41
 slug: ojo-humano
 title: Modelo Esquemático del Ojo Humano
 img: /u/productos/basicos/ojo-humano.webp
@@ -7,12 +7,16 @@ sum: Ojo en corte sagital para comprender las túnicas oculares, el cristalino y
 price: 25
 imgs:
 - /u/productos/basicos/ojo-humano-2.webp
+- /u/img_20260901_190027.webp
 category:
 - basicos
 - basicos-anatomia
+commerce_id: d4adb5bc-3dd0-4299-9554-64c3266a90f6
+sku: 3DNAU-0017
+commerce_active: true
 ---
 
-**2.5. Modelo Esquemático del Ojo Humano (Corte Sagital)**
+**Modelo Esquemático del Ojo Humano (Corte Sagital)**
 
 ## Ideal para
 

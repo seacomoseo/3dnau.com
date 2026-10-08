@@ -7,13 +7,15 @@ sum: Cráneo adulto con mandíbula, suturas craneales, órbitas, cavidad nasal y
 price: 110
 imgs:
 - /u/productos/basicos/craneo-humano-2.webp
-- /u/productos/basicos/craneo-humano.webm#mute
 category:
 - basicos
 - basicos-anatomia
+commerce_id: e4cc3261-8f70-412a-a235-180dffa02ee8
+sku: 3DNAU-0007
+commerce_active: true
 ---
 
-**2.6. Modelo Anatómico de Cráneo Humano**
+**Modelo Anatómico de Cráneo Humano**
 
 ## Ideal para
 

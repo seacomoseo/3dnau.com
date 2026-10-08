@@ -7,13 +7,17 @@ sum: Corazón seccionado con cavidades, válvulas, tabiques y grandes vasos visi
 price: 105
 imgs:
 - /u/productos/basicos/corazon-humano-2.webp
+- /u/img20260813112931.webp
 - /u/productos/basicos/corazon-humano.mp4#mute
 category:
 - basicos
 - basicos-anatomia
+commerce_id: 154d9a91-d7fe-46de-9301-5f217b98c14c
+sku: 3DNAU-0005
+commerce_active: true
 ---
 
-**2.1. Modelo Anatómico de Corazón Humano (Corte longitudinal con fijación magnética)**
+**Modelo Anatómico de Corazón Humano (Corte longitudinal con fijación magnética)**
 
 ## Ideal para
 

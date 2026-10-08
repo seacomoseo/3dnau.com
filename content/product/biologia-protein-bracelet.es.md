@@ -9,8 +9,10 @@ imgs:
 - /u/productos/biologia/protein-bracelet-2.webm#mute
 - /u/productos/biologia/protein-bracelet-2.webp
 category:
-- biologia
 - repuestos
+commerce_id: 0e599ed6-8120-47ed-afa1-d6e77b1f5c77
+sku: 3DNAU-0034
+commerce_active: true
 ---
 
 ## Descripción

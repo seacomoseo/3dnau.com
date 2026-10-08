@@ -1,5 +1,5 @@
 ---
-weight: 56
+weight: 54
 slug: flor-sauce-salix
 title: Modelo de Flor Unisexual y Dioecia del Sauce
 img: /u/productos/basicos/flor-sauce-salix.webp
@@ -12,9 +12,12 @@ imgs:
 category:
 - basicos
 - basicos-botanica
+commerce_id: defb19ec-e5fb-4f38-9021-a565c111f3b6
+sku: 3DNAU-0013
+commerce_active: true
 ---
 
-**5.4. Modelo de Flor Unisexual y Dioecia del Sauce (Salix)**
+**Modelo de Flor Unisexual y Dioecia del Sauce (Salix)**
 
 ## Ideal para
 

@@ -6,14 +6,17 @@ img: /u/productos/basicos/cromosomas-sobrecruzamiento.webp
 sum: Modelo magnético para simular la recombinación genética y la formación de quiasmas.
 price: 34
 imgs:
-- /u/productos/basicos/cromosomas-sobrecruzamiento-2.webp
 - /u/productos/basicos/cromosomas-sobrecruzamiento.webm#mute
+- /u/img20260908102148.webp
 category:
 - basicos
 - basicos-tejidos
+commerce_id: 0918d109-2838-4e6e-9edc-f5e8970b75c3
+sku: 3DNAU-0008
+commerce_active: true
 ---
 
-**3.5 Modelo Didáctico de Cromosomas Homólogos y Sobrecruzamiento Meiótico (Crossing-Over) con Unión Magnética**
+**Modelo Didáctico de Cromosomas Homólogos y Sobrecruzamiento Meiótico (Crossing-Over) con Unión Magnética**
 
 ## Ideal para
 

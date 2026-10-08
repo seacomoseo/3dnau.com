@@ -3,6 +3,7 @@ node_modules
 public
 resources
 .hugo_build.lock
-package-lock.json
 .vscode
 jsconfig.json
+functions/_commerce/catalog.generated.js
+!package-lock.json

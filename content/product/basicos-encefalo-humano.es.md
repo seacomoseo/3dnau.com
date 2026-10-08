@@ -8,13 +8,16 @@ price: 99
 imgs:
 - /u/productos/basicos/encefalo-humano-2.webp
 - /u/productos/basicos/encefalo-humano-3.webp
-- /u/productos/basicos/encefalo-humano.mp4#mute
+- /u/img_20260906_004858.webp
 category:
 - basicos
 - basicos-anatomia
+commerce_id: 7d558e38-db5f-4273-b1cb-14ee59859a0b
+sku: 3DNAU-0009
+commerce_active: true
 ---
 
-**2.2. Modelo Anatómico de Encéfalo Humano (Desmontable con Fijación Magnética)**
+**Modelo Anatómico de Encéfalo Humano (Desmontable con Fijación Magnética)**
 
 ## Ideal para
 

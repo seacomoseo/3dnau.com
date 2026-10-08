@@ -1,19 +1,21 @@
 ---
 weight: 36
 slug: montessori-celula-procariota
-title: Célula Procariota Desmontable Montessori
+title: Célula Procariota Desmontable
 img: /u/productos/montessori/celula-procariota.webp
 sum: Modelo manipulativo de bacteria para descubrir la organización de una célula procariota por capas.
 price: 60
 imgs:
 - /u/productos/montessori/celula-procariota-2.webp
-- /u/productos/montessori/celula-procariota-3.webp
-- /u/productos/montessori/celula-procariota.mp4#mute
 category:
 - montessori
+- biologia
+commerce_id: 3abbb6e6-38b0-4750-93a2-4fa92a8997db
+sku: 3DNAU-0041
+commerce_active: true
 ---
 
-**C.4. Modelo ultraestructural de Célula Procariota (Bacteria) Desmontable**
+**Modelo ultraestructural de Célula Procariota (Bacteria) Desmontable**
 
 ## Ideal para
 

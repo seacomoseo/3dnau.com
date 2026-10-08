@@ -1,5 +1,5 @@
 ---
-weight: 49
+weight: 47
 slug: neurona-eferente
 title: Neurona Eferente y Botón Sináptico
 img: /u/productos/basicos/neurona-eferente.webp
@@ -10,9 +10,12 @@ imgs:
 category:
 - basicos
 - basicos-tejidos
+commerce_id: ac18aa43-0c6a-4ed4-aae4-1d4c39c9ef01
+sku: 3DNAU-0016
+commerce_active: true
 ---
 
-**3.1. Modelo Anatómico Manipulativo de Neurona Eferente / Botón Sináptico**
+**Modelo Anatómico Manipulativo de Neurona Eferente / Botón Sináptico**
 
 ## Ideal para
 

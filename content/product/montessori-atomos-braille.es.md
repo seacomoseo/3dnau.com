@@ -7,8 +7,13 @@ sum: Set sensorial de átomos poliédricos para explorar la materia, los enlaces
 price: 60
 imgs:
 - /u/productos/montessori/atomos-braille.webm#mute
+- /u/img20260906164138.webp
+- /u/img_20260906_140943.webp
 category:
 - montessori
+commerce_id: f1ed5042-e4e9-44db-b0bb-94e7c5e49514
+sku: 3DNAU-0039
+commerce_active: true
 ---
 
 **Set de Átomos Poliédricos para Química Básica**

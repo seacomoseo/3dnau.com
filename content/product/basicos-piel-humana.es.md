@@ -1,5 +1,5 @@
 ---
-weight: 51
+weight: 49
 slug: piel-humana
 title: Bloque Anatómico de la Piel Humana
 img: /u/productos/basicos/piel-humana.webp
@@ -7,12 +7,16 @@ sum: Bloque multicapa de piel con epidermis, dermis, hipodermis y anexos cutáne
 price: 99
 imgs:
 - /u/productos/basicos/piel-humana-2.webp
+- /u/img_20260816_155809.webp
 category:
 - basicos
 - basicos-tejidos
+commerce_id: 74e02e0f-c985-4231-b813-42db03f06c7d
+sku: 3DNAU-0019
+commerce_active: true
 ---
 
-**3.4. Bloque Anatómico de la Piel Humana (Estructura Multicapa y Anexos Cutáneos)**
+**Bloque Anatómico de la Piel Humana (Estructura Multicapa y Anexos Cutáneos)**
 
 ## Ideal para
 

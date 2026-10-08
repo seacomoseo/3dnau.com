@@ -1,16 +1,21 @@
 ---
-weight: 47
+weight: 45
 slug: microestructura-osea
 title: Modelo de Microestructura Ósea
 img: /u/productos/basicos/microestructura-osea.webp
 sum: Sección de hueso compacto y esponjoso con corteza, trabéculas, canal medular y periostio.
 price: 35
+imgs:
+- /u/img20260813132515.webp
 category:
 - basicos
 - basicos-anatomia
+commerce_id: df4d2c0a-2d25-4071-bfc3-47472764f193
+sku: 3DNAU-0015
+commerce_active: true
 ---
 
-**2.8. Modelo de Microestructura Ósea (Hueso Compacto y Esponjoso)**
+**Modelo de Microestructura Ósea (Hueso Compacto y Esponjoso)**
 
 ## Ideal para
 

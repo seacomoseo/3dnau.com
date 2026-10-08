@@ -1,18 +1,22 @@
 ---
-weight: 57
+weight: 55
 slug: ciclo-tomate
 title: Ciclo de Vida y Fructificación del Tomate
 img: /u/productos/basicos/ciclo-tomate.webp
 sum: Secuencia manipulativa de brote, hoja, flor y fruto para estudiar el desarrollo de una planta.
 price: 36
 imgs:
-- /u/productos/basicos/ciclo-tomate-2.webp
+- /u/img_20260901_191407.webp
+- /u/img_20260901_191032.webp
 category:
 - basicos
 - basicos-botanica
+commerce_id: 983e50c2-4a73-48a2-96e2-c491373b63bd
+sku: 3DNAU-0003
+commerce_active: true
 ---
 
-**5.3. Secuencia del Ciclo de Vida y Fructificación del Tomate (Solanum lycopersicum)**
+**Secuencia del Ciclo de Vida y Fructificación del Tomate (Solanum lycopersicum)**
 
 ## Ideal para
 

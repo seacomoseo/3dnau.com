@@ -1,19 +1,21 @@
 ---
-weight: 55
+weight: 53
 slug: flor-hibiscus
 title: Modelo de Anatomía Floral Hibiscus sp
 img: /u/productos/basicos/flor-hibiscus.webp
 sum: Flor de hibisco seccionada para estudiar verticilos florales, órganos reproductores y óvulos.
 price: 45
 imgs:
-- /u/productos/basicos/flor-hibiscus-2.webp
-- /u/productos/basicos/flor-hibiscus-3.webp
+- /u/img_20260901_191255.webp
 category:
 - basicos
 - basicos-botanica
+commerce_id: bf5d567e-5d5b-4384-bf9b-5c3774e66f10
+sku: 3DNAU-0012
+commerce_active: true
 ---
 
-**5.2. Modelo de Anatomía Floral Hibiscus sp. (Corte Transversal de Flor Angiosperma)**
+**Modelo de Anatomía Floral Hibiscus sp. (Corte Transversal de Flor Angiosperma)**
 
 ## Ideal para
 

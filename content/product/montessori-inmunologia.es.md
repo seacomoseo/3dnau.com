@@ -5,14 +5,14 @@ title: Kit de Inmunología Montessori
 img: /u/productos/montessori/inmunologia.webp
 sum: Sistema manipulativo para explorar el sistema inmune, los anticuerpos, los patógenos y la barrera biológica.
 price: 50
-imgs:
-- /u/productos/montessori/inmunologia-2.webp
-- /u/productos/montessori/inmunologia.webm#mute
 category:
 - montessori
+commerce_id: 6f61b878-f7ed-4f87-82b5-96cfdcd269ad
+sku: 3DNAU-0044
+commerce_active: true
 ---
 
-**C.3. Kit de Inmunología Montessori: Sistema Inmune, Anticuerpos y Barrera Biológica**
+**Kit de Inmunología Montessori: Sistema Inmune, Anticuerpos y Barrera Biológica**
 
 ## Ideal para
 

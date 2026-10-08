@@ -1,18 +1,20 @@
 ---
 weight: 15
 slug: montessori-genetica-adn-arn
-title: Kit de Genética Montessori ADN y ARN
-img: /u/productos/montessori/genetica-adn-arn.webp
+title: Kit de Genética Montessori
+img: /u/adn.jpg
 sum: Modelo manipulativo de ADN y ARN para explorar la herencia, la replicación y la transcripción en primaria.
 price: 65
 imgs:
-- /u/productos/montessori/genetica-adn-arn-2.webp
-- /u/productos/montessori/genetica-adn-arn.webm#mute
+- /u/whatsapp-image-2026-10-02-at-18-17-27.webp
 category:
 - montessori
+commerce_id: e77bcd18-f42c-4184-b8ca-84c773fc5843
+sku: 3DNAU-0043
+commerce_active: true
 ---
 
-**C.2. Kit de Genética Montessori: Modelo de Doble Hélice ADN y ARN**
+**Kit de Genética Montessori: Modelo de Doble Hélice ADN y ARN**
 
 ## Ideal para
 

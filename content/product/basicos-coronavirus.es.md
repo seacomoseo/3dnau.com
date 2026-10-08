@@ -1,19 +1,21 @@
 ---
-weight: 52
+weight: 50
 slug: coronavirus
 title: Modelo Esférico de Coronavirus
 img: /u/productos/basicos/coronavirus.webp
 sum: Modelo a macroescala de virus con envoltura lipídica y espículas de proteína S.
 price: 15
 imgs:
-- /u/productos/basicos/coronavirus-2.webp
 - /u/productos/basicos/coronavirus.mp4#mute
 category:
 - basicos
 - basicos-microbiologia
+commerce_id: 3bf9df58-ca82-464c-8bb8-22a701481226
+sku: 3DNAU-0006
+commerce_active: true
 ---
 
-**4.1. Modelo Esférico de Coronavirus / Virus con Espículas (Proteína S)**
+**Modelo Esférico de Coronavirus / Virus con Espículas (Proteína S)**
 
 ## Ideal para
 

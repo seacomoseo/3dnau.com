@@ -1,0 +1,6 @@
+enabled: true
+functions_enabled: true
+origin: https://3dnau.com
+currency: eur
+stock_mode: made_to_order
+checkout_approved: false

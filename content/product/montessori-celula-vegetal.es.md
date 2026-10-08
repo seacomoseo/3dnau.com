@@ -1,7 +1,7 @@
 ---
 weight: 37
 slug: montessori-celula-vegetal
-title: Célula Eucariota Vegetal Desmontable Montessori
+title: Célula Eucariota Vegetal Desmontable
 img: /u/productos/montessori/celula-vegetal.webp
 sum: Modelo magnético de célula vegetal para explorar pared celular, cloroplastos, vacuola y fotosíntesis.
 price: 85
@@ -10,9 +10,13 @@ imgs:
 - /u/productos/montessori/celula-vegetal-3.webp
 category:
 - montessori
+- biologia
+commerce_id: abb74808-24c6-4797-98c2-7768ac8e18b1
+sku: 3DNAU-0042
+commerce_active: true
 ---
 
-**C.6. Modelo Tridimensional de Célula Eucariota Vegetal Desmontable con Imanes**
+**Modelo Tridimensional de Célula Eucariota Vegetal Desmontable con Imanes**
 
 ## Ideal para
 

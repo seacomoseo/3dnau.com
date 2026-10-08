@@ -10,9 +10,12 @@ imgs:
 category:
 - basicos
 - basicos-geologia
+commerce_id: 035889f3-fc5b-45ef-b5c8-a5ee7e64cddd
+sku: 3DNAU-0010
+commerce_active: true
 ---
 
-**1.2. Bloque de Falla Geológica con Intrusión y Estratos**
+**Bloque de Falla Geológica con Intrusión y Estratos**
 
 ## Ideal para
 

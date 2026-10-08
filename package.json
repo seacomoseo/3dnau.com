@@ -1,6 +1,6 @@
 {
   "name": "3dnau.com",
-  "version": "7.0.0",
+  "version": "7.1.0",
   "type": "module",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.1",
@@ -8,10 +8,12 @@
     "sass-embedded": "^1.100.0",
     "sharp": "^0.35.3",
     "sharp-ico": "^0.1.5",
-    "simple-icons": "^15.12.0"
+    "simple-icons": "^15.12.0",
+    "yaml": "2.9.1"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node scripts/commerce-products.js validate && node --test scripts/commerce-products.test.js && npm --prefix themes/sansoul run test:commerce",
+    "test:commerce:d1": "npm --prefix themes/sansoul run test:commerce:d1",
     "server": "npx http-server public"
   },
   "repository": {

@@ -5,14 +5,15 @@ title: Pack Células Eucariotas Animal y Vegetal
 img: /u/productos/montessori/pack-celulas-eucariotas.webp
 sum: Dúo de modelos desmontables para comparar de forma directa la célula animal y la célula vegetal.
 price: 159
-imgs:
-- /u/productos/montessori/pack-celulas-eucariotas-2.webp
-- /u/productos/montessori/pack-celulas-eucariotas-3.webp
 category:
 - montessori
+- biologia
+commerce_id: 4b187637-c1ab-4a62-a96a-e7e0b8747ab0
+sku: 3DNAU-0045
+commerce_active: true
 ---
 
-**C.7. PACK ESPECIAL: Dúo Células Eucariotas (Animal y Vegetal) con Enlace Magnético**
+**PACK ESPECIAL: Dúo Células Eucariotas (Animal y Vegetal) con Enlace Magnético**
 
 ## Ideal para
 

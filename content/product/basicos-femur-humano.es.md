@@ -1,18 +1,22 @@
 ---
-weight: 46
+weight: 44
 slug: femur-humano
 title: Modelo a Escala de Fémur Humano
 img: /u/productos/basicos/femur-humano.webp
 sum: Fémur a escala con los principales accidentes óseos para estudiar locomoción y biomecánica.
 price: 50
 imgs:
-- /u/productos/basicos/femur-humano-2.webp
+- /u/img_20260901_191938.webp
+- /u/img_20260901_192151.webp
 category:
 - basicos
 - basicos-anatomia
+commerce_id: b66d326e-e576-4d81-99f6-25de0b2c982e
+sku: 3DNAU-0011
+commerce_active: true
 ---
 
-**2.7. Modelo a Escala de Fémur Humano**
+**Modelo a Escala de Fémur Humano**
 
 ## Ideal para
 

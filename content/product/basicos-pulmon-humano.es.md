@@ -1,19 +1,22 @@
 ---
-weight: 44
+weight: 42
 slug: pulmon-humano
 title: Modelo Anatómico de Pulmón y Árbol Bronquial
 img: /u/productos/basicos/pulmon-humano.webp
 sum: Sección anatómica del pulmón con tráquea, bronquios y red vascular diferenciada.
 price: 115
 imgs:
-- /u/productos/basicos/pulmon-humano-2.webp
 - /u/productos/basicos/pulmon-humano.mp4#mute
+- /u/img_20260816_130720.webp
 category:
 - basicos
 - basicos-anatomia
+commerce_id: 0af5d2e1-da93-4803-8c82-ae786a88f09e
+sku: 3DNAU-0021
+commerce_active: true
 ---
 
-**2.3. Modelo Anatómico de Pulmón (Corte Interno y Árbol Bronquial)**
+**Modelo Anatómico de Pulmón (Corte Interno y Árbol Bronquial)**
 
 ## Ideal para
 
